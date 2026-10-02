@@ -1,0 +1,4 @@
+- 2026-10-02 | openalex | 1242 records | years 2019-2026
+- 2026-10-02 | arxiv | 324 records | years 2019-2026
+- 2026-10-02 | s2 | 803 records | years 2019-2026
+- 2026-10-02 | dblp | NOT USED: dblp.org search API now returns an anti-bot challenge page (HTTP 200, HTML); DBLP-indexed venues are covered through OpenAlex and Semantic Scholar
