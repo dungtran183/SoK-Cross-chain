@@ -1,0 +1,21 @@
+{
+ "A_retrieved": 4,
+ "A_size": 11,
+ "A_missed": [
+  "Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains",
+  "A Survey on Blockchain Interoperability: Past, Present, and Future Trends",
+  "Cross-chain Transactions",
+  "A Privacy Protection Scheme for Cross-Chain Transactions Based on Group Signature and Relay Chain",
+  "Proof-of-Work Sidechains",
+  "Cross-chain exchange by transaction dependence with conditional transaction method",
+  "CONNECTOR: Enhancing the Traceability of Decentralized Bridge Applications via Automatic Cross-chain Transaction Association"
+ ],
+ "B_retrieved": 53,
+ "B_size": 57,
+ "B_missed": [
+  "A Survey on Blockchain Interoperability: Past, Present, and Future Trends",
+  "CrossTrust-IoT: An Adaptive Reinforcement Learning Framework for Cross-Chain Trust in Resource-Constrained IoT Networks",
+  "XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets",
+  "DAVE-CC: A decentralized, access-controlled, verifiable ecosystem for cross-chain academic credential management"
+ ]
+}

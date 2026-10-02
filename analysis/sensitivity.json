@@ -1,0 +1,25 @@
+{
+ "excluded": 132,
+ "by_reason": {
+  "EC5": 33,
+  "EC4": 99
+ },
+ "excluded_stage": {
+  "D": 121,
+  "-": 4,
+  "R": 7
+ },
+ "included_stage": {
+  "D": 87,
+  "-": 23,
+  "survey": 16,
+  "R": 27,
+  "P": 11,
+  "X": 4
+ },
+ "design_share_included": 0.518,
+ "design_share_with_excluded": 0.693,
+ "t3_policy_excluded": 21,
+ "t3_impl_excluded": 0,
+ "runtime_with_excluded": 34
+}

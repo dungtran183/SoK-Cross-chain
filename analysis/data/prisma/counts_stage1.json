@@ -1,0 +1,16 @@
+{
+  "identified_per_source": {
+    "arxiv": 324,
+    "openalex": 1242,
+    "semanticscholar": 803
+  },
+  "identified_total": 2369,
+  "duplicates_removed": 977,
+  "after_dedup": 1392,
+  "auto_excluded": {
+    "R2": 420,
+    "R3": 61
+  },
+  "auto_excluded_total": 481,
+  "to_title_abstract_screening": 911
+}
