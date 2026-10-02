@@ -1,0 +1,68 @@
+{
+  "name": "Cross-Chain Bridge Attacks",
+  "slug": "kb",
+  "keywords": [
+    "cross-chain bridge attack",
+    "cross-chain bridge vulnerability detection",
+    "blockchain interoperability security",
+    "cross-chain message verification",
+    "bridge exploit transaction detection"
+  ],
+  "research_directions": [],
+  "description": "PRISMA systematic review corpus for ACIIDS 2027 SoK",
+  "created": "2026-10-02",
+  "last_updated": "2026-10-02",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "venue_policy": {
+    "keep_tiers": [
+      0,
+      1
+    ],
+    "review_tiers": [
+      2
+    ],
+    "allow_preprints": "recognized-authors-only",
+    "min_impact_factor": 5,
+    "require_q1_wos_scopus": true,
+    "excluded": [
+      "MDPI",
+      "Hindawi",
+      "Frontiers",
+      "IEEE Access",
+      "Scientific Reports",
+      "mega-journals"
+    ]
+  },
+  "discovery": {
+    "sources": [
+      "semanticscholar",
+      "openalex",
+      "crossref",
+      "arxiv"
+    ],
+    "per_query_limit": 30,
+    "year_min": 2018,
+    "accept_threshold": 5,
+    "review_threshold": 3
+  },
+  "credentials": {
+    "openathens_scope": "",
+    "openathens_redirector": "",
+    "email_for_polite_pool": "",
+    "semantic_scholar_api_key": "",
+    "note": "Set credentials.env keys for the Selenium crawler via env vars, never commit passwords. See reference/download-guide.md."
+  },
+  "outputs": {
+    "dashboard": true,
+    "latex_pdf": true,
+    "html_report": true
+  },
+  "stats": {
+    "papers": 0,
+    "downloaded": 0,
+    "cite_only": 0
+  }
+}

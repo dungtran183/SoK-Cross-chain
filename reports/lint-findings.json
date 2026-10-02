@@ -1,0 +1,737 @@
+{
+  "generated": "2026-10-02",
+  "summary": {
+    "papers_scanned": 168,
+    "registry_papers": 168,
+    "error": 7,
+    "warning": 18,
+    "info": 78
+  },
+  "by_check": {
+    "M11": 85,
+    "M9": 18
+  },
+  "findings": [
+    {
+      "id": "M11-001",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/agustin2025-bads-real-time.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-002",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/anon2022-overview-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-003",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/anon2022-sok-decentralized-finance.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-004",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/anon2025-dave-cc-decentralized.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-005",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/bertino2025-p2c2t-preserving-privacy.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-006",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/chaurasia2026-proof-repute-consensus.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M9-001",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/chen2022-xscope-hunting-cross.md",
+      "message": "thin sota/foundational card (<12 body lines)"
+    },
+    {
+      "id": "M9-002",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/chen2022-xscope-hunting-cross.md",
+      "message": "sota/foundational card lacks ## Key Results"
+    },
+    {
+      "id": "M11-007",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/chen2022-xscope-hunting-cross.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-008",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/chen2025-security-analysis-web3.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-009",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/correia2024-benchmarking-blockchain-bridge.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M9-003",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/correia2024-xchainwatcher-identifying-anom.md",
+      "message": "thin sota/foundational card (<12 body lines)"
+    },
+    {
+      "id": "M9-004",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/correia2024-xchainwatcher-identifying-anom.md",
+      "message": "sota/foundational card lacks ## Key Results"
+    },
+    {
+      "id": "M11-010",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/correia2025-automatic-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-011",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/cortesi2025-cross-chain-smart.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-012",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/cortesi2025-double-spending-attacks.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-013",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/davi2026-fuzzing-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-014",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/errett2026-contagion-decentralized-infras.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-015",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/espinoza2025-comparative-security-analysis.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-016",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/gorzny2022-sok-not-quite.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-017",
+      "check": "M11",
+      "severity": "error",
+      "file": "papers/halder2026-slac-ib-secure.md",
+      "message": "excluded venue 'Cluster Computing' (excluded publisher/venue 'cluster computing')"
+    },
+    {
+      "id": "M11-018",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/han2026-ltras-linkable-threshold.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-019",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/hardjono2024-sok-security-privacy.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-020",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/hei2022-cross-chain-jamming.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-021",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/hei2026-cr2p-collaborative-regulatory.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-022",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/herlihy2021-hedging-against-sore.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-023",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/hu2024-calculation-selection-scheme.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-024",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/juels2019-tesseract-real-time.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-025",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/knottenbelt2019-sok-communication-across.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-026",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/li2022-secure-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-027",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/li2022-security-privacy-challenges.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-028",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/liao2025-cifgviewer-detecting-cross.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-029",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/lin2024-security-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-030",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/liu2022-zerocross-sidechain-based.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-031",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/loke2022-notary-group-based.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-032",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/ma2025-who-constitute-vasps.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-033",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/maffei2024-alba-dawn-scalable.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-034",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/mandal2025-4-swap-achieving.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-035",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/matthes2026-cross-chain-arbitrage.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-036",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/muthukkumarasamy2023-formal-verification-burn.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-037",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/muthukkumarasamy2025-wormhole-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-038",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/muthukkumarasamy2026-anomaly-detection-cross.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-039",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/nazirkhanova2023-interchain-timestamping-mesh.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-040",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/nishad2022-atomic-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-041",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/pham2024-chainsniper-machine-learning.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-042",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/pham2025-acheron-market-based.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-043",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/pham2025-veribridge-real-time.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-044",
+      "check": "M11",
+      "severity": "error",
+      "file": "papers/pham2026-crossguard-multi-modal.md",
+      "message": "excluded venue 'Cluster Computing' (excluded publisher/venue 'cluster computing')"
+    },
+    {
+      "id": "M11-045",
+      "check": "M11",
+      "severity": "error",
+      "file": "papers/pham2026-evolutionary-soft-computing.md",
+      "message": "excluded venue 'Applied Soft Computing' (excluded publisher/venue 'soft computing')"
+    },
+    {
+      "id": "M11-046",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/pham2026-povichain-lightweight-verifiab.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-047",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/pham2026-zk-htlc-formally.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-048",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/ramesh2020-general-purpose-atomic.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-049",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/ruan2024-xsema-novel-framework.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M9-005",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/savage2024-count-monte-crypto.md",
+      "message": "thin sota/foundational card (<12 body lines)"
+    },
+    {
+      "id": "M9-006",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/savage2024-count-monte-crypto.md",
+      "message": "sota/foundational card lacks ## Key Results"
+    },
+    {
+      "id": "M11-050",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/schifanella2023-mp-htlc-enabling.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-051",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/schneider2023-highguard-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-052",
+      "check": "M11",
+      "severity": "error",
+      "file": "papers/schulte2022-decentralized-cross-blockchain.md",
+      "message": "excluded venue 'Cluster Computing' (excluded publisher/venue 'cluster computing')"
+    },
+    {
+      "id": "M11-053",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/shi2019-cross-chain-bribery.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M9-007",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/song2022-zkbridge-trustless-cross.md",
+      "message": "thin sota/foundational card (<12 body lines)"
+    },
+    {
+      "id": "M9-008",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/song2022-zkbridge-trustless-cross.md",
+      "message": "sota/foundational card lacks ## Key Results"
+    },
+    {
+      "id": "M11-054",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/song2022-zkbridge-trustless-cross.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-055",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/stewart2025-trustless-bridges-random.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M9-009",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/su2024-safeguarding-blockchain-ecosys.md",
+      "message": "thin sota/foundational card (<12 body lines)"
+    },
+    {
+      "id": "M9-010",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/su2024-safeguarding-blockchain-ecosys.md",
+      "message": "sota/foundational card lacks ## Key Results"
+    },
+    {
+      "id": "M11-056",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/su2024-safeguarding-blockchain-ecosys.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-057",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/suboti2025-formal-verification-fail.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-058",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/sun2024-cross-chain-access.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-059",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/sun2026-detecting-sybil-attacks.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-060",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/tessone2024-seamlessly-transferring-assets.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-061",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/tessone2025-tracing-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-062",
+      "check": "M11",
+      "severity": "error",
+      "file": "papers/vadlamani2024-intelligent-blockchain-based.md",
+      "message": "excluded venue 'Multimedia tools and applications' (excluded publisher/venue 'multimedia tools and applications')"
+    },
+    {
+      "id": "M11-063",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/valiorgue2024-agnostic-secure-interoperabili.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-064",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/verdian2023-implementing-secure-bridges.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-065",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/viswanath2022-trustboost-boosting-trust.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-066",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/wan2023-survey-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-067",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/wang2023-attacks-against-cross.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-068",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/wang2024-relay-network-based.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-069",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/wang2025-piecing-together-jigsaw.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-070",
+      "check": "M11",
+      "severity": "error",
+      "file": "papers/wang2025-privacy-preserving-cross.md",
+      "message": "excluded venue 'Cluster Computing' (excluded publisher/venue 'cluster computing')"
+    },
+    {
+      "id": "M11-071",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/wu2024-detecting-fake-deposit.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M9-011",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/wu2025-bridgeguard-checking-external.md",
+      "message": "thin sota/foundational card (<12 body lines)"
+    },
+    {
+      "id": "M9-012",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/wu2025-bridgeguard-checking-external.md",
+      "message": "sota/foundational card lacks ## Key Results"
+    },
+    {
+      "id": "M11-072",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/wu2026-cross-chain-laundering.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-073",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/wu2026-stalled-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-074",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/xiang2022-dciv-decentralized-cross.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-075",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/xiang2024-blockchain-cross-chain.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-076",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/xiao2025-pace-privacy-preserving.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-077",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/xu2025-warning-timeout-t.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-078",
+      "check": "M11",
+      "severity": "error",
+      "file": "papers/yao2025-secure-cross-chain.md",
+      "message": "excluded venue 'Cluster Computing' (excluded publisher/venue 'cluster computing')"
+    },
+    {
+      "id": "M11-079",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/zhang2023-formal-analysis-ibc.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-080",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/zhang2023-test-case-generation.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-081",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/zhang2024-framework-efficient-cross.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-082",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/zhang2025-empirical-study-cross.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-083",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/zhang2026-securing-hashed-timelock.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M9-013",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/zheng2024-smartaxe-detecting-cross.md",
+      "message": "thin sota/foundational card (<12 body lines)"
+    },
+    {
+      "id": "M9-014",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/zheng2024-smartaxe-detecting-cross.md",
+      "message": "sota/foundational card lacks ## Key Results"
+    },
+    {
+      "id": "M9-015",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/zheng2025-bridgeshield-enhancing-securit.md",
+      "message": "thin sota/foundational card (<12 body lines)"
+    },
+    {
+      "id": "M9-016",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/zheng2025-bridgeshield-enhancing-securit.md",
+      "message": "sota/foundational card lacks ## Key Results"
+    },
+    {
+      "id": "M9-017",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/zheng2025-track-trace-automatically.md",
+      "message": "thin sota/foundational card (<12 body lines)"
+    },
+    {
+      "id": "M9-018",
+      "check": "M9",
+      "severity": "warning",
+      "file": "papers/zheng2025-track-trace-automatically.md",
+      "message": "sota/foundational card lacks ## Key Results"
+    },
+    {
+      "id": "M11-084",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/zhu2024-cross-chain-abnormal.md",
+      "message": "venue tier 2 (other) below keep policy"
+    },
+    {
+      "id": "M11-085",
+      "check": "M11",
+      "severity": "info",
+      "file": "papers/zindros2019-proof-stake-sidechains.md",
+      "message": "venue tier 2 (other) below keep policy"
+    }
+  ]
+}

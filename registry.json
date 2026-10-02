@@ -1,0 +1,2417 @@
+{
+  "version": "1.0",
+  "papers": [
+    {
+      "id": "abbadi2019-atomic-commitment-across",
+      "title": "Atomic commitment across blockchains",
+      "year": 2019,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/abbadi2019-atomic-commitment-across.md",
+      "integrated": "2026-10-02",
+      "arxiv": "1905.02847",
+      "doi": "10.14778/3397230.3397231",
+      "venue": "Proceedings of the VLDB Endowment"
+    },
+    {
+      "id": "agustin2025-bads-real-time",
+      "title": "BADS: Real-Time Anomaly Detection and Reporting for Cross-Chain Bridges Using Large Language Models",
+      "year": 2025,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml"
+      ],
+      "novelty": "complementary",
+      "card": "papers/agustin2025-bads-real-time.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/caisais68078.2025.11440752",
+      "venue": "2025 International Conference on Artificial Intelligence Science and Applications in Industry and Society (CAISAIS)"
+    },
+    {
+      "id": "akcora2025-hedge-funds-swamp",
+      "title": "Hedge Funds on a Swamp: Analyzing Patterns, Vulnerabilities, and Defense Measures in Blockchain Bridges",
+      "year": 2025,
+      "type": "empirical",
+      "domains": [
+        "incident-measurement"
+      ],
+      "novelty": "complementary",
+      "card": "papers/akcora2025-hedge-funds-swamp.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2507.06156",
+      "doi": "10.48550/arxiv.2507.06156",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "anon2019-xclaim-trustless-interoperable",
+      "title": "XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets",
+      "year": 2019,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/anon2019-xclaim-trustless-interoperable.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/SP.2019.00085",
+      "venue": "IEEE S&P"
+    },
+    {
+      "id": "anon2021-survey-blockchain-interoperabi",
+      "title": "A Survey on Blockchain Interoperability: Past, Present, and Future Trends",
+      "year": 2021,
+      "type": "survey",
+      "domains": [
+        "survey-interoperability"
+      ],
+      "novelty": "survey",
+      "card": "papers/anon2021-survey-blockchain-interoperabi.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3471140",
+      "venue": "ACM Computing Surveys"
+    },
+    {
+      "id": "anon2022-overview-cross-chain",
+      "title": "An overview on cross-chain: Mechanism, platforms, challenges and advances",
+      "year": 2022,
+      "type": "survey",
+      "domains": [
+        "survey-interoperability"
+      ],
+      "novelty": "survey",
+      "card": "papers/anon2022-overview-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.comnet.2022.109378",
+      "venue": "Computer Networks"
+    },
+    {
+      "id": "anon2022-sok-decentralized-finance",
+      "title": "SoK: Decentralized Finance (DeFi)",
+      "year": 2022,
+      "type": "survey",
+      "domains": [
+        "survey-defi-smart-contract"
+      ],
+      "novelty": "survey",
+      "card": "papers/anon2022-sok-decentralized-finance.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3558535.3559780",
+      "venue": "ACM AFT"
+    },
+    {
+      "id": "anon2023-exploring-blockchains-interope",
+      "title": "Exploring Blockchains Interoperability: A Systematic Survey",
+      "year": 2023,
+      "type": "survey",
+      "domains": [
+        "survey-interoperability"
+      ],
+      "novelty": "survey",
+      "card": "papers/anon2023-exploring-blockchains-interope.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3573897",
+      "venue": "ACM Computing Surveys"
+    },
+    {
+      "id": "anon2023-sok-decentralized-finance",
+      "title": "SoK: Decentralized Finance (DeFi) Attacks",
+      "year": 2023,
+      "type": "survey",
+      "domains": [
+        "survey-defi-smart-contract"
+      ],
+      "novelty": "survey",
+      "card": "papers/anon2023-sok-decentralized-finance.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/SP46215.2023.10179435",
+      "venue": "IEEE S&P"
+    },
+    {
+      "id": "anon2025-dave-cc-decentralized",
+      "title": "DAVE-CC: A decentralized, access-controlled, verifiable ecosystem for cross-chain academic credential management",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/anon2025-dave-cc-decentralized.md",
+      "integrated": "2026-10-02",
+      "venue": "Journal of Information Security and Applications"
+    },
+    {
+      "id": "anon2026-crosstrust-iot-adaptive",
+      "title": "CrossTrust-IoT: An adaptive reinforcement learning framework for cross-chain trust in resource-constrained IoT networks",
+      "year": 2026,
+      "type": "system",
+      "domains": [
+        "rt-trust-reputation"
+      ],
+      "novelty": "complementary",
+      "card": "papers/anon2026-crosstrust-iot-adaptive.md",
+      "integrated": "2026-10-02",
+      "venue": "IEEE Internet of Things Journal"
+    },
+    {
+      "id": "arote2026-mind-gap-liquidity",
+      "title": "Mind the Gap: Liquidity Poisoning Attacks on Multihop Cross-Chain Arbitrage",
+      "year": 2026,
+      "type": "empirical",
+      "domains": [
+        "atk-economic-user"
+      ],
+      "novelty": "complementary",
+      "card": "papers/arote2026-mind-gap-liquidity.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/icbc67748.2026.11575511"
+    },
+    {
+      "id": "banister2021-layerzero-trustless-omnichain",
+      "title": "LayerZero: Trustless Omnichain Interoperability Protocol",
+      "year": 2021,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/banister2021-layerzero-trustless-omnichain.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2110.13871",
+      "doi": "10.48550/arxiv.2110.13871",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "bertino2025-p2c2t-preserving-privacy",
+      "title": "P2C2T: Preserving the Privacy of Cross-Chain Transfer",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/bertino2025-p2c2t-preserving-privacy.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/sp61157.2025.00051",
+      "venue": "IEEE Symposium on Security and Privacy"
+    },
+    {
+      "id": "bertino2026-shifthub-enabling-atomic",
+      "title": "ShiftHub: Enabling Atomic, Unlinkable, and Practical m~1 Cross-Chain Transfer",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/bertino2026-shifthub-enabling-atomic.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tifs.2026.3670535",
+      "venue": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "id": "chaurasia2026-proof-repute-consensus",
+      "title": "Proof of Repute Consensus (PoRC): A decentralized approach to blockchain interoperability",
+      "year": 2026,
+      "type": "system",
+      "domains": [
+        "rt-trust-reputation"
+      ],
+      "novelty": "complementary",
+      "card": "papers/chaurasia2026-proof-repute-consensus.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/s12083-026-02206-w",
+      "venue": "Peer-to-Peer Networking and Applications"
+    },
+    {
+      "id": "chen2022-xscope-hunting-cross",
+      "title": "Xscope: Hunting for Cross-Chain Bridge Attacks",
+      "year": 2022,
+      "type": "system",
+      "domains": [
+        "rt-rule-invariant",
+        "incident-measurement"
+      ],
+      "novelty": "sota",
+      "card": "papers/chen2022-xscope-hunting-cross.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2208.07119",
+      "doi": "10.1145/3551349.3559520",
+      "venue": "International Conference on Automated Software Engineering"
+    },
+    {
+      "id": "chen2024-proof-finalization-self",
+      "title": "Proof of Finalization: A Self-Fulfilling Function of Blockchain",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/chen2024-proof-finalization-self.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tifs.2024.3451355",
+      "venue": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "id": "chen2024-xguard-detecting-inconsistency",
+      "title": "XGuard: Detecting Inconsistency Behaviors of Crosschain Bridges",
+      "year": 2024,
+      "type": "system",
+      "domains": [
+        "rt-rule-invariant"
+      ],
+      "novelty": "complementary",
+      "card": "papers/chen2024-xguard-detecting-inconsistency.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3663529.3663809",
+      "venue": "SIGSOFT FSE Companion"
+    },
+    {
+      "id": "chen2025-security-analysis-web3",
+      "title": "A Security Analysis of Web3.0 Cross-Chain Bridges",
+      "year": 2025,
+      "type": "empirical",
+      "domains": [
+        "incident-measurement"
+      ],
+      "novelty": "complementary",
+      "card": "papers/chen2025-security-analysis-web3.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3727648.3727685",
+      "venue": "Proceedings of the 4th International Conference on Computer, Artificial Intelligence and Control Engineering"
+    },
+    {
+      "id": "cheng2022-cross-channel-scalable",
+      "title": "Cross-Channel: Scalable Off-Chain Channels Supporting Fair and Atomic Cross-Chain Operations",
+      "year": 2022,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/cheng2022-cross-channel-scalable.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2212.07265",
+      "doi": "10.1109/tc.2023.3288765",
+      "venue": "IEEE transactions on computers"
+    },
+    {
+      "id": "cheng2024-ccc-tm-cross",
+      "title": "CCC-TM: Cross-Chain consensus committee method using a trust model",
+      "year": 2024,
+      "type": "system",
+      "domains": [
+        "rt-trust-reputation",
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/cheng2024-ccc-tm-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.ins.2024.120930",
+      "venue": "Information Sciences"
+    },
+    {
+      "id": "choo2023-cross-chain-based",
+      "title": "Cross-Chain-Based Trustworthy Node Identity Governance in Internet of Things",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/choo2023-cross-chain-based.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/jiot.2023.3308130",
+      "venue": "IEEE Internet of Things Journal"
+    },
+    {
+      "id": "correia2023-harmonia-securing-cross",
+      "title": "Harmonia: Securing Cross-Chain Applications Using Zero-Knowledge Proofs",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/correia2023-harmonia-securing-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.36227/techrxiv.170327806.66007684/v1"
+    },
+    {
+      "id": "correia2024-benchmarking-blockchain-bridge",
+      "title": "Benchmarking Blockchain Bridge Aggregators",
+      "year": 2024,
+      "type": "empirical",
+      "domains": [
+        "atk-economic-user",
+        "incident-measurement"
+      ],
+      "novelty": "complementary",
+      "card": "papers/correia2024-benchmarking-blockchain-bridge.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/blockchain62396.2024.00015",
+      "venue": "International Congress on Blockchain and Applications"
+    },
+    {
+      "id": "correia2024-hephaestus-modeling-analysis",
+      "title": "Hephaestus: Modeling, Analysis, and Performance Evaluation of Cross-Chain Transactions",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/correia2024-hephaestus-modeling-analysis.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tr.2023.3336246",
+      "venue": "IEEE Transactions on Reliability"
+    },
+    {
+      "id": "correia2024-xchainwatcher-identifying-anom",
+      "title": "XChainWatcher: Identifying Anomalies in Cross-Chain Bridges",
+      "year": 2024,
+      "type": "system",
+      "domains": [
+        "rt-rule-invariant",
+        "data-benchmark"
+      ],
+      "novelty": "sota",
+      "card": "papers/correia2024-xchainwatcher-identifying-anom.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2410.02029",
+      "doi": "10.1145/3721462.3770781",
+      "venue": "International Middleware Conference"
+    },
+    {
+      "id": "correia2025-automatic-cross-chain",
+      "title": "Automatic Cross-chain Protocol Pausing with Real-time Conformance Checking",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "resp-mitigation"
+      ],
+      "novelty": "complementary",
+      "card": "papers/correia2025-automatic-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/brains67003.2025.11302954",
+      "venue": "Conference on Blockchain Research & Applications for Innovative Networks and Services"
+    },
+    {
+      "id": "correia2025-looking-anomalies-cross",
+      "title": "Looking for Anomalies in Cross-Chain Bridges",
+      "year": 2025,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml"
+      ],
+      "novelty": "complementary",
+      "card": "papers/correia2025-looking-anomalies-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/dsn-s65789.2025.00025",
+      "venue": "2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S)"
+    },
+    {
+      "id": "correia2026-exploiting-liquidity-exhaustio",
+      "title": "Exploiting Liquidity Exhaustion Attacks in Intent-Based Cross-Chain Bridges",
+      "year": 2026,
+      "type": "empirical",
+      "domains": [
+        "atk-economic-user",
+        "atk-offchain-relay"
+      ],
+      "novelty": "complementary",
+      "card": "papers/correia2026-exploiting-liquidity-exhaustio.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2602.17805",
+      "doi": "10.48550/arxiv.2602.17805",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "correia2026-intentfuzz-protocol-aware",
+      "title": "IntentFuzz: A Protocol-Aware Fuzzer for Automated Invariant Violation Detection in Intent-Based Cross-Chain Bridges",
+      "year": 2026,
+      "type": "system",
+      "domains": [
+        "pre-fuzzing-testing"
+      ],
+      "novelty": "complementary",
+      "card": "papers/correia2026-intentfuzz-protocol-aware.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2609.13004",
+      "doi": "10.48550/arxiv.2609.13004",
+      "venue": "arXiv (Cornell University)"
+    },
+    {
+      "id": "cortesi2025-cross-chain-smart",
+      "title": "Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and Challenges",
+      "year": 2025,
+      "type": "system",
+      "domains": [
+        "pre-static-symbolic"
+      ],
+      "novelty": "complementary",
+      "card": "papers/cortesi2025-cross-chain-smart.md",
+      "integrated": "2026-10-02",
+      "venue": "ITASEC/SERICS"
+    },
+    {
+      "id": "cortesi2025-double-spending-attacks",
+      "title": "Double-Spending Attacks in Cross-Blockchain Ecosystems",
+      "year": 2025,
+      "type": "empirical",
+      "domains": [
+        "atk-protocol-level"
+      ],
+      "novelty": "complementary",
+      "card": "papers/cortesi2025-double-spending-attacks.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.bcra.2025.100378",
+      "venue": "Blockchain: Research and Applications"
+    },
+    {
+      "id": "davi2026-2b-lessons-brigade",
+      "title": "$2B Lessons: Brigade as a Defense Against Real-World DeFi Bridge Exploits",
+      "year": 2026,
+      "type": "system",
+      "domains": [
+        "rt-rule-invariant",
+        "resp-mitigation"
+      ],
+      "novelty": "complementary",
+      "card": "papers/davi2026-2b-lessons-brigade.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/978-3-032-32575-4_16",
+      "venue": "Lecture notes in computer science"
+    },
+    {
+      "id": "davi2026-fuzzing-cross-chain",
+      "title": "Fuzzing Cross-Chain Vulnerabilities with BridgeFuzz",
+      "year": 2026,
+      "type": "system",
+      "domains": [
+        "pre-fuzzing-testing"
+      ],
+      "novelty": "complementary",
+      "card": "papers/davi2026-fuzzing-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3803525.3804980",
+      "venue": "European Workshop on System Security"
+    },
+    {
+      "id": "deng2025-ivycross-privacy-preserving",
+      "title": "IvyCross: A Privacy-Preserving and Concurrency Control Framework for Blockchain Interoperability",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/deng2025-ivycross-privacy-preserving.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tmc.2025.3562875",
+      "venue": "IEEE Transactions on Mobile Computing"
+    },
+    {
+      "id": "errett2026-contagion-decentralized-infras",
+      "title": "Contagion in Decentralized Infrastructure: How Cross-Chain Bridge Exploits Propagate Failure Across the Blockchain Ecosystem",
+      "year": 2026,
+      "type": "empirical",
+      "domains": [
+        "atk-economic-user",
+        "incident-measurement"
+      ],
+      "novelty": "complementary",
+      "card": "papers/errett2026-contagion-decentralized-infras.md",
+      "integrated": "2026-10-02",
+      "venue": "Journal of the Association for Information Systems"
+    },
+    {
+      "id": "espinoza2025-comparative-security-analysis",
+      "title": "Comparative Security Analysis of Cross-Chain Protocols: An Empirical and Metrics-Based Approach",
+      "year": 2025,
+      "type": "empirical",
+      "domains": [
+        "incident-measurement"
+      ],
+      "novelty": "complementary",
+      "card": "papers/espinoza2025-comparative-security-analysis.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/concapan66820.2025.11512555",
+      "venue": "2025 IEEE 43rd Central America and Panama Convention (CONCAPAN XLIII)"
+    },
+    {
+      "id": "feng2026-mercury-practical-cross",
+      "title": "Mercury: Practical Cross-Chain Exchange via Trusted Hardware",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/feng2026-mercury-practical-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tdsc.2025.3630656",
+      "venue": "IEEE Transactions on Dependable and Secure Computing"
+    },
+    {
+      "id": "gong2023-anonymous-supervisory-cross",
+      "title": "An Anonymous and Supervisory Cross-chain Privacy Protection Protocol for Zero-trust IoT Application",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/gong2023-anonymous-supervisory-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3583073",
+      "venue": "ACM Trans. Sens. Networks"
+    },
+    {
+      "id": "gorzny2022-sok-not-quite",
+      "title": "SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks",
+      "year": 2022,
+      "type": "survey",
+      "domains": [
+        "sok-bridge-security",
+        "incident-measurement"
+      ],
+      "novelty": "survey",
+      "card": "papers/gorzny2022-sok-not-quite.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2210.16209",
+      "doi": "10.1109/icbc56567.2023.10174993",
+      "venue": "International Conference on Blockchain"
+    },
+    {
+      "id": "halder2026-slac-ib-secure",
+      "title": "SLAC-IB: a secure and scalable service-level access control framework for interoperable blockchains",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/halder2026-slac-ib-secure.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/s10586-026-06408-y",
+      "venue": "Cluster Computing"
+    },
+    {
+      "id": "han2026-ltras-linkable-threshold",
+      "title": "LTRAS: A Linkable Threshold Ring Adaptor Signature Scheme for Efficient and Private Cross-Chain Transactions",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/han2026-ltras-linkable-threshold.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2602.05431",
+      "doi": "10.48550/arxiv.2602.05431",
+      "venue": "Journal of systems architecture"
+    },
+    {
+      "id": "han2026-verifiable-privacy-preserving",
+      "title": "A Verifiable Privacy-Preserving Cross-Chain Protocol for Trusted Vehicle Edge Computing",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/han2026-verifiable-privacy-preserving.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tvt.2025.3625439",
+      "venue": "IEEE Transactions on Vehicular Technology"
+    },
+    {
+      "id": "hardjono2024-sok-security-privacy",
+      "title": "SoK: Security and Privacy of Blockchain Interoperability",
+      "year": 2024,
+      "type": "survey",
+      "domains": [
+        "sok-bridge-security"
+      ],
+      "novelty": "survey",
+      "card": "papers/hardjono2024-sok-security-privacy.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/sp54263.2024.00255",
+      "venue": "IEEE Symposium on Security and Privacy"
+    },
+    {
+      "id": "haro2024-sok-cross-chain",
+      "title": "SoK: Cross-Chain Bridging Architectural Design Flaws and Mitigations",
+      "year": 2024,
+      "type": "survey",
+      "domains": [
+        "sok-bridge-security"
+      ],
+      "novelty": "survey",
+      "card": "papers/haro2024-sok-cross-chain.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2403.00405",
+      "doi": "10.48550/arxiv.2403.00405",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "he2025-conditional-privacy-preserving",
+      "title": "Conditional Privacy-Preserving Transaction for the Unspent Transaction Output-Based Multi-Chain Blockchain System",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/he2025-conditional-privacy-preserving.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tc.2025.3566868",
+      "venue": "IEEE transactions on computers"
+    },
+    {
+      "id": "hei2022-cross-chain-jamming",
+      "title": "Cross-chain Jamming Attack with Light Client Verification Clash in IBC Protocol",
+      "year": 2022,
+      "type": "empirical",
+      "domains": [
+        "atk-offchain-relay",
+        "atk-protocol-level"
+      ],
+      "novelty": "complementary",
+      "card": "papers/hei2022-cross-chain-jamming.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/iucc-cit-dsci-smartcns57392.2022.00034",
+      "venue": "2022 IEEE 21st International Conference on Ubiquitous Computing and Communications (IUCC/CIT/DSCI/SmartCNS)"
+    },
+    {
+      "id": "hei2026-cr2p-collaborative-regulatory",
+      "title": "CR2P:Collaborative regulatory privacy protection scheme in cross-chain-based anonymous payments",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/hei2026-cr2p-collaborative-regulatory.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.comnet.2026.112450",
+      "venue": "Computer Networks"
+    },
+    {
+      "id": "herlihy2021-hedging-against-sore",
+      "title": "Hedging Against Sore Loser Attacks in Cross-Chain Transactions",
+      "year": 2021,
+      "type": "empirical",
+      "domains": [
+        "atk-protocol-level"
+      ],
+      "novelty": "complementary",
+      "card": "papers/herlihy2021-hedging-against-sore.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2105.06322",
+      "doi": "10.1145/3465084.3467904",
+      "venue": "ACM SIGACT-SIGOPS Symposium on Principles of Distributed Computing"
+    },
+    {
+      "id": "herlihy2022-distributed-runtime-verificati",
+      "title": "Distributed Runtime Verification of Metric Temporal Properties for Cross-Chain Protocols",
+      "year": 2022,
+      "type": "system",
+      "domains": [
+        "rt-rule-invariant"
+      ],
+      "novelty": "complementary",
+      "card": "papers/herlihy2022-distributed-runtime-verificati.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2204.09796",
+      "doi": "10.1109/icdcs54860.2022.00012",
+      "venue": "IEEE International Conference on Distributed Computing Systems"
+    },
+    {
+      "id": "hu2024-calculation-selection-scheme",
+      "title": "Calculation and selection scheme of node reputation values for notary mechanism in cross-chain",
+      "year": 2024,
+      "type": "system",
+      "domains": [
+        "rt-trust-reputation"
+      ],
+      "novelty": "complementary",
+      "card": "papers/hu2024-calculation-selection-scheme.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/s11227-024-06152-3",
+      "venue": "Journal of Supercomputing"
+    },
+    {
+      "id": "juels2019-tesseract-real-time",
+      "title": "Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware",
+      "year": 2019,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/juels2019-tesseract-real-time.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3319535.3363221",
+      "venue": "Conference on Computer and Communications Security"
+    },
+    {
+      "id": "knottenbelt2019-sok-communication-across",
+      "title": "SoK: Communication Across Distributed Ledgers",
+      "year": 2019,
+      "type": "survey",
+      "domains": [
+        "survey-interoperability",
+        "sok-bridge-security"
+      ],
+      "novelty": "survey",
+      "card": "papers/knottenbelt2019-sok-communication-across.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/978-3-662-64331-0_1",
+      "venue": "IACR Cryptology ePrint Archive"
+    },
+    {
+      "id": "lee2025-sok-review-cross",
+      "title": "SoK: A Review of Cross-Chain Bridge Hacks in 2023",
+      "year": 2025,
+      "type": "survey",
+      "domains": [
+        "sok-bridge-security",
+        "incident-measurement"
+      ],
+      "novelty": "survey",
+      "card": "papers/lee2025-sok-review-cross.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2501.03423",
+      "doi": "10.48550/arxiv.2501.03423",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "lee2026-layer-0-layer",
+      "title": "Layer 0 and Layer 1 Integrated Smart Contract Kill Switch for Cross-Chain Security in Decentralized Systems",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "resp-mitigation"
+      ],
+      "novelty": "complementary",
+      "card": "papers/lee2026-layer-0-layer.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/jiot.2026.3686857",
+      "venue": "IEEE Internet of Things Journal"
+    },
+    {
+      "id": "li2022-secure-cross-chain",
+      "title": "A secure cross-chain transaction model based on quantum multi-signature",
+      "year": 2022,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/li2022-secure-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/s11128-022-03600-y",
+      "venue": "Quantum Information Processing"
+    },
+    {
+      "id": "li2022-security-privacy-challenges",
+      "title": "Security and Privacy Challenges in Blockchain Interoperability - A Multivocal Literature Review",
+      "year": 2022,
+      "type": "survey",
+      "domains": [
+        "sok-bridge-security"
+      ],
+      "novelty": "survey",
+      "card": "papers/li2022-security-privacy-challenges.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3530019.3531345",
+      "venue": "International Conference on Evaluation & Assessment in Software Engineering"
+    },
+    {
+      "id": "li2024-dart-low-cost",
+      "title": "DART: A Low-Cost and Secure Cross-Chain Scheme for Popular Digital Assets",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/li2024-dart-low-cost.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/wcnc57260.2024.10571060",
+      "venue": "IEEE Wireless Communications and Networking Conference"
+    },
+    {
+      "id": "li2024-pacdam-privacy-preserving",
+      "title": "PACDAM: Privacy-Preserving and Adaptive Cross-Chain Digital Asset Marketplace",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/li2024-pacdam-privacy-preserving.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/jiot.2023.3337859",
+      "venue": "IEEE Internet of Things Journal"
+    },
+    {
+      "id": "li2024-reinventing-multi-user",
+      "title": "Reinventing Multi-User Authentication Security From Cross-Chain Perspective",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/li2024-reinventing-multi-user.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tifs.2024.3463533",
+      "venue": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "id": "li2025-phantom-events-demystifying",
+      "title": "Phantom Events: Demystifying the Issues of Log Forgery in Blockchain",
+      "year": 2025,
+      "type": "empirical",
+      "domains": [
+        "atk-verification-flaw"
+      ],
+      "novelty": "complementary",
+      "card": "papers/li2025-phantom-events-demystifying.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2502.13513",
+      "doi": "10.48550/arxiv.2502.13513",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "li2026-eventspec-defining-detecting",
+      "title": "EventSpec: Defining and Detecting Event-Semantic Issues in Blockchain Ecosystems",
+      "year": 2026,
+      "type": "system",
+      "domains": [
+        "pre-static-symbolic",
+        "atk-verification-flaw"
+      ],
+      "novelty": "complementary",
+      "card": "papers/li2026-eventspec-defining-detecting.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2609.07865",
+      "venue": "arXiv"
+    },
+    {
+      "id": "li2026-hybrid-relay-architecture",
+      "title": "Hybrid Relay Architecture: A Decentralized and Semantically-Agnostic Interoperability Framework for Blockchain",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/li2026-hybrid-relay-architecture.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tc.2026.3699633",
+      "venue": "IEEE transactions on computers"
+    },
+    {
+      "id": "liao2025-cifgviewer-detecting-cross",
+      "title": "CIFGViewer: Detecting Cross-chain Bridge Attacks via Cross-chain Information Flow Graph",
+      "year": 2025,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml"
+      ],
+      "novelty": "complementary",
+      "card": "papers/liao2025-cifgviewer-detecting-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/978-981-95-4142-3_44",
+      "venue": "Communications in computer and information science"
+    },
+    {
+      "id": "lin2024-security-cross-chain",
+      "title": "Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems",
+      "year": 2024,
+      "type": "survey",
+      "domains": [
+        "sok-bridge-security"
+      ],
+      "novelty": "survey",
+      "card": "papers/lin2024-security-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3678890.3678894",
+      "venue": "International Symposium on Recent Advances in Intrusion Detection"
+    },
+    {
+      "id": "liu2022-zerocross-sidechain-based",
+      "title": "ZeroCross: A sidechain-based privacy-preserving Cross-chain solution for Monero",
+      "year": 2022,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/liu2022-zerocross-sidechain-based.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.jpdc.2022.07.008",
+      "venue": "Journal of Parallel and Distributed Computing"
+    },
+    {
+      "id": "liu2023-cross-chain-virtual",
+      "title": "Cross-Chain Virtual Payment Channels",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/liu2023-cross-chain-virtual.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tifs.2023.3281064",
+      "venue": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "id": "loke2022-notary-group-based",
+      "title": "A notary group-based cross-chain mechanism",
+      "year": 2022,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/loke2022-notary-group-based.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.dcan.2022.04.012",
+      "venue": "Digital Communications and Networks"
+    },
+    {
+      "id": "lu2025-crosschannel-efficient-scalabl",
+      "title": "CrossChannel: Efficient and Scalable Cross-Chain Transactions Through Cross-and-Off-Blockchain Micropayment Channel",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/lu2025-crosschannel-efficient-scalabl.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tdsc.2024.3411820",
+      "venue": "IEEE Transactions on Dependable and Secure Computing"
+    },
+    {
+      "id": "luo2026-tracing-shadows-automatic",
+      "title": "Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "resp-mitigation"
+      ],
+      "novelty": "complementary",
+      "card": "papers/luo2026-tracing-shadows-automatic.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2607.18869",
+      "doi": "10.48550/arxiv.2607.18869",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "ma2025-who-constitute-vasps",
+      "title": "Who Constitute the VASPs in DeFi? A Case Study on Money Laundering via Cross-Chain Bridge from the 2022 Harmony Hack",
+      "year": 2025,
+      "type": "empirical",
+      "domains": [
+        "atk-economic-user"
+      ],
+      "novelty": "complementary",
+      "card": "papers/ma2025-who-constitute-vasps.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.jeconc.2025.100131",
+      "venue": "Journal of Economic Criminology"
+    },
+    {
+      "id": "maffei2023-glimpse-demand-pow",
+      "title": "Glimpse: On-Demand PoW Light Client with Constant-Size Storage for DeFi",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/maffei2023-glimpse-demand-pow.md",
+      "integrated": "2026-10-02",
+      "venue": "USENIX Security Symposium"
+    },
+    {
+      "id": "maffei2024-alba-dawn-scalable",
+      "title": "Alba: The Dawn of Scalable Bridges for Blockchains",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/maffei2024-alba-dawn-scalable.md",
+      "integrated": "2026-10-02",
+      "doi": "10.14722/ndss.2025.241286",
+      "venue": "IACR Cryptology ePrint Archive"
+    },
+    {
+      "id": "mandal2025-4-swap-achieving",
+      "title": "4-Swap: Achieving Grief-Free and Bribery-Safe Atomic Swaps Using Four Transactions",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/mandal2025-4-swap-achieving.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2508.04641",
+      "doi": "10.48550/arxiv.2508.04641",
+      "venue": "Conference on Advances in Financial Technologies"
+    },
+    {
+      "id": "matthes2026-cross-chain-arbitrage",
+      "title": "Cross-Chain Arbitrage: The Next Frontier of MEV in Decentralized Finance",
+      "year": 2026,
+      "type": "empirical",
+      "domains": [
+        "atk-economic-user"
+      ],
+      "novelty": "complementary",
+      "card": "papers/matthes2026-cross-chain-arbitrage.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3801489.3806898",
+      "venue": "Measurement and Modeling of Computer Systems"
+    },
+    {
+      "id": "muthukkumarasamy2023-formal-verification-burn",
+      "title": "Formal Verification of the Burn-to-Claim Blockchain Interoperable Protocol",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/muthukkumarasamy2023-formal-verification-burn.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/978-981-99-7584-6_15",
+      "venue": "IEEE International Conference on Formal Engineering Methods"
+    },
+    {
+      "id": "muthukkumarasamy2025-wormhole-cross-chain",
+      "title": "Wormhole Cross-Chain Bridge Transactions Flow: An Exploratory Study",
+      "year": 2025,
+      "type": "empirical",
+      "domains": [
+        "incident-measurement"
+      ],
+      "novelty": "complementary",
+      "card": "papers/muthukkumarasamy2025-wormhole-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/icbc64466.2025.11185063",
+      "venue": "International Conference on Blockchain"
+    },
+    {
+      "id": "muthukkumarasamy2026-anomaly-detection-cross",
+      "title": "Anomaly Detection in Cross-Chain Bridges: A Data Analytics Study",
+      "year": 2026,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml"
+      ],
+      "novelty": "complementary",
+      "card": "papers/muthukkumarasamy2026-anomaly-detection-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/978-981-95-9230-2_3",
+      "venue": "Communications in computer and information science"
+    },
+    {
+      "id": "nazirkhanova2023-interchain-timestamping-mesh",
+      "title": "Interchain Timestamping for Mesh Security",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/nazirkhanova2023-interchain-timestamping-mesh.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2305.07830",
+      "doi": "10.1145/3576915.3616612",
+      "venue": "Conference on Computer and Communications Security"
+    },
+    {
+      "id": "nishad2022-atomic-cross-chain",
+      "title": "Atomic cross-chain exchanges of shared assets",
+      "year": 2022,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/nishad2022-atomic-cross-chain.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2202.12855",
+      "doi": "10.1145/3558535.3559786",
+      "venue": "Conference on Advances in Financial Technologies"
+    },
+    {
+      "id": "ota2025-cross-chain-privacy",
+      "title": "Cross-Chain Privacy Preserving for BIoMT With Designated Verifier Proxy Signature",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/ota2025-cross-chain-privacy.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/jiot.2025.3543332",
+      "venue": "IEEE Internet of Things Journal"
+    },
+    {
+      "id": "ota2026-ccpp-cross-chain",
+      "title": "CCPP: Cross-Chain Privacy-Preserving for CCLS With Lattice-Based Ring Signature",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/ota2026-ccpp-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/jiot.2026.3652166",
+      "venue": "IEEE Internet of Things Journal"
+    },
+    {
+      "id": "pham2024-chainsniper-machine-learning",
+      "title": "ChainSniper: A Machine Learning Approach for Auditing Cross-Chain Smart Contracts",
+      "year": 2024,
+      "type": "system",
+      "domains": [
+        "pre-ml-llm-audit"
+      ],
+      "novelty": "complementary",
+      "card": "papers/pham2024-chainsniper-machine-learning.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3654522.3654577",
+      "venue": "Proceedings of the 2024 9th International Conference on Intelligent Information Technology"
+    },
+    {
+      "id": "pham2025-acheron-market-based",
+      "title": "Acheron: a market-based multi-relay architecture for adaptive and secure cross-chain communication",
+      "year": 2025,
+      "type": "system",
+      "domains": [
+        "rt-trust-reputation"
+      ],
+      "novelty": "complementary",
+      "card": "papers/pham2025-acheron-market-based.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.iot.2025.101836",
+      "venue": "Internet of Things"
+    },
+    {
+      "id": "pham2025-veribridge-real-time",
+      "title": "VeriBridge: Real-Time Cross-Chain Bridge Attack Detection through Static-Informed Graph Anomaly Learning",
+      "year": 2025,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml"
+      ],
+      "novelty": "complementary",
+      "card": "papers/pham2025-veribridge-real-time.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/vcris68011.2025.11250562",
+      "venue": "2025 2nd International Conference On Cryptography And Information Security (VCRIS)"
+    },
+    {
+      "id": "pham2026-crossguard-multi-modal",
+      "title": "CrossGuard: a multi-modal few-shot learning framework for detecting cross-chain smart contract vulnerabilities",
+      "year": 2026,
+      "type": "system",
+      "domains": [
+        "pre-ml-llm-audit"
+      ],
+      "novelty": "complementary",
+      "card": "papers/pham2026-crossguard-multi-modal.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/s10586-026-06298-0",
+      "venue": "Cluster Computing"
+    },
+    {
+      "id": "pham2026-evolutionary-soft-computing",
+      "title": "Evolutionary soft computing for interpretable exploit generation in cross-chain bridges",
+      "year": 2026,
+      "type": "system",
+      "domains": [
+        "pre-fuzzing-testing"
+      ],
+      "novelty": "complementary",
+      "card": "papers/pham2026-evolutionary-soft-computing.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.asoc.2026.116561",
+      "venue": "Applied Soft Computing"
+    },
+    {
+      "id": "pham2026-povichain-lightweight-verifiab",
+      "title": "PoVIChain: Lightweight and verifiable cross-chain interoperability for heterogeneous edge networks",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/pham2026-povichain-lightweight-verifiab.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.iot.2026.101917",
+      "venue": "Internet of Things"
+    },
+    {
+      "id": "pham2026-zk-htlc-formally",
+      "title": "zk-HTLC: A formally verified defense against linkability attacks in trust-minimized cross-chain networks",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol",
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/pham2026-zk-htlc-formally.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.comnet.2026.112780",
+      "venue": "Computer Networks"
+    },
+    {
+      "id": "qi2024-blockchain-cross-chain",
+      "title": "A Blockchain Cross-Chain Transaction Method Based on Decentralized Dynamic Reputation Value Assessment",
+      "year": 2024,
+      "type": "system",
+      "domains": [
+        "rt-trust-reputation",
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/qi2024-blockchain-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tnsm.2024.3433414",
+      "venue": "IEEE Transactions on Network and Service Management"
+    },
+    {
+      "id": "qi2025-optimized-cross-chain",
+      "title": "Optimized Cross-Chain Transactions With Aggregated Zero-Knowledge Proofs: Enhancing Efficiency and Security",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/qi2025-optimized-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/jiot.2024.3516036",
+      "venue": "IEEE Internet of Things Journal"
+    },
+    {
+      "id": "ramesh2020-general-purpose-atomic",
+      "title": "General Purpose Atomic Crosschain Transactions",
+      "year": 2020,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/ramesh2020-general-purpose-atomic.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2011.12783",
+      "doi": "10.1109/brains52497.2021.9569837",
+      "venue": "Conference on Blockchain Research & Applications for Innovative Networks and Services"
+    },
+    {
+      "id": "ruan2024-xsema-novel-framework",
+      "title": "XSema: A Novel Framework for Semantic Extraction of Cross-chain Transactions",
+      "year": 2024,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml"
+      ],
+      "novelty": "complementary",
+      "card": "papers/ruan2024-xsema-novel-framework.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2412.18129",
+      "doi": "10.1109/hpcc64274.2024.00094",
+      "venue": "IEEE International Conference on High Performance Computing and Communications"
+    },
+    {
+      "id": "savage2024-count-monte-crypto",
+      "title": "Count of Monte Crypto: Accounting-based Defenses for Cross-Chain Bridges",
+      "year": 2024,
+      "type": "system",
+      "domains": [
+        "rt-rule-invariant"
+      ],
+      "novelty": "sota",
+      "card": "papers/savage2024-count-monte-crypto.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2410.01107",
+      "doi": "10.48550/arxiv.2410.01107",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "schifanella2023-mp-htlc-enabling",
+      "title": "MP‐HTLC: Enabling blockchain interoperability through a multiparty implementation of the hash time‐lock contract",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/schifanella2023-mp-htlc-enabling.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1002/cpe.7656",
+      "venue": "Concurrency and Computation"
+    },
+    {
+      "id": "schneider2023-highguard-cross-chain",
+      "title": "HighGuard: Cross-Chain Business Logic Monitoring of Smart Contracts",
+      "year": 2023,
+      "type": "system",
+      "domains": [
+        "rt-rule-invariant"
+      ],
+      "novelty": "complementary",
+      "card": "papers/schneider2023-highguard-cross-chain.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2305.08254",
+      "doi": "10.1145/3691620.3695356",
+      "venue": "International Conference on Automated Software Engineering"
+    },
+    {
+      "id": "schulte2022-decentralized-cross-blockchain",
+      "title": "Decentralized cross-blockchain asset transfers with transfer confirmation",
+      "year": 2022,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/schulte2022-decentralized-cross-blockchain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/s10586-022-03737-6",
+      "venue": "Cluster Computing"
+    },
+    {
+      "id": "shi2019-cross-chain-bribery",
+      "title": "Cross Chain Bribery Contracts: Majority vs Mighty Minority",
+      "year": 2019,
+      "type": "empirical",
+      "domains": [
+        "atk-economic-user"
+      ],
+      "novelty": "complementary",
+      "card": "papers/shi2019-cross-chain-bribery.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2306.07984",
+      "doi": "10.1007/978-3-030-24299-2_11",
+      "venue": "Practical Applications of Agents and Multi-Agent Systems"
+    },
+    {
+      "id": "shi2023-pxcrypto-regulated-privacy",
+      "title": "PXCrypto: A Regulated Privacy-Preserving Cross-Chain Transaction Scheme",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/shi2023-pxcrypto-regulated-privacy.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/978-3-031-22677-9_10",
+      "venue": "Lecture notes in computer science"
+    },
+    {
+      "id": "song2022-zkbridge-trustless-cross",
+      "title": "zkBridge: Trustless Cross-chain Bridges Made Practical",
+      "year": 2022,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "sota",
+      "card": "papers/song2022-zkbridge-trustless-cross.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2210.00264",
+      "doi": "10.1145/3548606.3560652",
+      "venue": "Conference on Computer and Communications Security"
+    },
+    {
+      "id": "stewart2025-trustless-bridges-random",
+      "title": "Trustless Bridges via Random Sampling Light Clients",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/stewart2025-trustless-bridges-random.md",
+      "integrated": "2026-10-02",
+      "doi": "10.4230/lipics.aft.2025.31",
+      "venue": "IACR Cryptology ePrint Archive"
+    },
+    {
+      "id": "stone2021-trustless-privacy-preserving",
+      "title": "Trustless, privacy-preserving blockchain bridges",
+      "year": 2021,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk",
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/stone2021-trustless-privacy-preserving.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2102.04660",
+      "doi": "10.48550/arxiv.2102.04660",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "su2024-safeguarding-blockchain-ecosys",
+      "title": "Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges",
+      "year": 2024,
+      "type": "empirical",
+      "domains": [
+        "incident-measurement",
+        "rt-graph-ml"
+      ],
+      "novelty": "sota",
+      "card": "papers/su2024-safeguarding-blockchain-ecosys.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2410.14493",
+      "doi": "10.1145/3696410.3714604",
+      "venue": "The Web Conference"
+    },
+    {
+      "id": "suboti2025-formal-verification-fail",
+      "title": "Formal Verification of a Fail-Safe Cross-Chain Bridge",
+      "year": 2025,
+      "type": "system",
+      "domains": [
+        "def-formal-protocol",
+        "pre-static-symbolic"
+      ],
+      "novelty": "complementary",
+      "card": "papers/suboti2025-formal-verification-fail.md",
+      "integrated": "2026-10-02",
+      "doi": "10.4230/oasics.fmbc.2025.8",
+      "venue": "FMBC"
+    },
+    {
+      "id": "sun2024-cross-chain-access",
+      "title": "A cross-chain access control mechanism based on blockchain and the threshold Paillier cryptosystem",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/sun2024-cross-chain-access.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.comcom.2024.05.012",
+      "venue": "Computer Communications"
+    },
+    {
+      "id": "sun2026-detecting-sybil-attacks",
+      "title": "Detecting Sybil Attacks in Cross-Chain Transactions: A Multi-Stage Framework",
+      "year": 2026,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml"
+      ],
+      "novelty": "complementary",
+      "card": "papers/sun2026-detecting-sybil-attacks.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/cscwd68734.2026.11582050",
+      "venue": "International Conference on Computer Supported Cooperative Work in Design"
+    },
+    {
+      "id": "sural2025-auditable-ledger-snapshot",
+      "title": "Auditable Ledger Snapshot for Non-Repudiable Cross-Blockchain Communication",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/sural2025-auditable-ledger-snapshot.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2511.16560",
+      "doi": "10.1109/tsc.2025.3630671",
+      "venue": "IEEE Transactions on Services Computing"
+    },
+    {
+      "id": "tang2022-sidechains-fast-cross",
+      "title": "Sidechains With Fast Cross-Chain Transfers",
+      "year": 2022,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/tang2022-sidechains-fast-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tdsc.2021.3114151",
+      "venue": "IEEE Transactions on Dependable and Secure Computing"
+    },
+    {
+      "id": "tessone2024-seamlessly-transferring-assets",
+      "title": "Seamlessly Transferring Assets through Layer-0 Bridges: An Empirical Analysis of Stargate Bridge's Architecture and Dynamics",
+      "year": 2024,
+      "type": "empirical",
+      "domains": [
+        "incident-measurement"
+      ],
+      "novelty": "complementary",
+      "card": "papers/tessone2024-seamlessly-transferring-assets.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3589335.3651964",
+      "venue": "The Web Conference"
+    },
+    {
+      "id": "tessone2025-tracing-cross-chain",
+      "title": "Tracing Cross-chain Transactions between EVM-based Blockchains: An Analysis of Ethereum-Polygon Bridges",
+      "year": 2025,
+      "type": "empirical",
+      "domains": [
+        "incident-measurement"
+      ],
+      "novelty": "complementary",
+      "card": "papers/tessone2025-tracing-cross-chain.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2504.15449",
+      "doi": "10.48550/arxiv.2504.15449",
+      "venue": "Ledger"
+    },
+    {
+      "id": "tian2025-towards-efficient-consistency",
+      "title": "Towards Efficient Consistency Auditing of Dynamic Data in Cross-Chain Interaction",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/tian2025-towards-efficient-consistency.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tdsc.2025.3532320",
+      "venue": "IEEE Transactions on Dependable and Secure Computing"
+    },
+    {
+      "id": "torres2026-signals-spoils-speculative",
+      "title": "Signals and Spoils: Speculative Oracle Extractable Value in the Era of Cross-Chain Interoperability",
+      "year": 2026,
+      "type": "empirical",
+      "domains": [
+        "atk-economic-user",
+        "atk-offchain-relay"
+      ],
+      "novelty": "complementary",
+      "card": "papers/torres2026-signals-spoils-speculative.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2606.03434",
+      "doi": "10.48550/arxiv.2606.03434",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "vadlamani2024-intelligent-blockchain-based",
+      "title": "Intelligent blockchain based attack detection framework for cross-chain transaction",
+      "year": 2024,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml"
+      ],
+      "novelty": "complementary",
+      "card": "papers/vadlamani2024-intelligent-blockchain-based.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/s11042-024-18344-3",
+      "venue": "Multimedia tools and applications"
+    },
+    {
+      "id": "valiorgue2024-agnostic-secure-interoperabili",
+      "title": "An agnostic and secure interoperability protocol for seamless asset movement",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/valiorgue2024-agnostic-secure-interoperabili.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.jnca.2024.103930",
+      "venue": "Journal of Network and Computer Applications"
+    },
+    {
+      "id": "vasconcelos2022-securing-cross-chain",
+      "title": "Securing Cross-Chain Asset Transfers on Permissioned Blockchains",
+      "year": 2022,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/vasconcelos2022-securing-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.36227/techrxiv.19651248.v3"
+    },
+    {
+      "id": "verdian2023-implementing-secure-bridges",
+      "title": "Implementing Secure Bridges: Learnings from the Secure Asset Transfer Protocol",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/verdian2023-implementing-secure-bridges.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/icbc56567.2023.10174878",
+      "venue": "International Conference on Blockchain"
+    },
+    {
+      "id": "viswanath2022-trustboost-boosting-trust",
+      "title": "TrustBoost: Boosting Trust among Interoperable Blockchains",
+      "year": 2022,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/viswanath2022-trustboost-boosting-trust.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2210.11571",
+      "doi": "10.1145/3576915.3623080",
+      "venue": "IACR Cryptology ePrint Archive"
+    },
+    {
+      "id": "wan2023-survey-cross-chain",
+      "title": "A Survey on Cross-chain Technologies",
+      "year": 2023,
+      "type": "survey",
+      "domains": [
+        "survey-interoperability"
+      ],
+      "novelty": "survey",
+      "card": "papers/wan2023-survey-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3573896",
+      "venue": "Distributed Ledger Technol. Res. Pract."
+    },
+    {
+      "id": "wang2023-attacks-against-cross",
+      "title": "Attacks Against Cross-Chain Systems and Defense Approaches: A Contemporary Survey",
+      "year": 2023,
+      "type": "survey",
+      "domains": [
+        "sok-bridge-security"
+      ],
+      "novelty": "survey",
+      "card": "papers/wang2023-attacks-against-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/jas.2023.123642",
+      "venue": "IEEE/CAA Journal of Automatica Sinica"
+    },
+    {
+      "id": "wang2024-relay-network-based",
+      "title": "Relay network-based cross-chain data interaction protocol with integrity audit",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wang2024-relay-network-based.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.compeleceng.2024.109262",
+      "venue": "Computers & Electrical Engineering"
+    },
+    {
+      "id": "wang2025-piecing-together-jigsaw",
+      "title": "Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks",
+      "year": 2025,
+      "type": "empirical",
+      "domains": [
+        "incident-measurement"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wang2025-piecing-together-jigsaw.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3744970.3727306",
+      "venue": "Measurement and Modeling of Computer Systems"
+    },
+    {
+      "id": "wang2025-privacy-preserving-cross",
+      "title": "Privacy-preserving cross-chain asset transfers using notary schemes and zero-knowledge proofs",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth",
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wang2025-privacy-preserving-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/s10586-024-05039-5",
+      "venue": "Cluster Computing"
+    },
+    {
+      "id": "wang2025-walls-have-ears",
+      "title": "The Walls Have Ears: Unveiling Cross-Chain Sandwich Attacks in DeFi",
+      "year": 2025,
+      "type": "empirical",
+      "domains": [
+        "atk-economic-user"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wang2025-walls-have-ears.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2511.15245",
+      "doi": "10.48550/arxiv.2511.15245",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "wang2026-cross-chain-identity",
+      "title": "Cross-chain identity privacy protection scheme based on oblivious transfer protocol and key agreement",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wang2026-cross-chain-identity.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.ins.2026.123332",
+      "venue": "Information Sciences"
+    },
+    {
+      "id": "wang2026-price-interoperability-explori",
+      "title": "The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences",
+      "year": 2026,
+      "type": "empirical",
+      "domains": [
+        "incident-measurement",
+        "atk-economic-user"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wang2026-price-interoperability-explori.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2604.03083",
+      "doi": "10.1145/3805650",
+      "venue": "Proceedings of the ACM on Measurement and Analysis of Computing Systems"
+    },
+    {
+      "id": "wang2026-xpch-cross-chain",
+      "title": "XPCH: A Cross-Chain Payment Protocol via Connecting the Payment Channel Hubs",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wang2026-xpch-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tifs.2026.3723196",
+      "venue": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "id": "wei2020-enabling-cross-chain",
+      "title": "Enabling Cross-Chain Transactions: A Decentralized Cryptocurrency Exchange Protocol",
+      "year": 2020,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wei2020-enabling-cross-chain.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2005.03199",
+      "doi": "10.1109/tifs.2021.3096124",
+      "venue": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "id": "wei2024-atomci-new-system",
+      "title": "AtomCI: A New System for the Atomic Cross-Chain Smart Contract Invocation Spanning Heterogeneous Blockchains",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wei2024-atomci-new-system.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tnse.2023.3349192",
+      "venue": "IEEE Transactions on Network Science and Engineering"
+    },
+    {
+      "id": "weippl2021-pay-win-cheap",
+      "title": "Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies",
+      "year": 2021,
+      "type": "empirical",
+      "domains": [
+        "atk-economic-user"
+      ],
+      "novelty": "complementary",
+      "card": "papers/weippl2021-pay-win-cheap.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/978-3-662-63958-0_39",
+      "venue": "Lecture notes in computer science"
+    },
+    {
+      "id": "wu2020-blockchain-model-tamarin",
+      "title": "A Blockchain Model in Tamarin and Formal Analysis of Hash Time Lock Contract",
+      "year": 2020,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wu2020-blockchain-model-tamarin.md",
+      "integrated": "2026-10-02",
+      "doi": "10.4230/oasics.fmbc.2020.5",
+      "venue": "FMBC@CAV"
+    },
+    {
+      "id": "wu2024-detecting-fake-deposit",
+      "title": "Detecting Fake Deposit Attacks on Cross-chain Bridges from a Network Perspective",
+      "year": 2024,
+      "type": "empirical",
+      "domains": [
+        "atk-verification-flaw",
+        "rt-graph-ml"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wu2024-detecting-fake-deposit.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/iscas58744.2024.10558359",
+      "venue": "International Symposium on Circuits and Systems"
+    },
+    {
+      "id": "wu2025-bridgeguard-checking-external",
+      "title": "BridgeGuard: Checking External Interaction Vulnerabilities in Cross-Chain Bridge Router Contracts Based on Symbolic Dataflow Analysis",
+      "year": 2025,
+      "type": "system",
+      "domains": [
+        "pre-static-symbolic"
+      ],
+      "novelty": "sota",
+      "card": "papers/wu2025-bridgeguard-checking-external.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tdsc.2025.3576114",
+      "venue": "IEEE Transactions on Dependable and Secure Computing"
+    },
+    {
+      "id": "wu2025-secure-efficient-data",
+      "title": "Secure and Efficient Data Interoperability Protocols for Multi-Blockchains Systems",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wu2025-secure-efficient-data.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tifs.2025.3615418",
+      "venue": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "id": "wu2026-cross-chain-laundering",
+      "title": "Cross-Chain Laundering Tracer: Activity Tracking Methodology for Cryptocurrency Laundering",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "resp-mitigation"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wu2026-cross-chain-laundering.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/978-981-92-2973-4_15",
+      "venue": "Communications in computer and information science"
+    },
+    {
+      "id": "wu2026-stalled-cross-chain",
+      "title": "Stalled Cross-chain Transactions: Scale, Impacts, and Causes",
+      "year": 2026,
+      "type": "empirical",
+      "domains": [
+        "atk-offchain-relay",
+        "incident-measurement"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wu2026-stalled-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3777912.3839782",
+      "venue": "Proceedings of the 2026 ACM Internet Measurement Conference"
+    },
+    {
+      "id": "wu2026-vecrotoken-efficient-verifiabl",
+      "title": "VeCroToken: An Efficient, Verifiable, and Privacy-Preserving Cross-Chain Model for Consortium Blockchains Based on zk-SNARKs",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/wu2026-vecrotoken-efficient-verifiabl.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tnsm.2025.3636014",
+      "venue": "IEEE Transactions on Network and Service Management"
+    },
+    {
+      "id": "xiang2022-dciv-decentralized-cross",
+      "title": "DCIV: Decentralized cross-chain data integrity verification with blockchain",
+      "year": 2022,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/xiang2022-dciv-decentralized-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.jksuci.2022.07.015",
+      "venue": "Journal of King Saud University - Computer and Information Sciences"
+    },
+    {
+      "id": "xiang2023-bedcv-blockchain-enabled",
+      "title": "BeDCV: Blockchain-Enabled Decentralized Consistency Verification for Cross-Chain Calculation",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/xiang2023-bedcv-blockchain-enabled.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tcc.2022.3196937",
+      "venue": "IEEE Transactions on Cloud Computing"
+    },
+    {
+      "id": "xiang2024-blockchain-cross-chain",
+      "title": "Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and Future Outlook",
+      "year": 2024,
+      "type": "survey",
+      "domains": [
+        "sok-bridge-security"
+      ],
+      "novelty": "survey",
+      "card": "papers/xiang2024-blockchain-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3696429",
+      "venue": "Distributed Ledger Technol. Res. Pract."
+    },
+    {
+      "id": "xiao2025-pace-privacy-preserving",
+      "title": "Pace: Privacy-Preserving and Atomic Cross-chain Swaps for Cryptocurrency Exchanges",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol",
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/xiao2025-pace-privacy-preserving.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3708821.3736211",
+      "venue": "ACM Asia Conference on Computer and Communications Security"
+    },
+    {
+      "id": "xu2025-decross-toward-accountable",
+      "title": "DeCross: Toward Accountable and Efficient Cross-Chain Collaboration in IIoT",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/xu2025-decross-toward-accountable.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tii.2025.3547061",
+      "venue": "IEEE Transactions on Industrial Informatics"
+    },
+    {
+      "id": "xu2025-warning-timeout-t",
+      "title": "Warning! The Timeout T Cannot Protect You From Losing Coins: PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/xu2025-warning-timeout-t.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/sp61157.2025.00245",
+      "venue": "IEEE Symposium on Security and Privacy"
+    },
+    {
+      "id": "yao2025-secure-cross-chain",
+      "title": "Secure cross-chain interactions: a relay chain framework with privacy and auditability solutions",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/yao2025-secure-cross-chain.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1007/s10586-025-05490-y",
+      "venue": "Cluster Computing"
+    },
+    {
+      "id": "yu2026-gumswap-griefing-free",
+      "title": "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/yu2026-gumswap-griefing-free.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/2575-8411.2026.00119",
+      "venue": "IEEE International Conference on Distributed Computing Systems"
+    },
+    {
+      "id": "zamani2021-horizon-gas-efficient",
+      "title": "Horizon: A Gas-Efficient, Trustless Bridge for Cross-Chain Transactions",
+      "year": 2021,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zamani2021-horizon-gas-efficient.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2101.06000",
+      "doi": "10.48550/arxiv.2101.06000",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "zhang2023-formal-analysis-ibc",
+      "title": "Formal Analysis of IBC Protocol",
+      "year": 2023,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhang2023-formal-analysis-ibc.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/icnp59255.2023.10355573",
+      "venue": "IEEE International Conference on Network Protocols"
+    },
+    {
+      "id": "zhang2023-test-case-generation",
+      "title": "Test Case Generation for Cross-Blockchain Smart Contract",
+      "year": 2023,
+      "type": "system",
+      "domains": [
+        "pre-fuzzing-testing"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhang2023-test-case-generation.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/apsec60848.2023.00097",
+      "venue": "Asia-Pacific Software Engineering Conference"
+    },
+    {
+      "id": "zhang2024-framework-efficient-cross",
+      "title": "A framework for efficient cross-chain token transfers in blockchain networks",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhang2024-framework-efficient-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.jksuci.2024.101968",
+      "venue": "Journal of King Saud University: Computer and Information Sciences"
+    },
+    {
+      "id": "zhang2024-sidechains-optimally-succinct",
+      "title": "Sidechains With Optimally Succinct Proof",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhang2024-sidechains-optimally-succinct.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tdsc.2023.3328430",
+      "venue": "IEEE Transactions on Dependable and Secure Computing"
+    },
+    {
+      "id": "zhang2025-empirical-study-cross",
+      "title": "An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities",
+      "year": 2025,
+      "type": "empirical",
+      "domains": [
+        "incident-measurement",
+        "atk-protocol-level"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhang2025-empirical-study-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3708821.3733878",
+      "venue": "ACM Asia Conference on Computer and Communications Security"
+    },
+    {
+      "id": "zhang2025-multi-authority-attribute",
+      "title": "Multi-Authority Attribute-Based Encryption Scheme With Access Delegation for Cross Blockchain Data Sharing",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhang2025-multi-authority-attribute.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tifs.2024.3515812",
+      "venue": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "id": "zhang2025-xchaindatagen-cross-chain",
+      "title": "XChainDataGen: A Cross-Chain Dataset Generation Framework",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "data-benchmark"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhang2025-xchaindatagen-cross-chain.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2503.13637",
+      "doi": "10.48550/arxiv.2503.13637",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "zhang2026-equilink-bridge-semi",
+      "title": "EquiLink Bridge: A Semi-Custodial Approach to Cross-Chain Transactions via TEE",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-threshold-committee"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhang2026-equilink-bridge-semi.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tsc.2026.3691985",
+      "venue": "IEEE Transactions on Services Computing"
+    },
+    {
+      "id": "zhang2026-securing-hashed-timelock",
+      "title": "Securing hashed timelock cross-chain protocol with trusted middleman in blockchain networks",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhang2026-securing-hashed-timelock.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1016/j.csi.2026.104129",
+      "venue": "Computer Standards & Interfaces"
+    },
+    {
+      "id": "zheng2024-pssc-practical-secure",
+      "title": "PSSC: Practical and Secure Sidechain Construction for Heterogeneous Blockchains Orienting IoT",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zheng2024-pssc-practical-secure.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/jiot.2023.3302291",
+      "venue": "IEEE Internet of Things Journal"
+    },
+    {
+      "id": "zheng2024-smartaxe-detecting-cross",
+      "title": "SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis",
+      "year": 2024,
+      "type": "system",
+      "domains": [
+        "pre-static-symbolic"
+      ],
+      "novelty": "sota",
+      "card": "papers/zheng2024-smartaxe-detecting-cross.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2406.15999",
+      "doi": "10.1145/3643738",
+      "venue": "Proc. ACM Softw. Eng."
+    },
+    {
+      "id": "zheng2025-bridgeshield-enhancing-securit",
+      "title": "BridgeShield: Enhancing Security for Cross-chain Bridge Applications via Heterogeneous Graph Mining",
+      "year": 2025,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml"
+      ],
+      "novelty": "sota",
+      "card": "papers/zheng2025-bridgeshield-enhancing-securit.md",
+      "integrated": "2026-10-02",
+      "doi": "10.48550/arxiv.2508.20517",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "zheng2025-track-trace-automatically",
+      "title": "Track and Trace: Automatically Uncovering Cross-Chain Transactions in the Multi-Blockchain Ecosystems",
+      "year": 2025,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml",
+        "resp-mitigation"
+      ],
+      "novelty": "sota",
+      "card": "papers/zheng2025-track-trace-automatically.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2504.01822",
+      "doi": "10.1109/tsc.2025.3618729",
+      "venue": "IEEE Transactions on Services Computing"
+    },
+    {
+      "id": "zhong2025-connex-automatically-resolving",
+      "title": "ConneX: Automatically Resolving Transaction Opacity of Cross-Chain Bridges for Security Analysis",
+      "year": 2025,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml",
+        "data-benchmark"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhong2025-connex-automatically-resolving.md",
+      "integrated": "2026-10-02",
+      "arxiv": "2511.01393",
+      "doi": "10.48550/arxiv.2511.01393",
+      "venue": "arXiv.org"
+    },
+    {
+      "id": "zhou2025-sightcvc-efficient-compatible",
+      "title": "SightCVC: An Efficient and Compatible Multi-Chain Transaction Protocol in Heterogeneous Blockchain Systems",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhou2025-sightcvc-efficient-compatible.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tifs.2025.3607247",
+      "venue": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "id": "zhu2023-interoperability-blockchain-su",
+      "title": "Interoperability in Blockchain: A Survey",
+      "year": 2023,
+      "type": "survey",
+      "domains": [
+        "survey-interoperability"
+      ],
+      "novelty": "survey",
+      "card": "papers/zhu2023-interoperability-blockchain-su.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tkde.2023.3275220",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "id": "zhu2024-balancing-privacy-regulation",
+      "title": "Balancing Privacy and Regulation of Cross-Chain Transaction Systems via SoK-Assisted Policy Enhancement",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhu2024-balancing-privacy-regulation.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tifs.2024.3402150",
+      "venue": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "id": "zhu2024-cross-chain-abnormal",
+      "title": "Cross-chain Abnormal Transaction Detection via Graph-based Multi-model Fusion",
+      "year": 2024,
+      "type": "system",
+      "domains": [
+        "rt-graph-ml"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhu2024-cross-chain-abnormal.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1145/3659463.3660008",
+      "venue": "International Symposium on Blockchain and Secure Critical Infrastructure"
+    },
+    {
+      "id": "zhu2024-iotauth-decentralized-cross",
+      "title": "IoTAuth: A Decentralized Cross-Chain Identity Authentication Scheme for 6G Non-Terrestrial IoT Networks",
+      "year": 2024,
+      "type": "method",
+      "domains": [
+        "def-privacy-auth"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhu2024-iotauth-decentralized-cross.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/mnet.2024.3381081",
+      "venue": "IEEE Network"
+    },
+    {
+      "id": "zhu2025-ec2p-cost-effective",
+      "title": "EC2P: Cost-Effective Cross-Chain Payments via Hubs Resisting the Abort Attack",
+      "year": 2025,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhu2025-ec2p-cost-effective.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tc.2025.3590960",
+      "venue": "IEEE transactions on computers"
+    },
+    {
+      "id": "zhu2026-scriptless-atomic-swap",
+      "title": "Scriptless Atomic Swap With Batch Processing",
+      "year": 2026,
+      "type": "method",
+      "domains": [
+        "def-formal-protocol"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zhu2026-scriptless-atomic-swap.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/tifs.2026.3707794",
+      "venue": "IEEE Transactions on Information Forensics and Security"
+    },
+    {
+      "id": "zindros2019-proof-stake-sidechains",
+      "title": "Proof-of-Stake Sidechains",
+      "year": 2019,
+      "type": "method",
+      "domains": [
+        "def-lightclient-zk"
+      ],
+      "novelty": "complementary",
+      "card": "papers/zindros2019-proof-stake-sidechains.md",
+      "integrated": "2026-10-02",
+      "doi": "10.1109/sp.2019.00040",
+      "venue": "IEEE Symposium on Security and Privacy"
+    }
+  ],
+  "total_papers": 168,
+  "total": 168,
+  "last_updated": "2026-10-02"
+}

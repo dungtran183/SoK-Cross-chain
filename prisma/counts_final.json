@@ -1,0 +1,49 @@
+{
+  "stage1": {
+    "identified_per_source": {
+      "arxiv": 324,
+      "openalex": 1242,
+      "semanticscholar": 803
+    },
+    "identified_total": 2369,
+    "duplicates_removed": 977,
+    "after_dedup": 1392,
+    "auto_excluded": {
+      "R2": 420,
+      "R3": 61
+    },
+    "auto_excluded_total": 481,
+    "to_title_abstract_screening": 911
+  },
+  "ta_screened": 911,
+  "ta_excluded": 554,
+  "reports_assessed": 357,
+  "excluded_by_reason": {
+    "EC5": 33,
+    "EC4": 99,
+    "EC1": 13,
+    "EC2": 22,
+    "EC3": 30
+  },
+  "included_from_databases": 160,
+  "included_other_methods": 8,
+  "included_total": 168,
+  "by_category": {
+    "C": 85,
+    "B": 26,
+    "A": 16,
+    "E": 25,
+    "D": 11,
+    "F": 5
+  },
+  "by_year": {
+    "2019": 6,
+    "2020": 3,
+    "2021": 6,
+    "2022": 18,
+    "2023": 19,
+    "2024": 34,
+    "2025": 45,
+    "2026": 37
+  }
+}

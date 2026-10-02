@@ -1,0 +1,168 @@
+{"id": "abbadi2019-atomic-commitment-across", "title": "Atomic commitment across blockchains", "topics": ["def-formal-protocol"]}
+{"id": "agustin2025-bads-real-time", "title": "BADS: Real-Time Anomaly Detection and Reporting for Cross-Chain Bridges Using Large Language Models", "topics": ["rt-graph-ml"]}
+{"id": "akcora2025-hedge-funds-swamp", "title": "Hedge Funds on a Swamp: Analyzing Patterns, Vulnerabilities, and Defense Measures in Blockchain Bridges", "topics": ["incident-measurement"]}
+{"id": "anon2019-xclaim-trustless-interoperable", "title": "XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets", "topics": ["def-lightclient-zk"]}
+{"id": "anon2021-survey-blockchain-interoperabi", "title": "A Survey on Blockchain Interoperability: Past, Present, and Future Trends", "topics": ["survey-interoperability"]}
+{"id": "anon2022-overview-cross-chain", "title": "An overview on cross-chain: Mechanism, platforms, challenges and advances", "topics": ["survey-interoperability"]}
+{"id": "anon2022-sok-decentralized-finance", "title": "SoK: Decentralized Finance (DeFi)", "topics": ["survey-defi-smart-contract"]}
+{"id": "anon2023-exploring-blockchains-interope", "title": "Exploring Blockchains Interoperability: A Systematic Survey", "topics": ["survey-interoperability"]}
+{"id": "anon2023-sok-decentralized-finance", "title": "SoK: Decentralized Finance (DeFi) Attacks", "topics": ["survey-defi-smart-contract"]}
+{"id": "anon2025-dave-cc-decentralized", "title": "DAVE-CC: A decentralized, access-controlled, verifiable ecosystem for cross-chain academic credential management", "topics": ["def-privacy-auth"]}
+{"id": "anon2026-crosstrust-iot-adaptive", "title": "CrossTrust-IoT: An adaptive reinforcement learning framework for cross-chain trust in resource-constrained IoT networks", "topics": ["rt-trust-reputation"]}
+{"id": "arote2026-mind-gap-liquidity", "title": "Mind the Gap: Liquidity Poisoning Attacks on Multihop Cross-Chain Arbitrage", "topics": ["atk-economic-user"]}
+{"id": "banister2021-layerzero-trustless-omnichain", "title": "LayerZero: Trustless Omnichain Interoperability Protocol", "topics": ["def-threshold-committee"]}
+{"id": "bertino2025-p2c2t-preserving-privacy", "title": "P2C2T: Preserving the Privacy of Cross-Chain Transfer", "topics": ["def-privacy-auth"]}
+{"id": "bertino2026-shifthub-enabling-atomic", "title": "ShiftHub: Enabling Atomic, Unlinkable, and Practical m~1 Cross-Chain Transfer", "topics": ["def-privacy-auth"]}
+{"id": "chaurasia2026-proof-repute-consensus", "title": "Proof of Repute Consensus (PoRC): A decentralized approach to blockchain interoperability", "topics": ["rt-trust-reputation"]}
+{"id": "chen2022-xscope-hunting-cross", "title": "Xscope: Hunting for Cross-Chain Bridge Attacks", "topics": ["rt-rule-invariant", "incident-measurement"]}
+{"id": "chen2024-proof-finalization-self", "title": "Proof of Finalization: A Self-Fulfilling Function of Blockchain", "topics": ["def-lightclient-zk"]}
+{"id": "chen2024-xguard-detecting-inconsistency", "title": "XGuard: Detecting Inconsistency Behaviors of Crosschain Bridges", "topics": ["rt-rule-invariant"]}
+{"id": "chen2025-security-analysis-web3", "title": "A Security Analysis of Web3.0 Cross-Chain Bridges", "topics": ["incident-measurement"]}
+{"id": "cheng2022-cross-channel-scalable", "title": "Cross-Channel: Scalable Off-Chain Channels Supporting Fair and Atomic Cross-Chain Operations", "topics": ["def-formal-protocol"]}
+{"id": "cheng2024-ccc-tm-cross", "title": "CCC-TM: Cross-Chain consensus committee method using a trust model", "topics": ["rt-trust-reputation", "def-threshold-committee"]}
+{"id": "choo2023-cross-chain-based", "title": "Cross-Chain-Based Trustworthy Node Identity Governance in Internet of Things", "topics": ["def-privacy-auth"]}
+{"id": "correia2023-harmonia-securing-cross", "title": "Harmonia: Securing Cross-Chain Applications Using Zero-Knowledge Proofs", "topics": ["def-lightclient-zk"]}
+{"id": "correia2024-benchmarking-blockchain-bridge", "title": "Benchmarking Blockchain Bridge Aggregators", "topics": ["atk-economic-user", "incident-measurement"]}
+{"id": "correia2024-hephaestus-modeling-analysis", "title": "Hephaestus: Modeling, Analysis, and Performance Evaluation of Cross-Chain Transactions", "topics": ["def-formal-protocol"]}
+{"id": "correia2024-xchainwatcher-identifying-anom", "title": "XChainWatcher: Identifying Anomalies in Cross-Chain Bridges", "topics": ["rt-rule-invariant", "data-benchmark"]}
+{"id": "correia2025-automatic-cross-chain", "title": "Automatic Cross-chain Protocol Pausing with Real-time Conformance Checking", "topics": ["resp-mitigation"]}
+{"id": "correia2025-looking-anomalies-cross", "title": "Looking for Anomalies in Cross-Chain Bridges", "topics": ["rt-graph-ml"]}
+{"id": "correia2026-exploiting-liquidity-exhaustio", "title": "Exploiting Liquidity Exhaustion Attacks in Intent-Based Cross-Chain Bridges", "topics": ["atk-economic-user", "atk-offchain-relay"]}
+{"id": "correia2026-intentfuzz-protocol-aware", "title": "IntentFuzz: A Protocol-Aware Fuzzer for Automated Invariant Violation Detection in Intent-Based Cross-Chain Bridges", "topics": ["pre-fuzzing-testing"]}
+{"id": "cortesi2025-cross-chain-smart", "title": "Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and Challenges", "topics": ["pre-static-symbolic"]}
+{"id": "cortesi2025-double-spending-attacks", "title": "Double-Spending Attacks in Cross-Blockchain Ecosystems", "topics": ["atk-protocol-level"]}
+{"id": "davi2026-2b-lessons-brigade", "title": "$2B Lessons: Brigade as a Defense Against Real-World DeFi Bridge Exploits", "topics": ["rt-rule-invariant", "resp-mitigation"]}
+{"id": "davi2026-fuzzing-cross-chain", "title": "Fuzzing Cross-Chain Vulnerabilities with BridgeFuzz", "topics": ["pre-fuzzing-testing"]}
+{"id": "deng2025-ivycross-privacy-preserving", "title": "IvyCross: A Privacy-Preserving and Concurrency Control Framework for Blockchain Interoperability", "topics": ["def-privacy-auth"]}
+{"id": "errett2026-contagion-decentralized-infras", "title": "Contagion in Decentralized Infrastructure: How Cross-Chain Bridge Exploits Propagate Failure Across the Blockchain Ecosystem", "topics": ["atk-economic-user", "incident-measurement"]}
+{"id": "espinoza2025-comparative-security-analysis", "title": "Comparative Security Analysis of Cross-Chain Protocols: An Empirical and Metrics-Based Approach", "topics": ["incident-measurement"]}
+{"id": "feng2026-mercury-practical-cross", "title": "Mercury: Practical Cross-Chain Exchange via Trusted Hardware", "topics": ["def-threshold-committee"]}
+{"id": "gong2023-anonymous-supervisory-cross", "title": "An Anonymous and Supervisory Cross-chain Privacy Protection Protocol for Zero-trust IoT Application", "topics": ["def-privacy-auth"]}
+{"id": "gorzny2022-sok-not-quite", "title": "SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks", "topics": ["sok-bridge-security", "incident-measurement"]}
+{"id": "halder2026-slac-ib-secure", "title": "SLAC-IB: a secure and scalable service-level access control framework for interoperable blockchains", "topics": ["def-privacy-auth"]}
+{"id": "han2026-ltras-linkable-threshold", "title": "LTRAS: A Linkable Threshold Ring Adaptor Signature Scheme for Efficient and Private Cross-Chain Transactions", "topics": ["def-privacy-auth"]}
+{"id": "han2026-verifiable-privacy-preserving", "title": "A Verifiable Privacy-Preserving Cross-Chain Protocol for Trusted Vehicle Edge Computing", "topics": ["def-privacy-auth"]}
+{"id": "hardjono2024-sok-security-privacy", "title": "SoK: Security and Privacy of Blockchain Interoperability", "topics": ["sok-bridge-security"]}
+{"id": "haro2024-sok-cross-chain", "title": "SoK: Cross-Chain Bridging Architectural Design Flaws and Mitigations", "topics": ["sok-bridge-security"]}
+{"id": "he2025-conditional-privacy-preserving", "title": "Conditional Privacy-Preserving Transaction for the Unspent Transaction Output-Based Multi-Chain Blockchain System", "topics": ["def-privacy-auth"]}
+{"id": "hei2022-cross-chain-jamming", "title": "Cross-chain Jamming Attack with Light Client Verification Clash in IBC Protocol", "topics": ["atk-offchain-relay", "atk-protocol-level"]}
+{"id": "hei2026-cr2p-collaborative-regulatory", "title": "CR2P:Collaborative regulatory privacy protection scheme in cross-chain-based anonymous payments", "topics": ["def-privacy-auth"]}
+{"id": "herlihy2021-hedging-against-sore", "title": "Hedging Against Sore Loser Attacks in Cross-Chain Transactions", "topics": ["atk-protocol-level"]}
+{"id": "herlihy2022-distributed-runtime-verificati", "title": "Distributed Runtime Verification of Metric Temporal Properties for Cross-Chain Protocols", "topics": ["rt-rule-invariant"]}
+{"id": "hu2024-calculation-selection-scheme", "title": "Calculation and selection scheme of node reputation values for notary mechanism in cross-chain", "topics": ["rt-trust-reputation"]}
+{"id": "juels2019-tesseract-real-time", "title": "Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware", "topics": ["def-formal-protocol"]}
+{"id": "knottenbelt2019-sok-communication-across", "title": "SoK: Communication Across Distributed Ledgers", "topics": ["survey-interoperability", "sok-bridge-security"]}
+{"id": "lee2025-sok-review-cross", "title": "SoK: A Review of Cross-Chain Bridge Hacks in 2023", "topics": ["sok-bridge-security", "incident-measurement"]}
+{"id": "lee2026-layer-0-layer", "title": "Layer 0 and Layer 1 Integrated Smart Contract Kill Switch for Cross-Chain Security in Decentralized Systems", "topics": ["resp-mitigation"]}
+{"id": "li2022-secure-cross-chain", "title": "A secure cross-chain transaction model based on quantum multi-signature", "topics": ["def-threshold-committee"]}
+{"id": "li2022-security-privacy-challenges", "title": "Security and Privacy Challenges in Blockchain Interoperability - A Multivocal Literature Review", "topics": ["sok-bridge-security"]}
+{"id": "li2024-dart-low-cost", "title": "DART: A Low-Cost and Secure Cross-Chain Scheme for Popular Digital Assets", "topics": ["def-threshold-committee"]}
+{"id": "li2024-pacdam-privacy-preserving", "title": "PACDAM: Privacy-Preserving and Adaptive Cross-Chain Digital Asset Marketplace", "topics": ["def-privacy-auth"]}
+{"id": "li2024-reinventing-multi-user", "title": "Reinventing Multi-User Authentication Security From Cross-Chain Perspective", "topics": ["def-privacy-auth"]}
+{"id": "li2025-phantom-events-demystifying", "title": "Phantom Events: Demystifying the Issues of Log Forgery in Blockchain", "topics": ["atk-verification-flaw"]}
+{"id": "li2026-eventspec-defining-detecting", "title": "EventSpec: Defining and Detecting Event-Semantic Issues in Blockchain Ecosystems", "topics": ["pre-static-symbolic", "atk-verification-flaw"]}
+{"id": "li2026-hybrid-relay-architecture", "title": "Hybrid Relay Architecture: A Decentralized and Semantically-Agnostic Interoperability Framework for Blockchain", "topics": ["def-threshold-committee"]}
+{"id": "liao2025-cifgviewer-detecting-cross", "title": "CIFGViewer: Detecting Cross-chain Bridge Attacks via Cross-chain Information Flow Graph", "topics": ["rt-graph-ml"]}
+{"id": "lin2024-security-cross-chain", "title": "Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems", "topics": ["sok-bridge-security"]}
+{"id": "liu2022-zerocross-sidechain-based", "title": "ZeroCross: A sidechain-based privacy-preserving Cross-chain solution for Monero", "topics": ["def-privacy-auth"]}
+{"id": "liu2023-cross-chain-virtual", "title": "Cross-Chain Virtual Payment Channels", "topics": ["def-formal-protocol"]}
+{"id": "loke2022-notary-group-based", "title": "A notary group-based cross-chain mechanism", "topics": ["def-threshold-committee"]}
+{"id": "lu2025-crosschannel-efficient-scalabl", "title": "CrossChannel: Efficient and Scalable Cross-Chain Transactions Through Cross-and-Off-Blockchain Micropayment Channel", "topics": ["def-formal-protocol"]}
+{"id": "luo2026-tracing-shadows-automatic", "title": "Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis", "topics": ["resp-mitigation"]}
+{"id": "ma2025-who-constitute-vasps", "title": "Who Constitute the VASPs in DeFi? A Case Study on Money Laundering via Cross-Chain Bridge from the 2022 Harmony Hack", "topics": ["atk-economic-user"]}
+{"id": "maffei2023-glimpse-demand-pow", "title": "Glimpse: On-Demand PoW Light Client with Constant-Size Storage for DeFi", "topics": ["def-lightclient-zk"]}
+{"id": "maffei2024-alba-dawn-scalable", "title": "Alba: The Dawn of Scalable Bridges for Blockchains", "topics": ["def-lightclient-zk"]}
+{"id": "mandal2025-4-swap-achieving", "title": "4-Swap: Achieving Grief-Free and Bribery-Safe Atomic Swaps Using Four Transactions", "topics": ["def-formal-protocol"]}
+{"id": "matthes2026-cross-chain-arbitrage", "title": "Cross-Chain Arbitrage: The Next Frontier of MEV in Decentralized Finance", "topics": ["atk-economic-user"]}
+{"id": "muthukkumarasamy2023-formal-verification-burn", "title": "Formal Verification of the Burn-to-Claim Blockchain Interoperable Protocol", "topics": ["def-formal-protocol"]}
+{"id": "muthukkumarasamy2025-wormhole-cross-chain", "title": "Wormhole Cross-Chain Bridge Transactions Flow: An Exploratory Study", "topics": ["incident-measurement"]}
+{"id": "muthukkumarasamy2026-anomaly-detection-cross", "title": "Anomaly Detection in Cross-Chain Bridges: A Data Analytics Study", "topics": ["rt-graph-ml"]}
+{"id": "nazirkhanova2023-interchain-timestamping-mesh", "title": "Interchain Timestamping for Mesh Security", "topics": ["def-threshold-committee"]}
+{"id": "nishad2022-atomic-cross-chain", "title": "Atomic cross-chain exchanges of shared assets", "topics": ["def-formal-protocol"]}
+{"id": "ota2025-cross-chain-privacy", "title": "Cross-Chain Privacy Preserving for BIoMT With Designated Verifier Proxy Signature", "topics": ["def-privacy-auth"]}
+{"id": "ota2026-ccpp-cross-chain", "title": "CCPP: Cross-Chain Privacy-Preserving for CCLS With Lattice-Based Ring Signature", "topics": ["def-privacy-auth"]}
+{"id": "pham2024-chainsniper-machine-learning", "title": "ChainSniper: A Machine Learning Approach for Auditing Cross-Chain Smart Contracts", "topics": ["pre-ml-llm-audit"]}
+{"id": "pham2025-acheron-market-based", "title": "Acheron: a market-based multi-relay architecture for adaptive and secure cross-chain communication", "topics": ["rt-trust-reputation"]}
+{"id": "pham2025-veribridge-real-time", "title": "VeriBridge: Real-Time Cross-Chain Bridge Attack Detection through Static-Informed Graph Anomaly Learning", "topics": ["rt-graph-ml"]}
+{"id": "pham2026-crossguard-multi-modal", "title": "CrossGuard: a multi-modal few-shot learning framework for detecting cross-chain smart contract vulnerabilities", "topics": ["pre-ml-llm-audit"]}
+{"id": "pham2026-evolutionary-soft-computing", "title": "Evolutionary soft computing for interpretable exploit generation in cross-chain bridges", "topics": ["pre-fuzzing-testing"]}
+{"id": "pham2026-povichain-lightweight-verifiab", "title": "PoVIChain: Lightweight and verifiable cross-chain interoperability for heterogeneous edge networks", "topics": ["def-lightclient-zk"]}
+{"id": "pham2026-zk-htlc-formally", "title": "zk-HTLC: A formally verified defense against linkability attacks in trust-minimized cross-chain networks", "topics": ["def-formal-protocol", "def-privacy-auth"]}
+{"id": "qi2024-blockchain-cross-chain", "title": "A Blockchain Cross-Chain Transaction Method Based on Decentralized Dynamic Reputation Value Assessment", "topics": ["rt-trust-reputation", "def-threshold-committee"]}
+{"id": "qi2025-optimized-cross-chain", "title": "Optimized Cross-Chain Transactions With Aggregated Zero-Knowledge Proofs: Enhancing Efficiency and Security", "topics": ["def-lightclient-zk"]}
+{"id": "ramesh2020-general-purpose-atomic", "title": "General Purpose Atomic Crosschain Transactions", "topics": ["def-formal-protocol"]}
+{"id": "ruan2024-xsema-novel-framework", "title": "XSema: A Novel Framework for Semantic Extraction of Cross-chain Transactions", "topics": ["rt-graph-ml"]}
+{"id": "savage2024-count-monte-crypto", "title": "Count of Monte Crypto: Accounting-based Defenses for Cross-Chain Bridges", "topics": ["rt-rule-invariant"]}
+{"id": "schifanella2023-mp-htlc-enabling", "title": "MP‐HTLC: Enabling blockchain interoperability through a multiparty implementation of the hash time‐lock contract", "topics": ["def-formal-protocol"]}
+{"id": "schneider2023-highguard-cross-chain", "title": "HighGuard: Cross-Chain Business Logic Monitoring of Smart Contracts", "topics": ["rt-rule-invariant"]}
+{"id": "schulte2022-decentralized-cross-blockchain", "title": "Decentralized cross-blockchain asset transfers with transfer confirmation", "topics": ["def-formal-protocol"]}
+{"id": "shi2019-cross-chain-bribery", "title": "Cross Chain Bribery Contracts: Majority vs Mighty Minority", "topics": ["atk-economic-user"]}
+{"id": "shi2023-pxcrypto-regulated-privacy", "title": "PXCrypto: A Regulated Privacy-Preserving Cross-Chain Transaction Scheme", "topics": ["def-privacy-auth"]}
+{"id": "song2022-zkbridge-trustless-cross", "title": "zkBridge: Trustless Cross-chain Bridges Made Practical", "topics": ["def-lightclient-zk"]}
+{"id": "stewart2025-trustless-bridges-random", "title": "Trustless Bridges via Random Sampling Light Clients", "topics": ["def-lightclient-zk"]}
+{"id": "stone2021-trustless-privacy-preserving", "title": "Trustless, privacy-preserving blockchain bridges", "topics": ["def-lightclient-zk", "def-privacy-auth"]}
+{"id": "su2024-safeguarding-blockchain-ecosys", "title": "Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges", "topics": ["incident-measurement", "rt-graph-ml"]}
+{"id": "suboti2025-formal-verification-fail", "title": "Formal Verification of a Fail-Safe Cross-Chain Bridge", "topics": ["def-formal-protocol", "pre-static-symbolic"]}
+{"id": "sun2024-cross-chain-access", "title": "A cross-chain access control mechanism based on blockchain and the threshold Paillier cryptosystem", "topics": ["def-privacy-auth"]}
+{"id": "sun2026-detecting-sybil-attacks", "title": "Detecting Sybil Attacks in Cross-Chain Transactions: A Multi-Stage Framework", "topics": ["rt-graph-ml"]}
+{"id": "sural2025-auditable-ledger-snapshot", "title": "Auditable Ledger Snapshot for Non-Repudiable Cross-Blockchain Communication", "topics": ["def-threshold-committee"]}
+{"id": "tang2022-sidechains-fast-cross", "title": "Sidechains With Fast Cross-Chain Transfers", "topics": ["def-lightclient-zk"]}
+{"id": "tessone2024-seamlessly-transferring-assets", "title": "Seamlessly Transferring Assets through Layer-0 Bridges: An Empirical Analysis of Stargate Bridge's Architecture and Dynamics", "topics": ["incident-measurement"]}
+{"id": "tessone2025-tracing-cross-chain", "title": "Tracing Cross-chain Transactions between EVM-based Blockchains: An Analysis of Ethereum-Polygon Bridges", "topics": ["incident-measurement"]}
+{"id": "tian2025-towards-efficient-consistency", "title": "Towards Efficient Consistency Auditing of Dynamic Data in Cross-Chain Interaction", "topics": ["def-threshold-committee"]}
+{"id": "torres2026-signals-spoils-speculative", "title": "Signals and Spoils: Speculative Oracle Extractable Value in the Era of Cross-Chain Interoperability", "topics": ["atk-economic-user", "atk-offchain-relay"]}
+{"id": "vadlamani2024-intelligent-blockchain-based", "title": "Intelligent blockchain based attack detection framework for cross-chain transaction", "topics": ["rt-graph-ml"]}
+{"id": "valiorgue2024-agnostic-secure-interoperabili", "title": "An agnostic and secure interoperability protocol for seamless asset movement", "topics": ["def-formal-protocol"]}
+{"id": "vasconcelos2022-securing-cross-chain", "title": "Securing Cross-Chain Asset Transfers on Permissioned Blockchains", "topics": ["def-threshold-committee"]}
+{"id": "verdian2023-implementing-secure-bridges", "title": "Implementing Secure Bridges: Learnings from the Secure Asset Transfer Protocol", "topics": ["def-formal-protocol"]}
+{"id": "viswanath2022-trustboost-boosting-trust", "title": "TrustBoost: Boosting Trust among Interoperable Blockchains", "topics": ["def-threshold-committee"]}
+{"id": "wan2023-survey-cross-chain", "title": "A Survey on Cross-chain Technologies", "topics": ["survey-interoperability"]}
+{"id": "wang2023-attacks-against-cross", "title": "Attacks Against Cross-Chain Systems and Defense Approaches: A Contemporary Survey", "topics": ["sok-bridge-security"]}
+{"id": "wang2024-relay-network-based", "title": "Relay network-based cross-chain data interaction protocol with integrity audit", "topics": ["def-threshold-committee"]}
+{"id": "wang2025-piecing-together-jigsaw", "title": "Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks", "topics": ["incident-measurement"]}
+{"id": "wang2025-privacy-preserving-cross", "title": "Privacy-preserving cross-chain asset transfers using notary schemes and zero-knowledge proofs", "topics": ["def-privacy-auth", "def-threshold-committee"]}
+{"id": "wang2025-walls-have-ears", "title": "The Walls Have Ears: Unveiling Cross-Chain Sandwich Attacks in DeFi", "topics": ["atk-economic-user"]}
+{"id": "wang2026-cross-chain-identity", "title": "Cross-chain identity privacy protection scheme based on oblivious transfer protocol and key agreement", "topics": ["def-privacy-auth"]}
+{"id": "wang2026-price-interoperability-explori", "title": "The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences", "topics": ["incident-measurement", "atk-economic-user"]}
+{"id": "wang2026-xpch-cross-chain", "title": "XPCH: A Cross-Chain Payment Protocol via Connecting the Payment Channel Hubs", "topics": ["def-formal-protocol"]}
+{"id": "wei2020-enabling-cross-chain", "title": "Enabling Cross-Chain Transactions: A Decentralized Cryptocurrency Exchange Protocol", "topics": ["def-formal-protocol"]}
+{"id": "wei2024-atomci-new-system", "title": "AtomCI: A New System for the Atomic Cross-Chain Smart Contract Invocation Spanning Heterogeneous Blockchains", "topics": ["def-formal-protocol"]}
+{"id": "weippl2021-pay-win-cheap", "title": "Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies", "topics": ["atk-economic-user"]}
+{"id": "wu2020-blockchain-model-tamarin", "title": "A Blockchain Model in Tamarin and Formal Analysis of Hash Time Lock Contract", "topics": ["def-formal-protocol"]}
+{"id": "wu2024-detecting-fake-deposit", "title": "Detecting Fake Deposit Attacks on Cross-chain Bridges from a Network Perspective", "topics": ["atk-verification-flaw", "rt-graph-ml"]}
+{"id": "wu2025-bridgeguard-checking-external", "title": "BridgeGuard: Checking External Interaction Vulnerabilities in Cross-Chain Bridge Router Contracts Based on Symbolic Dataflow Analysis", "topics": ["pre-static-symbolic"]}
+{"id": "wu2025-secure-efficient-data", "title": "Secure and Efficient Data Interoperability Protocols for Multi-Blockchains Systems", "topics": ["def-threshold-committee"]}
+{"id": "wu2026-cross-chain-laundering", "title": "Cross-Chain Laundering Tracer: Activity Tracking Methodology for Cryptocurrency Laundering", "topics": ["resp-mitigation"]}
+{"id": "wu2026-stalled-cross-chain", "title": "Stalled Cross-chain Transactions: Scale, Impacts, and Causes", "topics": ["atk-offchain-relay", "incident-measurement"]}
+{"id": "wu2026-vecrotoken-efficient-verifiabl", "title": "VeCroToken: An Efficient, Verifiable, and Privacy-Preserving Cross-Chain Model for Consortium Blockchains Based on zk-SNARKs", "topics": ["def-privacy-auth"]}
+{"id": "xiang2022-dciv-decentralized-cross", "title": "DCIV: Decentralized cross-chain data integrity verification with blockchain", "topics": ["def-threshold-committee"]}
+{"id": "xiang2023-bedcv-blockchain-enabled", "title": "BeDCV: Blockchain-Enabled Decentralized Consistency Verification for Cross-Chain Calculation", "topics": ["def-threshold-committee"]}
+{"id": "xiang2024-blockchain-cross-chain", "title": "Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and Future Outlook", "topics": ["sok-bridge-security"]}
+{"id": "xiao2025-pace-privacy-preserving", "title": "Pace: Privacy-Preserving and Atomic Cross-chain Swaps for Cryptocurrency Exchanges", "topics": ["def-formal-protocol", "def-privacy-auth"]}
+{"id": "xu2025-decross-toward-accountable", "title": "DeCross: Toward Accountable and Efficient Cross-Chain Collaboration in IIoT", "topics": ["def-threshold-committee"]}
+{"id": "xu2025-warning-timeout-t", "title": "Warning! The Timeout T Cannot Protect You From Losing Coins: PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps", "topics": ["def-formal-protocol"]}
+{"id": "yao2025-secure-cross-chain", "title": "Secure cross-chain interactions: a relay chain framework with privacy and auditability solutions", "topics": ["def-privacy-auth"]}
+{"id": "yu2026-gumswap-griefing-free", "title": "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps", "topics": ["def-formal-protocol"]}
+{"id": "zamani2021-horizon-gas-efficient", "title": "Horizon: A Gas-Efficient, Trustless Bridge for Cross-Chain Transactions", "topics": ["def-lightclient-zk"]}
+{"id": "zhang2023-formal-analysis-ibc", "title": "Formal Analysis of IBC Protocol", "topics": ["def-formal-protocol"]}
+{"id": "zhang2023-test-case-generation", "title": "Test Case Generation for Cross-Blockchain Smart Contract", "topics": ["pre-fuzzing-testing"]}
+{"id": "zhang2024-framework-efficient-cross", "title": "A framework for efficient cross-chain token transfers in blockchain networks", "topics": ["def-formal-protocol"]}
+{"id": "zhang2024-sidechains-optimally-succinct", "title": "Sidechains With Optimally Succinct Proof", "topics": ["def-lightclient-zk"]}
+{"id": "zhang2025-empirical-study-cross", "title": "An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities", "topics": ["incident-measurement", "atk-protocol-level"]}
+{"id": "zhang2025-multi-authority-attribute", "title": "Multi-Authority Attribute-Based Encryption Scheme With Access Delegation for Cross Blockchain Data Sharing", "topics": ["def-privacy-auth"]}
+{"id": "zhang2025-xchaindatagen-cross-chain", "title": "XChainDataGen: A Cross-Chain Dataset Generation Framework", "topics": ["data-benchmark"]}
+{"id": "zhang2026-equilink-bridge-semi", "title": "EquiLink Bridge: A Semi-Custodial Approach to Cross-Chain Transactions via TEE", "topics": ["def-threshold-committee"]}
+{"id": "zhang2026-securing-hashed-timelock", "title": "Securing hashed timelock cross-chain protocol with trusted middleman in blockchain networks", "topics": ["def-formal-protocol"]}
+{"id": "zheng2024-pssc-practical-secure", "title": "PSSC: Practical and Secure Sidechain Construction for Heterogeneous Blockchains Orienting IoT", "topics": ["def-lightclient-zk"]}
+{"id": "zheng2024-smartaxe-detecting-cross", "title": "SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis", "topics": ["pre-static-symbolic"]}
+{"id": "zheng2025-bridgeshield-enhancing-securit", "title": "BridgeShield: Enhancing Security for Cross-chain Bridge Applications via Heterogeneous Graph Mining", "topics": ["rt-graph-ml"]}
+{"id": "zheng2025-track-trace-automatically", "title": "Track and Trace: Automatically Uncovering Cross-Chain Transactions in the Multi-Blockchain Ecosystems", "topics": ["rt-graph-ml", "resp-mitigation"]}
+{"id": "zhong2025-connex-automatically-resolving", "title": "ConneX: Automatically Resolving Transaction Opacity of Cross-Chain Bridges for Security Analysis", "topics": ["rt-graph-ml", "data-benchmark"]}
+{"id": "zhou2025-sightcvc-efficient-compatible", "title": "SightCVC: An Efficient and Compatible Multi-Chain Transaction Protocol in Heterogeneous Blockchain Systems", "topics": ["def-formal-protocol"]}
+{"id": "zhu2023-interoperability-blockchain-su", "title": "Interoperability in Blockchain: A Survey", "topics": ["survey-interoperability"]}
+{"id": "zhu2024-balancing-privacy-regulation", "title": "Balancing Privacy and Regulation of Cross-Chain Transaction Systems via SoK-Assisted Policy Enhancement", "topics": ["def-privacy-auth"]}
+{"id": "zhu2024-cross-chain-abnormal", "title": "Cross-chain Abnormal Transaction Detection via Graph-based Multi-model Fusion", "topics": ["rt-graph-ml"]}
+{"id": "zhu2024-iotauth-decentralized-cross", "title": "IoTAuth: A Decentralized Cross-Chain Identity Authentication Scheme for 6G Non-Terrestrial IoT Networks", "topics": ["def-privacy-auth"]}
+{"id": "zhu2025-ec2p-cost-effective", "title": "EC2P: Cost-Effective Cross-Chain Payments via Hubs Resisting the Abort Attack", "topics": ["def-formal-protocol"]}
+{"id": "zhu2026-scriptless-atomic-swap", "title": "Scriptless Atomic Swap With Batch Processing", "topics": ["def-formal-protocol"]}
+{"id": "zindros2019-proof-stake-sidechains", "title": "Proof-of-Stake Sidechains", "topics": ["def-lightclient-zk"]}

@@ -1,0 +1,2716 @@
+[
+ {
+  "title": "Atomic commitment across blockchains",
+  "authors": "Victor Zakhary; D. Agrawal; A. El Abbadi",
+  "year": "2019",
+  "venue": "Proceedings of the VLDB Endowment",
+  "doi": "10.14778/3397230.3397231",
+  "arxiv": "1905.02847",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 111,
+  "summary": "The recent adoption of blockchain technologies and open permissionless networks suggest the importance of peer-to-peer atomic cross-chain transaction protocols.",
+  "relevance": "PRISMA study S001 (database); category C.3"
+ },
+ {
+  "title": "Cross Chain Bribery Contracts: Majority vs Mighty Minority",
+  "authors": "Quang-Tuan Tran; Lin Chen; Lei Xu; Yang Lu; Rabimba Karanjai; Wei-Dong Shi",
+  "year": "2019",
+  "venue": "Practical Applications of Agents and Multi-Agent Systems",
+  "doi": "10.1007/978-3-030-24299-2_11",
+  "arxiv": "2306.07984",
+  "topics": [
+   "atk-economic-user"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 3,
+  "summary": "Bribery is a perilous issue in the real world, especially in an economical aspect.",
+  "relevance": "PRISMA study S002 (database); category B.6"
+ },
+ {
+  "title": "Proof-of-Stake Sidechains",
+  "authors": "Peter Gazi; A. Kiayias; Dionysis Zindros",
+  "year": "2019",
+  "venue": "IEEE Symposium on Security and Privacy",
+  "doi": "10.1109/sp.2019.00040",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 229,
+  "summary": "Sidechains have long been heralded as the key enabler of blockchain scalability and interoperability.",
+  "relevance": "PRISMA study S003 (database); category C.1"
+ },
+ {
+  "title": "SoK: Communication Across Distributed Ledgers",
+  "authors": "Alexei Zamyatin; M. Al-Bassam; Dionysis Zindros; Eleftherios Kokoris-Kogias; Pedro A. Moreno-Sánchez; A. Kiayias; W. Knottenbelt",
+  "year": "2019",
+  "venue": "IACR Cryptology ePrint Archive",
+  "doi": "10.1007/978-3-662-64331-0_1",
+  "arxiv": "",
+  "topics": [
+   "survey-interoperability",
+   "sok-bridge-security"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": 232,
+  "summary": "—Communication across distributed systems, each running its own consensus, is a problem previously studied under the assumption of trust across systems.",
+  "relevance": "PRISMA study S004 (database); category A.2"
+ },
+ {
+  "title": "Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware",
+  "authors": "Iddo Bentov; Yan Ji; Fan Zhang; Lorenz Breidenbach; Philip Daian; A. Juels",
+  "year": "2019",
+  "venue": "Conference on Computer and Communications Security",
+  "doi": "10.1145/3319535.3363221",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 76,
+  "summary": "We propose Tesseract, a secure real-time cryptocurrency exchange service.",
+  "relevance": "PRISMA study S005 (database); category C.3"
+ },
+ {
+  "title": "A Blockchain Model in Tamarin and Formal Analysis of Hash Time Lock Contract",
+  "authors": "C. Boyd; Kristian Gjøsteen; Shuang Wu",
+  "year": "2020",
+  "venue": "FMBC@CAV",
+  "doi": "10.4230/oasics.fmbc.2020.5",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 11,
+  "summary": "Formal analysis and verification methods can aid the design and validation of security properties in blockchain based protocols.",
+  "relevance": "PRISMA study S006 (database); category C.3"
+ },
+ {
+  "title": "Enabling Cross-Chain Transactions: A Decentralized Cryptocurrency Exchange Protocol",
+  "authors": "Hangyu Tian; Kai-Ping Xue; Xin Luo; Shaohua Li; Jie Xu; Jianqing Liu; Jun Zhao; David S. L. Wei",
+  "year": "2020",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "doi": "10.1109/tifs.2021.3096124",
+  "arxiv": "2005.03199",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 97,
+  "summary": "Inspired by Bitcoin, many different kinds of cryptocurrencies based on blockchain technology have turned up on the market.",
+  "relevance": "PRISMA study S007 (database); category C.3"
+ },
+ {
+  "title": "General Purpose Atomic Crosschain Transactions",
+  "authors": "Peter Robinson; R. Ramesh",
+  "year": "2020",
+  "venue": "Conference on Blockchain Research & Applications for Innovative Networks and Services",
+  "doi": "10.1109/brains52497.2021.9569837",
+  "arxiv": "2011.12783",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 43,
+  "summary": "The General Purpose Atomic Crosschain Transaction protocol allows composable programming across multiple Ethereum blockchains.",
+  "relevance": "PRISMA study S008 (database); category C.3"
+ },
+ {
+  "title": "Hedging Against Sore Loser Attacks in Cross-Chain Transactions",
+  "authors": "Yingjie Xue; M. Herlihy",
+  "year": "2021",
+  "venue": "ACM SIGACT-SIGOPS Symposium on Principles of Distributed Computing",
+  "doi": "10.1145/3465084.3467904",
+  "arxiv": "2105.06322",
+  "topics": [
+   "atk-protocol-level"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 46,
+  "summary": "A sore loser attack in cross-blockchain commerce rises when one party decides to halt participation partway through, leaving other parties' assets locked up for a long duration.",
+  "relevance": "PRISMA study S009 (database); category B.5"
+ },
+ {
+  "title": "Horizon: A Gas-Efficient, Trustless Bridge for Cross-Chain Transactions",
+  "authors": "Rongjian Lan; Ganesha Upadhyaya; Stephen Tse; Mahdi Zamani",
+  "year": "2021",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2101.06000",
+  "arxiv": "2101.06000",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 24,
+  "summary": "With the rise of digital currency systems that rely on blockchain to ensure ledger security, the ability to perform cross-chain transactions is becoming a crucial interoperability requirement.",
+  "relevance": "PRISMA study S010 (database); category C.1"
+ },
+ {
+  "title": "LayerZero: Trustless Omnichain Interoperability Protocol",
+  "authors": "Ryan Zarick; Bryan Pellegrino; Caleb Banister",
+  "year": "2021",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2110.13871",
+  "arxiv": "2110.13871",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 36,
+  "summary": "The proliferation of blockchains has given developers a variety of platforms on which to run their smart contracts based on application features and requirements for throughput, security, and cost.",
+  "relevance": "PRISMA study S011 (database); category C.2"
+ },
+ {
+  "title": "Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies",
+  "authors": "Aljosha Judmayer; Nicholas Stifter; Alexei Zamyatin; Itay Tsabary; Ittay Eyal; Peter Gaži; Sarah J Meiklejohn; Edgar R. Weippl",
+  "year": "2021",
+  "venue": "Lecture notes in computer science",
+  "doi": "10.1007/978-3-662-63958-0_39",
+  "arxiv": "",
+  "topics": [
+   "atk-economic-user"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 11,
+  "summary": "Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies",
+  "relevance": "PRISMA study S012 (database); category B.6"
+ },
+ {
+  "title": "Trustless, privacy-preserving blockchain bridges",
+  "authors": "Drew Stone",
+  "year": "2021",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2102.04660",
+  "arxiv": "2102.04660",
+  "topics": [
+   "def-lightclient-zk",
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 18,
+  "summary": "In this paper, we present a protocol for facilitating trust-less cross-chain cryptocurrency transfers that preserve privacy of bridge withdrawals.",
+  "relevance": "PRISMA study S013 (database); category C.1"
+ },
+ {
+  "title": "A notary group-based cross-chain mechanism",
+  "authors": "Anping Xiong; Guihua Liu; Qingyi Zhu; Ankui Jing; Seng W. Loke",
+  "year": "2022",
+  "venue": "Digital Communications and Networks",
+  "doi": "10.1016/j.dcan.2022.04.012",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 89,
+  "summary": "As an emerging distributed technology, blockchain has begun to penetrate into many fields such as finance, healthcare, supply chain, intelligent transportation.",
+  "relevance": "PRISMA study S014 (database); category C.2"
+ },
+ {
+  "title": "A secure cross-chain transaction model based on quantum multi-signature",
+  "authors": "Zhuo Wang; Jian Li; Xiubo Chen; Chaoyang Li",
+  "year": "2022",
+  "venue": "Quantum Information Processing",
+  "doi": "10.1007/s11128-022-03600-y",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 14,
+  "summary": "A secure cross-chain transaction model based on quantum multi-signature",
+  "relevance": "PRISMA study S015 (database); category C.2"
+ },
+ {
+  "title": "Atomic cross-chain exchanges of shared assets",
+  "authors": "Krishnasuri Narayanam; V. Ramakrishna; Dhinakaran Vinayagamurthy; Sandeep Nishad",
+  "year": "2022",
+  "venue": "Conference on Advances in Financial Technologies",
+  "doi": "10.1145/3558535.3559786",
+  "arxiv": "2202.12855",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 20,
+  "summary": "A core enabler for blockchain or DLT interoperability is the ability to atomically exchange assets held by mutually untrusting owners on different ledgers.",
+  "relevance": "PRISMA study S016 (database); category C.3"
+ },
+ {
+  "title": "Cross-Channel: Scalable Off-Chain Channels Supporting Fair and Atomic Cross-Chain Operations",
+  "authors": "Yihao Guo; Minghui Xu; Dongxiao Yu; Yongdi Yu; Rajiv Ranjan; Xiu-Zhen Cheng",
+  "year": "2022",
+  "venue": "IEEE transactions on computers",
+  "doi": "10.1109/tc.2023.3288765",
+  "arxiv": "2212.07265",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 32,
+  "summary": "Cross-chain technology facilitates the interoperability among isolated blockchains on which users can freely communicate and transfer values.",
+  "relevance": "PRISMA study S017 (database); category C.3"
+ },
+ {
+  "title": "Cross-chain Jamming Attack with Light Client Verification Clash in IBC Protocol",
+  "authors": "Ya-Ling Zhang; Ziyan Wang; Yi-Chuan Wang; Xiao-Xue Liu; Xin-Hong Hei",
+  "year": "2022",
+  "venue": "2022 IEEE 21st International Conference on Ubiquitous Computing and Communications (IUCC/CIT/DSCI/SmartCNS)",
+  "doi": "10.1109/iucc-cit-dsci-smartcns57392.2022.00034",
+  "arxiv": "",
+  "topics": [
+   "atk-offchain-relay",
+   "atk-protocol-level"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 2,
+  "summary": "Inter-Blockchain Communication (IBC) in Cosmos is a Sidechains/Relays cross-chain protocol.",
+  "relevance": "PRISMA study S018 (database); category B.4"
+ },
+ {
+  "title": "DCIV: Decentralized cross-chain data integrity verification with blockchain",
+  "authors": "Jiajia Jiang; Yushu Zhang; Youwen Zhu; Xuewen Dong; Liangmin Wang; Yong Xiang",
+  "year": "2022",
+  "venue": "Journal of King Saud University - Computer and Information Sciences",
+  "doi": "10.1016/j.jksuci.2022.07.015",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 26,
+  "summary": "In recent years, blockchain holds promise to impact a wide range of application areas, but it still suffers from technical challenges such as security and scalability.",
+  "relevance": "PRISMA study S019 (database); category C.2"
+ },
+ {
+  "title": "Decentralized cross-blockchain asset transfers with transfer confirmation",
+  "authors": "Michael Sober; M. Sigwart; Philipp Frauenthaler; Christof Spanring; Max Kobelt; Stefan Schulte",
+  "year": "2022",
+  "venue": "Cluster Computing",
+  "doi": "10.1007/s10586-022-03737-6",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 17,
+  "summary": "Today, several solutions for cross-blockchain asset transfers exist.",
+  "relevance": "PRISMA study S020 (database); category C.3"
+ },
+ {
+  "title": "Distributed Runtime Verification of Metric Temporal Properties for Cross-Chain Protocols",
+  "authors": "Rita Ganguly; Ying-Jie Xue; A. Jonckheere; Parker Ljung; Benjamin Schornstein; B. Bonakdarpour; M. Herlihy",
+  "year": "2022",
+  "venue": "IEEE International Conference on Distributed Computing Systems",
+  "doi": "10.1109/icdcs54860.2022.00012",
+  "arxiv": "2204.09796",
+  "topics": [
+   "rt-rule-invariant"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 21,
+  "summary": "Transactions involving multiple blockchains are implemented by cross-chain protocols.",
+  "relevance": "PRISMA study S021 (database); category E.1"
+ },
+ {
+  "title": "Securing Cross-Chain Asset Transfers on Permissioned Blockchains",
+  "authors": "Catarina Pedreira; Rafael Belchior; Miguel Matos; André Vasconcelos",
+  "year": "2022",
+  "venue": "",
+  "doi": "10.36227/techrxiv.19651248.v3",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 12,
+  "summary": "Blockchains currently exist in silos, competing when they could be cooperating.",
+  "relevance": "PRISMA study S022 (database); category C.2"
+ },
+ {
+  "title": "Security and Privacy Challenges in Blockchain Interoperability - A Multivocal Literature Review",
+  "authors": "Terje Haugum; Bjorn Hoff; Mohammed Alsadi; Jing-Yue Li",
+  "year": "2022",
+  "venue": "International Conference on Evaluation & Assessment in Software Engineering",
+  "doi": "10.1145/3530019.3531345",
+  "arxiv": "",
+  "topics": [
+   "sok-bridge-security"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": 50,
+  "summary": "Transferring data and value across different blockchains is one of the biggest obstacles to further expansion.",
+  "relevance": "PRISMA study S023 (database); category A.1"
+ },
+ {
+  "title": "Sidechains With Fast Cross-Chain Transfers",
+  "authors": "Ling-Yuan Yin; Jing Xu; Qiang Tang",
+  "year": "2022",
+  "venue": "IEEE Transactions on Dependable and Secure Computing",
+  "doi": "10.1109/tdsc.2021.3114151",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 54,
+  "summary": "With the rapid evolution of the blockchain technologies, the interoperability of different blockchain systems is emerging as one of the essential features of blockchains.",
+  "relevance": "PRISMA study S024 (database); category C.1"
+ },
+ {
+  "title": "SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks",
+  "authors": "Sung-Shine Lee; A. Murashkin; Martin Derka; Jan Gorzny",
+  "year": "2022",
+  "venue": "International Conference on Blockchain",
+  "doi": "10.1109/icbc56567.2023.10174993",
+  "arxiv": "2210.16209",
+  "topics": [
+   "sok-bridge-security",
+   "incident-measurement"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": 88,
+  "summary": "The blockchain ecosystem has evolved into a multi-chain world with various blockchains vying for use.",
+  "relevance": "PRISMA study S025 (database); category A.1"
+ },
+ {
+  "title": "TrustBoost: Boosting Trust among Interoperable Blockchains",
+  "authors": "Peiyao Sheng; Xue-Chao Wang; Sreeram Kannan; Kartik Nayak; P. Viswanath",
+  "year": "2022",
+  "venue": "IACR Cryptology ePrint Archive",
+  "doi": "10.1145/3576915.3623080",
+  "arxiv": "2210.11571",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 32,
+  "summary": "Currently there exist many blockchains with weak trust guarantees, limiting applications and participation.",
+  "relevance": "PRISMA study S026 (database); category C.2"
+ },
+ {
+  "title": "Xscope: Hunting for Cross-Chain Bridge Attacks",
+  "authors": "Jiashuo Zhang; Jianbo Gao; Yue Li; Zi-Ming Chen; Zhi Guan; Zhong Chen",
+  "year": "2022",
+  "venue": "International Conference on Automated Software Engineering",
+  "doi": "10.1145/3551349.3559520",
+  "arxiv": "2208.07119",
+  "topics": [
+   "rt-rule-invariant",
+   "incident-measurement"
+  ],
+  "type": "system",
+  "novelty": "sota",
+  "citations": 59,
+  "summary": "Cross-Chain bridges have become the most popular solution to support asset interoperability between heterogeneous blockchains.",
+  "relevance": "PRISMA study S027 (database); category E.1"
+ },
+ {
+  "title": "ZeroCross: A sidechain-based privacy-preserving Cross-chain solution for Monero",
+  "authors": "Yuxian Li; Jian Weng; Jian Weng; Ming Li; Wei Wu; Jiasi Weng; Jiasi Weng; Jia-Nan Liu",
+  "year": "2022",
+  "venue": "Journal of Parallel and Distributed Computing",
+  "doi": "10.1016/j.jpdc.2022.07.008",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 57,
+  "summary": "ZeroCross: A sidechain-based privacy-preserving Cross-chain solution for Monero",
+  "relevance": "PRISMA study S028 (database); category C.4"
+ },
+ {
+  "title": "zkBridge: Trustless Cross-chain Bridges Made Practical",
+  "authors": "Tiancheng Xie; Jiaheng Zhang; Zerui Cheng; Fan Zhang; Yu-Peng Zhang; Yongzheng Jia; D. Boneh; D. Song",
+  "year": "2022",
+  "venue": "Conference on Computer and Communications Security",
+  "doi": "10.1145/3548606.3560652",
+  "arxiv": "2210.00264",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "sota",
+  "citations": 237,
+  "summary": "Blockchains have seen growing traction with cryptocurrencies reaching a market cap of over 1 trillion dollars, major institution investors taking interests, and global impacts on governments, businesses, and individuals.",
+  "relevance": "PRISMA study S029 (database); category C.1"
+ },
+ {
+  "title": "A Survey on Cross-chain Technologies",
+  "authors": "Panpan Han; Zheng Yan; Wenxiu Ding; Shufan Fei; Zhiguo Wan",
+  "year": "2023",
+  "venue": "Distributed Ledger Technol. Res. Pract.",
+  "doi": "10.1145/3573896",
+  "arxiv": "",
+  "topics": [
+   "survey-interoperability"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": 72,
+  "summary": "Blockchain has attracted more and more attention of academia, industry and government in recent decade.",
+  "relevance": "PRISMA study S030 (database); category A.2"
+ },
+ {
+  "title": "An Anonymous and Supervisory Cross-chain Privacy Protection Protocol for Zero-trust IoT Application",
+  "authors": "Yinghong Yang; Fen-Hua Bai; Zhuo Yu; Tao Shen; Ying-Li Liu; Bei Gong",
+  "year": "2023",
+  "venue": "ACM Trans. Sens. Networks",
+  "doi": "10.1145/3583073",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 28,
+  "summary": "Internet of things (IoT) development tends to reduce the reliance on centralized servers.",
+  "relevance": "PRISMA study S031 (database); category C.4"
+ },
+ {
+  "title": "Attacks Against Cross-Chain Systems and Defense Approaches: A Contemporary Survey",
+  "authors": "Li Duan; Yang-Yang Sun; Wei Ni; Wei-Ping Ding; Ji-Qiang Liu; Wei Wang",
+  "year": "2023",
+  "venue": "IEEE/CAA Journal of Automatica Sinica",
+  "doi": "10.1109/jas.2023.123642",
+  "arxiv": "",
+  "topics": [
+   "sok-bridge-security"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": 72,
+  "summary": "The blockchain cross-chain is a significant technology for inter-chain interconnection and value transfer among different blockchain networks.",
+  "relevance": "PRISMA study S032 (database); category A.1"
+ },
+ {
+  "title": "BeDCV: Blockchain-Enabled Decentralized Consistency Verification for Cross-Chain Calculation",
+  "authors": "Yu-Shu Zhang; Jiajia Jiang; Xuewen Dong; Liang-Min Wang; Yong Xiang",
+  "year": "2023",
+  "venue": "IEEE Transactions on Cloud Computing",
+  "doi": "10.1109/tcc.2022.3196937",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 21,
+  "summary": "With the increase of data stored on the blockchain, the efficiency of storage and calculation of blockchain has gradually become a bottleneck restricting the development of blockchain.",
+  "relevance": "PRISMA study S033 (database); category C.2"
+ },
+ {
+  "title": "Cross-Chain Virtual Payment Channels",
+  "authors": "Xiaofeng Jia; Zhe Yu; Jun Shao; Rongxing Lu; Gui-Yi Wei; Zhenguang Liu",
+  "year": "2023",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "doi": "10.1109/tifs.2023.3281064",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 37,
+  "summary": "With the emergence of countless independent blockchain systems in recent years, cross-chain transactions have attracted considerable attention, and lots of solutions have been put forth by both industry and academia.",
+  "relevance": "PRISMA study S034 (database); category C.3"
+ },
+ {
+  "title": "Cross-Chain-Based Trustworthy Node Identity Governance in Internet of Things",
+  "authors": "Tianxiu Xie; Ke-Ke Gai; Lie-Huang Zhu; Yunwei Guo; K. Choo",
+  "year": "2023",
+  "venue": "IEEE Internet of Things Journal",
+  "doi": "10.1109/jiot.2023.3308130",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 23,
+  "summary": "As a flourishing technical adoption boosted by 5G technology in recent years, Internet of Things (IoT) has become a common implementation in contemporary network-based solutions, such that tons of IoT devices, seen as nodes in the network, are employed.",
+  "relevance": "PRISMA study S035 (database); category C.4"
+ },
+ {
+  "title": "Formal Analysis of IBC Protocol",
+  "authors": "Qiuyang Wei; Xu-Feng Zhao; Xue-Yang Zhu; Wenhui Zhang",
+  "year": "2023",
+  "venue": "IEEE International Conference on Network Protocols",
+  "doi": "10.1109/icnp59255.2023.10355573",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 5,
+  "summary": "Since the inception of Bitcoin in 2008, blockchain technology has had a significant impact on many fields.",
+  "relevance": "PRISMA study S036 (database); category C.3"
+ },
+ {
+  "title": "Formal Verification of the Burn-to-Claim Blockchain Interoperable Protocol",
+  "authors": "B. Pillai; Zhe Hou; Kamanashis Biswas; V. Muthukkumarasamy",
+  "year": "2023",
+  "venue": "IEEE International Conference on Formal Engineering Methods",
+  "doi": "10.1007/978-981-99-7584-6_15",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 7,
+  "summary": "Formal Verification of the Burn-to-Claim Blockchain Interoperable Protocol",
+  "relevance": "PRISMA study S037 (database); category C.3"
+ },
+ {
+  "title": "Glimpse: On-Demand PoW Light Client with Constant-Size Storage for DeFi",
+  "authors": "Giulia Scaffino; L. Aumayr; Zeta Avarikioti; Matteo Maffei",
+  "year": "2023",
+  "venue": "USENIX Security Symposium",
+  "doi": "",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 16,
+  "summary": "Cross-chain communication is instrumental in unleashing the full potential of blockchain technologies, as it allows users and developers to exploit the unique design features and the profit opportunities of different existing blockchains.",
+  "relevance": "PRISMA study S038 (database); category C.1"
+ },
+ {
+  "title": "Harmonia: Securing Cross-Chain Applications Using Zero-Knowledge Proofs",
+  "authors": "Rafael Belchior; Dimo Dimov; Zahary Karadjov; Jonas Pfannschmidt; André Vasconcelos; Miguel Pupo Correia",
+  "year": "2023",
+  "venue": "",
+  "doi": "10.36227/techrxiv.170327806.66007684/v1",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 14,
+  "summary": "The field of blockchain interoperability plays a pivotal role in blockchain adoption.",
+  "relevance": "PRISMA study S039 (database); category C.1"
+ },
+ {
+  "title": "HighGuard: Cross-Chain Business Logic Monitoring of Smart Contracts",
+  "authors": "Mojtaba Eshghie; Cyrille Artho; H. Stammler; Wolfgang Ahrendt; T. T. Hildebrandt; Gerardo Schneider",
+  "year": "2023",
+  "venue": "International Conference on Automated Software Engineering",
+  "doi": "10.1145/3691620.3695356",
+  "arxiv": "2305.08254",
+  "topics": [
+   "rt-rule-invariant"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 22,
+  "summary": "Logical flaws in smart contracts are often exploited, leading to significant financial losses.",
+  "relevance": "PRISMA study S040 (database); category E.1"
+ },
+ {
+  "title": "Implementing Secure Bridges: Learnings from the Secure Asset Transfer Protocol",
+  "authors": "Kjell-Erik Marstein; Alexandru Chiriac; Luke Riley; T. Hardjono; Gilbert Verdian",
+  "year": "2023",
+  "venue": "International Conference on Blockchain",
+  "doi": "10.1109/icbc56567.2023.10174878",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 10,
+  "summary": "Securely transferring tokenised assets between largely non-interoperable blockchain networks is a great challenge to take on.",
+  "relevance": "PRISMA study S041 (database); category C.3"
+ },
+ {
+  "title": "Interchain Timestamping for Mesh Security",
+  "authors": "Ertem Nusret Tas; Runchao Han; DavidN C. Tse; Fisher Yu; Kamilla Nazirkhanova",
+  "year": "2023",
+  "venue": "Conference on Computer and Communications Security",
+  "doi": "10.1145/3576915.3616612",
+  "arxiv": "2305.07830",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 15,
+  "summary": "Fourteen years after the invention of Bitcoin, there has been a proliferation of many permissionless blockchains.",
+  "relevance": "PRISMA study S042 (database); category C.2"
+ },
+ {
+  "title": "Interoperability in Blockchain: A Survey",
+  "authors": "Kunpeng Ren; Nhut-Minh Ho; Dumitrel Loghin; Thành Nguyen; B. Ooi; Quang-Trung Ta; Fei-Da Zhu",
+  "year": "2023",
+  "venue": "IEEE Transactions on Knowledge and Data Engineering",
+  "doi": "10.1109/tkde.2023.3275220",
+  "arxiv": "",
+  "topics": [
+   "survey-interoperability"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": 96,
+  "summary": "This paper presents a systematic and comprehensive survey on blockchain interoperability, where interoperability is defined as the ability of blockchains to flexibly transfer assets, share data, and invoke smart contracts across a mix of public, private, and consortium blockchains without any change",
+  "relevance": "PRISMA study S043 (database); category A.2"
+ },
+ {
+  "title": "MP‐HTLC: Enabling blockchain interoperability through a multiparty implementation of the hash time‐lock contract",
+  "authors": "Fadi Barbàra; C. Schifanella",
+  "year": "2023",
+  "venue": "Concurrency and Computation",
+  "doi": "10.1002/cpe.7656",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 16,
+  "summary": "The idea of hash time‐lock contracts (HTLCs) has been around from 2013.",
+  "relevance": "PRISMA study S044 (database); category C.3"
+ },
+ {
+  "title": "PXCrypto: A Regulated Privacy-Preserving Cross-Chain Transaction Scheme",
+  "authors": "Yanran Zhang; Sheng Hu; Qin Wang; Bo Qin; Qianhong Wu; Wenchang Shi",
+  "year": "2023",
+  "venue": "Lecture notes in computer science",
+  "doi": "10.1007/978-3-031-22677-9_10",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 15,
+  "summary": "PXCrypto: A Regulated Privacy-Preserving Cross-Chain Transaction Scheme",
+  "relevance": "PRISMA study S045 (database); category C.4"
+ },
+ {
+  "title": "Test Case Generation for Cross-Blockchain Smart Contract",
+  "authors": "Jiahao Gong; Shunhui Ji; Peng-Cheng Zhang",
+  "year": "2023",
+  "venue": "Asia-Pacific Software Engineering Conference",
+  "doi": "10.1109/apsec60848.2023.00097",
+  "arxiv": "",
+  "topics": [
+   "pre-fuzzing-testing"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "With the development of blockchain technology, an increasing number of users are adopting cross-blockchain smart contracts, which necessitates effective testing methods due to digital asset security concerns.",
+  "relevance": "PRISMA study S046 (database); category D.2"
+ },
+ {
+  "title": "A Blockchain Cross-Chain Transaction Method Based on Decentralized Dynamic Reputation Value Assessment",
+  "authors": "Xiao-Xuan Hu; Yaochen Ling; Jialin Hua; Zhenjiang Dong; Yanfei Sun; Jin Qi",
+  "year": "2024",
+  "venue": "IEEE Transactions on Network and Service Management",
+  "doi": "10.1109/tnsm.2024.3433414",
+  "arxiv": "",
+  "topics": [
+   "rt-trust-reputation",
+   "def-threshold-committee"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 8,
+  "summary": "With the vigorous development of the blockchain industry, cross-chain transactions can effectively solve the problem of “islands of value” caused by the inability to interact between different chains.",
+  "relevance": "PRISMA study S047 (database); category E.3"
+ },
+ {
+  "title": "A cross-chain access control mechanism based on blockchain and the threshold Paillier cryptosystem",
+  "authors": "Haiping Si; Weixia Li; Nan Su; Tingting Li; Yanling Li; C. N. Zhang; Fernando Bação; Changxia Sun",
+  "year": "2024",
+  "venue": "Computer Communications",
+  "doi": "10.1016/j.comcom.2024.05.012",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 16,
+  "summary": "With the continuous maturation of blockchain technology and the increasing demands for various industry applications, data sharing and interoperability among different blockchain networks face significant challenges.",
+  "relevance": "PRISMA study S048 (database); category C.4"
+ },
+ {
+  "title": "A framework for efficient cross-chain token transfers in blockchain networks",
+  "authors": "Hongyu Guo; Hao-Zhe Liang; Ju Huang; Wei Ou; Wenbao Han; Qionglu Zhang; Ruizhi Zhang",
+  "year": "2024",
+  "venue": "Journal of King Saud University: Computer and Information Sciences",
+  "doi": "10.1016/j.jksuci.2024.101968",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 13,
+  "summary": "The proliferation of blockchain technology has resulted in diverse token standards, posing challenges for compatibility, security, and performance in existing cross-chain bridges.",
+  "relevance": "PRISMA study S049 (database); category C.3"
+ },
+ {
+  "title": "Alba: The Dawn of Scalable Bridges for Blockchains",
+  "authors": "Giulia Scaffino; L. Aumayr; Mahsa Bastankhah; Zeta Avarikioti; Matteo Maffei",
+  "year": "2024",
+  "venue": "IACR Cryptology ePrint Archive",
+  "doi": "10.14722/ndss.2025.241286",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 16,
+  "summary": "—Over the past decade, cryptocurrencies have garnered attention from academia and industry alike, fostering a diverse blockchain ecosystem and novel applications.",
+  "relevance": "PRISMA study S050 (database); category C.1"
+ },
+ {
+  "title": "An agnostic and secure interoperability protocol for seamless asset movement",
+  "authors": "El-hacen Diallo; Mohameden Dieye; Omar Amjad Dib; Pierre Valiorgue",
+  "year": "2024",
+  "venue": "Journal of Network and Computer Applications",
+  "doi": "10.1016/j.jnca.2024.103930",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 6,
+  "summary": "As blockchain technology continues to evolve, it has fostered an extensive ecosystem of applications and platforms.",
+  "relevance": "PRISMA study S051 (database); category C.3"
+ },
+ {
+  "title": "AtomCI: A New System for the Atomic Cross-Chain Smart Contract Invocation Spanning Heterogeneous Blockchains",
+  "authors": "Yu-Long Chen; Alia Asheralieva; Xue-Tao Wei",
+  "year": "2024",
+  "venue": "IEEE Transactions on Network Science and Engineering",
+  "doi": "10.1109/tnse.2023.3349192",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 13,
+  "summary": "Cross-chain dApps (decentralized applications) are enabled by smart contracts interoperability on heterogeneous blockchains.",
+  "relevance": "PRISMA study S052 (database); category C.3"
+ },
+ {
+  "title": "Balancing Privacy and Regulation of Cross-Chain Transaction Systems via SoK-Assisted Policy Enhancement",
+  "authors": "Peng Jiang; Jun Zhu; Lie-Huang Zhu",
+  "year": "2024",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "doi": "10.1109/tifs.2024.3402150",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 10,
+  "summary": "Cross-chain systems provide a way for isolated blockchains to communicate and exchange assets and data with each other.",
+  "relevance": "PRISMA study S053 (database); category C.4"
+ },
+ {
+  "title": "Benchmarking Blockchain Bridge Aggregators",
+  "authors": "Shankar Subramanian; André Augusto; Rafael Belchior; André Vasconcelos; Miguel Correia",
+  "year": "2024",
+  "venue": "International Congress on Blockchain and Applications",
+  "doi": "10.1109/blockchain62396.2024.00015",
+  "arxiv": "",
+  "topics": [
+   "atk-economic-user",
+   "incident-measurement"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 7,
+  "summary": "Blockchain aggregators play an instrumental role in the evolution of blockchain technology, serving as pivotal enablers of interoperability, efficiency, and user accessibility in an increasingly decentralized digital world.",
+  "relevance": "PRISMA study S054 (database); category B.6"
+ },
+ {
+  "title": "Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and Future Outlook",
+  "authors": "Ningran Li; Minfeng Qi; Zhiyu Xu; Xiaogang Zhu; Wei Zhou; Sheng Wen; Yang Xiang",
+  "year": "2024",
+  "venue": "Distributed Ledger Technol. Res. Pract.",
+  "doi": "10.1145/3696429",
+  "arxiv": "",
+  "topics": [
+   "sok-bridge-security"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": 50,
+  "summary": "Cross-chain bridges, one of the foundational infrastructures of blockchain, provide the infrastructure and solutions for inter-operability, asset liquidity, data transfer, decentralized finance, and cross-chain governance between blockchain networks.",
+  "relevance": "PRISMA study S055 (database); category A.1"
+ },
+ {
+  "title": "CCC-TM: Cross-Chain consensus committee method using a trust model",
+  "authors": "Wenlong Yi; Qiliang Xie; Sergey A. Kuzmin; И. В. Герасимов; Xiangping Cheng",
+  "year": "2024",
+  "venue": "Information Sciences",
+  "doi": "10.1016/j.ins.2024.120930",
+  "arxiv": "",
+  "topics": [
+   "rt-trust-reputation",
+   "def-threshold-committee"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 7,
+  "summary": "CCC-TM: Cross-Chain consensus committee method using a trust model",
+  "relevance": "PRISMA study S056 (database); category E.3"
+ },
+ {
+  "title": "Calculation and selection scheme of node reputation values for notary mechanism in cross-chain",
+  "authors": "Zhi-Hao Guo; Xiaomin Hu",
+  "year": "2024",
+  "venue": "Journal of Supercomputing",
+  "doi": "10.1007/s11227-024-06152-3",
+  "arxiv": "",
+  "topics": [
+   "rt-trust-reputation"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 5,
+  "summary": "Calculation and selection scheme of node reputation values for notary mechanism in cross-chain",
+  "relevance": "PRISMA study S057 (database); category E.3"
+ },
+ {
+  "title": "ChainSniper: A Machine Learning Approach for Auditing Cross-Chain Smart Contracts",
+  "authors": "Tuan-Dung Tran; Kiet Anh Vo; Duy The Phan; Cam Nguyen Tan; Van-Hau Pham",
+  "year": "2024",
+  "venue": "Proceedings of the 2024 9th International Conference on Intelligent Information Technology",
+  "doi": "10.1145/3654522.3654577",
+  "arxiv": "",
+  "topics": [
+   "pre-ml-llm-audit"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 13,
+  "summary": "Smart contracts are autonomous programs stored on blockchain networks that self-execute agreed terms in a transparent and accurate manner.",
+  "relevance": "PRISMA study S058 (database); category D.3"
+ },
+ {
+  "title": "Count of Monte Crypto: Accounting-based Defenses for Cross-Chain Bridges",
+  "authors": "Enze Liu; Elisa Luo; Jian-Chen Yan; Katherine Izhikevich; Stewart Grant; Deian Stefan; Geoff Voelker; Stefan Savage",
+  "year": "2024",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2410.01107",
+  "arxiv": "2410.01107",
+  "topics": [
+   "rt-rule-invariant"
+  ],
+  "type": "system",
+  "novelty": "sota",
+  "citations": 0,
+  "summary": "Between 2021 and 2023, crypto assets valued at over \\$US2.6 billion were stolen via attacks on\"bridges\"-- decentralized services designed to allow inter-blockchain exchange.",
+  "relevance": "PRISMA study S059 (database); category E.1"
+ },
+ {
+  "title": "Cross-chain Abnormal Transaction Detection via Graph-based Multi-model Fusion",
+  "authors": "Yong Lin; Peng Jiang; Lie-Huang Zhu",
+  "year": "2024",
+  "venue": "International Symposium on Blockchain and Secure Critical Infrastructure",
+  "doi": "10.1145/3659463.3660008",
+  "arxiv": "",
+  "topics": [
+   "rt-graph-ml"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 6,
+  "summary": "Cross-chain technology accomplishes asset transfer and exchange between different blockchains through cross-chain transactions.",
+  "relevance": "PRISMA study S060 (database); category E.2"
+ },
+ {
+  "title": "DART: A Low-Cost and Secure Cross-Chain Scheme for Popular Digital Assets",
+  "authors": "Hui Zhao; Xiaodong Zhang; Jin-Shan Shi; Ru Li",
+  "year": "2024",
+  "venue": "IEEE Wireless Communications and Networking Conference",
+  "doi": "10.1109/wcnc57260.2024.10571060",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "In blockchain-based data marketplaces, the cross-chain solution based on relay chains has become an effective way to support digital asset transfer between heterogeneous blockchains.",
+  "relevance": "PRISMA study S061 (database); category C.2"
+ },
+ {
+  "title": "Detecting Fake Deposit Attacks on Cross-chain Bridges from a Network Perspective",
+  "authors": "Kai-Xuan Lin; Dan-yan Lin; Zi-Ye Zheng; Yixiang Tan; Jia-Jing Wu",
+  "year": "2024",
+  "venue": "International Symposium on Circuits and Systems",
+  "doi": "10.1109/iscas58744.2024.10558359",
+  "arxiv": "",
+  "topics": [
+   "atk-verification-flaw",
+   "rt-graph-ml"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 2,
+  "summary": "Cross-chain bridges are currently the most popular solution to support asset interoperability between heterogeneous blockchains.",
+  "relevance": "PRISMA study S062 (database); category B.2"
+ },
+ {
+  "title": "Hephaestus: Modeling, Analysis, and Performance Evaluation of Cross-Chain Transactions",
+  "authors": "Rafael Belchior; Peter Somogyvari; Jonas Pfannschmidt; André Vasconcelos; Miguel Correia",
+  "year": "2024",
+  "venue": "IEEE Transactions on Reliability",
+  "doi": "10.1109/tr.2023.3336246",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 32,
+  "summary": "Ecosystems of multiple blockchains are now a reality.",
+  "relevance": "PRISMA study S063 (database); category C.3"
+ },
+ {
+  "title": "Intelligent blockchain based attack detection framework for cross-chain transaction",
+  "authors": "S. Madhuri; Nagalakshmi Vadlamani",
+  "year": "2024",
+  "venue": "Multimedia tools and applications",
+  "doi": "10.1007/s11042-024-18344-3",
+  "arxiv": "",
+  "topics": [
+   "rt-graph-ml"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 2,
+  "summary": "Intelligent blockchain based attack detection framework for cross-chain transaction",
+  "relevance": "PRISMA study S064 (database); category E.2"
+ },
+ {
+  "title": "IoTAuth: A Decentralized Cross-Chain Identity Authentication Scheme for 6G Non-Terrestrial IoT Networks",
+  "authors": "Hao-Tian Deng; Chuan Zhang; Weiting Zhang; Jinwen Liang; Li-Cheng Wang; Lie-Huang Zhu",
+  "year": "2024",
+  "venue": "IEEE Network",
+  "doi": "10.1109/mnet.2024.3381081",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 10,
+  "summary": "The upcoming 6G Non-Terrestrial Networks (NTN) technology is expected to enable comprehensive connectivity of the Internet of Things (IoT) across various environments.",
+  "relevance": "PRISMA study S065 (database); category C.4"
+ },
+ {
+  "title": "PACDAM: Privacy-Preserving and Adaptive Cross-Chain Digital Asset Marketplace",
+  "authors": "Y. Chen; Jia-Nan Liu; Anjia Yang; Jian Weng; Min-Rong Chen; Zi-Lin Liu; Ming Li",
+  "year": "2024",
+  "venue": "IEEE Internet of Things Journal",
+  "doi": "10.1109/jiot.2023.3337859",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 16,
+  "summary": "As the deployment of blockchains expands across various industries, the demand for exchanging digital assets among blockchain users has risen.",
+  "relevance": "PRISMA study S066 (database); category C.4"
+ },
+ {
+  "title": "PSSC: Practical and Secure Sidechain Construction for Heterogeneous Blockchains Orienting IoT",
+  "authors": "Zhihong Deng; Taotao Li; Chun-Ming Tang; Debiao He; Zibin Zheng",
+  "year": "2024",
+  "venue": "IEEE Internet of Things Journal",
+  "doi": "10.1109/jiot.2023.3302291",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 17,
+  "summary": "With the application of blockchain in Internet of Things (IoT), various IoT scenario-oriented blockchains have been proposed, meaning that multichain future within IoT ecosystem is growing.",
+  "relevance": "PRISMA study S067 (database); category C.1"
+ },
+ {
+  "title": "Proof of Finalization: A Self-Fulfilling Function of Blockchain",
+  "authors": "Ai Deng; Qian Ren; Yingjun Wu; Hong Lei; Bangdao Chen",
+  "year": "2024",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "doi": "10.1109/tifs.2024.3451355",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Blockchain has been widely used in various industries for providing trustworthy data.",
+  "relevance": "PRISMA study S068 (database); category C.1"
+ },
+ {
+  "title": "Reinventing Multi-User Authentication Security From Cross-Chain Perspective",
+  "authors": "Yongyang Lv; Ruitao Feng; Maode Ma; Manqing Zhu; Hanwei Wu; Xiaohong Li",
+  "year": "2024",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "doi": "10.1109/tifs.2024.3463533",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 12,
+  "summary": "Blockchain systems encompass many distinct and autonomous entities, each utilizing its own self-contained identity authentication algorithm.",
+  "relevance": "PRISMA study S069 (database); category C.4"
+ },
+ {
+  "title": "Relay network-based cross-chain data interaction protocol with integrity audit",
+  "authors": "Shujiang Xu; Lulu Zhang; Lianhai Wang; Miodrag J. Mihaljević; Shuhui Zhang; Wei Shao; Qizheng Wang",
+  "year": "2024",
+  "venue": "Computers & Electrical Engineering",
+  "doi": "10.1016/j.compeleceng.2024.109262",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 11,
+  "summary": "Relay network-based cross-chain data interaction protocol with integrity audit",
+  "relevance": "PRISMA study S070 (database); category C.2"
+ },
+ {
+  "title": "Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges",
+  "authors": "Jia-Jing Wu; Kai-Xuan Lin; Dan-yan Lin; Bozhao Zhang; Zhiying Wu; Jianzhong Su",
+  "year": "2024",
+  "venue": "The Web Conference",
+  "doi": "10.1145/3696410.3714604",
+  "arxiv": "2410.14493",
+  "topics": [
+   "incident-measurement",
+   "rt-graph-ml"
+  ],
+  "type": "empirical",
+  "novelty": "sota",
+  "citations": 34,
+  "summary": "Cross-chain bridges are essential decentralized applications (DApps) to facilitate interoperability between different blockchain networks.",
+  "relevance": "PRISMA study S071 (database); category B.7"
+ },
+ {
+  "title": "Seamlessly Transferring Assets through Layer-0 Bridges: An Empirical Analysis of Stargate Bridge's Architecture and Dynamics",
+  "authors": "Chuanshan Huang; Tao Yan; C. Tessone",
+  "year": "2024",
+  "venue": "The Web Conference",
+  "doi": "10.1145/3589335.3651964",
+  "arxiv": "",
+  "topics": [
+   "incident-measurement"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 12,
+  "summary": "The increasing number of distinct blockchains has led to a growing need for data exchange and asset transfer across various isolated blockchains.",
+  "relevance": "PRISMA study S072 (database); category B.7"
+ },
+ {
+  "title": "Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems",
+  "authors": "Mengya Zhang; Xiaokuan Zhang; Yinqian Zhang; Zhiqiang Lin",
+  "year": "2024",
+  "venue": "International Symposium on Recent Advances in Intrusion Detection",
+  "doi": "10.1145/3678890.3678894",
+  "arxiv": "",
+  "topics": [
+   "sok-bridge-security"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": 39,
+  "summary": "Cross-chain bridges play a pivotal role in enabling token and data exchanges between disparate blockchains.",
+  "relevance": "PRISMA study S073 (database); category A.1"
+ },
+ {
+  "title": "Sidechains With Optimally Succinct Proof",
+  "authors": "Ling-Yuan Yin; Jing Xu; Kaitai Liang; Zhen-Feng Zhang",
+  "year": "2024",
+  "venue": "IEEE Transactions on Dependable and Secure Computing",
+  "doi": "10.1109/tdsc.2023.3328430",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 12,
+  "summary": "Sidechains have been widely used to improve the interoperability and scalability of blockchain systems.",
+  "relevance": "PRISMA study S074 (database); category C.1"
+ },
+ {
+  "title": "SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis",
+  "authors": "Ze-Qin Liao; Yuhong Nan; Heng-Long Liang; Sicheng Hao; Juan Zhai; Jia-Jing Wu; Zibin Zheng",
+  "year": "2024",
+  "venue": "Proc. ACM Softw. Eng.",
+  "doi": "10.1145/3643738",
+  "arxiv": "2406.15999",
+  "topics": [
+   "pre-static-symbolic"
+  ],
+  "type": "system",
+  "novelty": "sota",
+  "citations": 43,
+  "summary": "With the increasing popularity of blockchain, different blockchain platforms coexist in the ecosystem (e.g., Ethereum, BNB, EOSIO, etc.), which prompts the high demand for cross-chain communication.",
+  "relevance": "PRISMA study S075 (database); category D.1"
+ },
+ {
+  "title": "SoK: Cross-Chain Bridging Architectural Design Flaws and Mitigations",
+  "authors": "Jakob Svennevik Notland; Jingyue Li; Mariusz Nowostawski; P. Haro",
+  "year": "2024",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2403.00405",
+  "arxiv": "2403.00405",
+  "topics": [
+   "sok-bridge-security"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": 23,
+  "summary": "Cross-chain bridges are solutions that enable interoperability between heterogeneous blockchains.",
+  "relevance": "PRISMA study S076 (database); category A.1"
+ },
+ {
+  "title": "SoK: Security and Privacy of Blockchain Interoperability",
+  "authors": "André Augusto; Rafael Belchior; Miguel Correia; André Vasconcelos; Luyao Zhang; Thomas Hardjono",
+  "year": "2024",
+  "venue": "IEEE Symposium on Security and Privacy",
+  "doi": "10.1109/sp54263.2024.00255",
+  "arxiv": "",
+  "topics": [
+   "sok-bridge-security"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": 119,
+  "summary": "Recent years have witnessed significant advancements in cross-chain technology.",
+  "relevance": "PRISMA study S077 (database); category A.1"
+ },
+ {
+  "title": "XChainWatcher: Identifying Anomalies in Cross-Chain Bridges",
+  "authors": "André Augusto; Rafael Belchior; Jonas Pfannschmidt; André Vasconcelos; Miguel Correia",
+  "year": "2024",
+  "venue": "International Middleware Conference",
+  "doi": "10.1145/3721462.3770781",
+  "arxiv": "2410.02029",
+  "topics": [
+   "rt-rule-invariant",
+   "data-benchmark"
+  ],
+  "type": "system",
+  "novelty": "sota",
+  "citations": 14,
+  "summary": "Cross-chain bridges are a blockchain interoperability middleware that supports the transfer of assets and data across blockchains.",
+  "relevance": "PRISMA study S078 (database); category E.1"
+ },
+ {
+  "title": "XGuard: Detecting Inconsistency Behaviors of Crosschain Bridges",
+  "authors": "Ke Wang; Yue Li; Che Wang; Jianbo Gao; Zhi Guan; Zhong Chen",
+  "year": "2024",
+  "venue": "SIGSOFT FSE Companion",
+  "doi": "10.1145/3663529.3663809",
+  "arxiv": "",
+  "topics": [
+   "rt-rule-invariant"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 11,
+  "summary": "Crosschain bridges have become a key solution for connecting independent blockchains and enabling the transfer of assets and information between them.",
+  "relevance": "PRISMA study S079 (database); category E.1"
+ },
+ {
+  "title": "XSema: A Novel Framework for Semantic Extraction of Cross-chain Transactions",
+  "authors": "Zi-Ye Zheng; Jia-Jing Wu; Dan-yan Lin; Quan-Zhong Li; Na Ruan",
+  "year": "2024",
+  "venue": "IEEE International Conference on High Performance Computing and Communications",
+  "doi": "10.1109/hpcc64274.2024.00094",
+  "arxiv": "2412.18129",
+  "topics": [
+   "rt-graph-ml"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 4,
+  "summary": "As the number of blockchain platforms continues to grow, the independence of these networks poses challenges for transferring assets and information across chains.",
+  "relevance": "PRISMA study S080 (database); category E.2"
+ },
+ {
+  "title": "4-Swap: Achieving Grief-Free and Bribery-Safe Atomic Swaps Using Four Transactions",
+  "authors": "Kirti Singh; Vinay J. Ribeiro; Susmita Mandal",
+  "year": "2025",
+  "venue": "Conference on Advances in Financial Technologies",
+  "doi": "10.48550/arxiv.2508.04641",
+  "arxiv": "2508.04641",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 2,
+  "summary": "Cross-chain asset exchange is crucial for blockchain interoperability.",
+  "relevance": "PRISMA study S081 (database); category C.3"
+ },
+ {
+  "title": "A Security Analysis of Web3.0 Cross-Chain Bridges",
+  "authors": "Shengnan Chen",
+  "year": "2025",
+  "venue": "Proceedings of the 4th International Conference on Computer, Artificial Intelligence and Control Engineering",
+  "doi": "10.1145/3727648.3727685",
+  "arxiv": "",
+  "topics": [
+   "incident-measurement"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 3,
+  "summary": "Cross-chain bridges tackle the essential issue of interoperability among blockchains; nonetheless, they are becoming appealing targets for attackers due to their centralised holding of funds.",
+  "relevance": "PRISMA study S082 (database); category B.7"
+ },
+ {
+  "title": "Acheron: a market-based multi-relay architecture for adaptive and secure cross-chain communication",
+  "authors": "Tuan-Dung Tran; Quang Vu; Bao Huynh; Van-Hau Pham",
+  "year": "2025",
+  "venue": "Internet of Things",
+  "doi": "10.1016/j.iot.2025.101836",
+  "arxiv": "",
+  "topics": [
+   "rt-trust-reputation"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 3,
+  "summary": "Acheron: a market-based multi-relay architecture for adaptive and secure cross-chain communication",
+  "relevance": "PRISMA study S083 (database); category E.3"
+ },
+ {
+  "title": "An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities",
+  "authors": "Kai-Lun Yan; Bo Lu; Pranav Agrawal; Jiasun Li; Wenrui Diao; Xiaokuan Zhang",
+  "year": "2025",
+  "venue": "ACM Asia Conference on Computer and Communications Security",
+  "doi": "10.1145/3708821.3733878",
+  "arxiv": "",
+  "topics": [
+   "incident-measurement",
+   "atk-protocol-level"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 11,
+  "summary": "This paper presents the first large-scale measurement study on cross-chain bridges.",
+  "relevance": "PRISMA study S084 (database); category B.7"
+ },
+ {
+  "title": "Auditable Ledger Snapshot for Non-Repudiable Cross-Blockchain Communication",
+  "authors": "Tirthankar Sengupta; B. Ghosh; Sandip Chakraborty; Shamik Sural",
+  "year": "2025",
+  "venue": "IEEE Transactions on Services Computing",
+  "doi": "10.1109/tsc.2025.3630671",
+  "arxiv": "2511.16560",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Blockchain interoperability is increasingly recognized as the centerpiece for robust interactions among decentralized services.",
+  "relevance": "PRISMA study S085 (database); category C.2"
+ },
+ {
+  "title": "Automatic Cross-chain Protocol Pausing with Real-time Conformance Checking",
+  "authors": "Bruno Mateus; André Augusto; Rafael Belchior; André Vasconcelos; Miguel Correia",
+  "year": "2025",
+  "venue": "Conference on Blockchain Research & Applications for Innovative Networks and Services",
+  "doi": "10.1109/brains67003.2025.11302954",
+  "arxiv": "",
+  "topics": [
+   "resp-mitigation"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "The proliferation of diverse blockchain networks has intensified the demand for interoperability, but cross-chain bridges introduce significant security risks.",
+  "relevance": "PRISMA study S086 (database); category F.1"
+ },
+ {
+  "title": "BADS: Real-Time Anomaly Detection and Reporting for Cross-Chain Bridges Using Large Language Models",
+  "authors": "Richard Wiputra; Clifford Immanuel Halim; Billie Anggara Suraperwata; Kevin Wangsa; Raisya Putri Agustin",
+  "year": "2025",
+  "venue": "2025 International Conference on Artificial Intelligence Science and Applications in Industry and Society (CAISAIS)",
+  "doi": "10.1109/caisais68078.2025.11440752",
+  "arxiv": "",
+  "topics": [
+   "rt-graph-ml"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "The growing adoption of blockchain technology and crypto-assets highlights the critical need for robust security, particularly for cross-chain bridges that are frequently targeted by malicious attacks, resulting in substantial financial losses to the victims.",
+  "relevance": "PRISMA study S087 (database); category E.2"
+ },
+ {
+  "title": "BridgeGuard: Checking External Interaction Vulnerabilities in Cross-Chain Bridge Router Contracts Based on Symbolic Dataflow Analysis",
+  "authors": "Ze-Quan Zhou; Xi-Ling Luo; Xiaohai Ji; Jian Mao; Ting He; Junjun Wang; Qian-Hong Wu",
+  "year": "2025",
+  "venue": "IEEE Transactions on Dependable and Secure Computing",
+  "doi": "10.1109/tdsc.2025.3576114",
+  "arxiv": "",
+  "topics": [
+   "pre-static-symbolic"
+  ],
+  "type": "system",
+  "novelty": "sota",
+  "citations": 8,
+  "summary": "Cross-chain bridges connect two heterogeneous and independent blockchains, in which router contracts interact with external modules to perform functions, e.g., locking assets.",
+  "relevance": "PRISMA study S088 (database); category D.1"
+ },
+ {
+  "title": "BridgeShield: Enhancing Security for Cross-chain Bridge Applications via Heterogeneous Graph Mining",
+  "authors": "Dan-yan Lin; Shun-Feng Lu; Zi-Yan Liu; Jia-Jing Wu; Junyuan Fang; Kai-Xuan Lin; Bo-Wen Song; Zi-Bin Zheng",
+  "year": "2025",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2508.20517",
+  "arxiv": "",
+  "topics": [
+   "rt-graph-ml"
+  ],
+  "type": "system",
+  "novelty": "sota",
+  "citations": 2,
+  "summary": "Cross-chain bridges enable asset and state transfers across heterogeneous blockchains, but their complex cross-domain interactions introduce new attack surfaces that are difficult to monitor using traditional single-chain analysis methods.",
+  "relevance": "PRISMA study S089 (database); category E.2"
+ },
+ {
+  "title": "CIFGViewer: Detecting Cross-chain Bridge Attacks via Cross-chain Information Flow Graph",
+  "authors": "Henglong Liang; Jing Bian; Zeqin Liao",
+  "year": "2025",
+  "venue": "Communications in computer and information science",
+  "doi": "10.1007/978-981-95-4142-3_44",
+  "arxiv": "",
+  "topics": [
+   "rt-graph-ml"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "CIFGViewer: Detecting Cross-chain Bridge Attacks via Cross-chain Information Flow Graph",
+  "relevance": "PRISMA study S090 (database); category E.2"
+ },
+ {
+  "title": "Comparative Security Analysis of Cross-Chain Protocols: An Empirical and Metrics-Based Approach",
+  "authors": "Carlos Alfaro; Guillermo Calderón; Cesar Espinoza",
+  "year": "2025",
+  "venue": "2025 IEEE 43rd Central America and Panama Convention (CONCAPAN XLIII)",
+  "doi": "10.1109/concapan66820.2025.11512555",
+  "arxiv": "",
+  "topics": [
+   "incident-measurement"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Cross-chain protocols have become critical to blockchain interoperability but remain highly vulnerable to attacks.",
+  "relevance": "PRISMA study S091 (database); category B.7"
+ },
+ {
+  "title": "Conditional Privacy-Preserving Transaction for the Unspent Transaction Output-Based Multi-Chain Blockchain System",
+  "authors": "Jie Cui; Wenting Zhuang; Hong Zhong; Qing-Yan Zhang; Feng-Qun Wang; De-Biao He",
+  "year": "2025",
+  "venue": "IEEE transactions on computers",
+  "doi": "10.1109/tc.2025.3566868",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "The anonymity of blockchain may be exploited by criminals for illegal fund transfers, thus a conditional privacy-preserving scheme is important for blockchain regulation.",
+  "relevance": "PRISMA study S092 (database); category C.4"
+ },
+ {
+  "title": "ConneX: Automatically Resolving Transaction Opacity of Cross-Chain Bridges for Security Analysis",
+  "authors": "Hanzhong Liang; Yue Duan; Xing Su; Xiao Li; Ya-Ting Liu; Yulong Tian; Fengyuan Xu; Sheng Zhong",
+  "year": "2025",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2511.01393",
+  "arxiv": "2511.01393",
+  "topics": [
+   "rt-graph-ml",
+   "data-benchmark"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 4,
+  "summary": "As the Web3 ecosystem evolves toward a multi-chain architecture, cross-chain bridges have become critical infrastructure for enabling interoperability between diverse blockchain networks.",
+  "relevance": "PRISMA study S093 (database); category E.2"
+ },
+ {
+  "title": "Cross-Chain Privacy Preserving for BIoMT With Designated Verifier Proxy Signature",
+  "authors": "Chao-Yang Li; Bohao Jiang; Mian-Xiong Dong; Yu-Ling Chen; Min Huang; Xiangjun Xin; K. Ota",
+  "year": "2025",
+  "venue": "IEEE Internet of Things Journal",
+  "doi": "10.1109/jiot.2025.3543332",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 14,
+  "summary": "Blockchain-enabled Internet of Medical Things (BIoMT) has received extensive attention and in-depth research to solve the centralized, data island problems with the rapid developments of blockchain-related technologies.",
+  "relevance": "PRISMA study S094 (database); category C.4"
+ },
+ {
+  "title": "Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and Challenges",
+  "authors": "Luca Olivieri; Aradhita Mukherjee; N. Chaki; Agostino Cortesi",
+  "year": "2025",
+  "venue": "ITASEC/SERICS",
+  "doi": "",
+  "arxiv": "",
+  "topics": [
+   "pre-static-symbolic"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 2,
+  "summary": "Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and Challenges",
+  "relevance": "PRISMA study S095 (database); category D.1"
+ },
+ {
+  "title": "CrossChannel: Efficient and Scalable Cross-Chain Transactions Through Cross-and-Off-Blockchain Micropayment Channel",
+  "authors": "Xin Luo; Kaiping Xue; Qi-Bin Sun; Jun Lu",
+  "year": "2025",
+  "venue": "IEEE Transactions on Dependable and Secure Computing",
+  "doi": "10.1109/tdsc.2024.3411820",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 22,
+  "summary": "The surge in blockchain-based cryptocurrencies has created a pressing need for Cross-Chain Transaction (CCTx) solutions.",
+  "relevance": "PRISMA study S096 (database); category C.3"
+ },
+ {
+  "title": "DeCross: Toward Accountable and Efficient Cross-Chain Collaboration in IIoT",
+  "authors": "Yuchao Zhang; Xiaofeng He; Xiaotian Wang; Haiyang Wang; Ke Xu",
+  "year": "2025",
+  "venue": "IEEE Transactions on Industrial Informatics",
+  "doi": "10.1109/tii.2025.3547061",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 3,
+  "summary": "Blockchain-based industrial Internet-of-Things (IIoT) systems have seen rapid adoption and development in recent years.",
+  "relevance": "PRISMA study S097 (database); category C.2"
+ },
+ {
+  "title": "Double-Spending Attacks in Cross-Blockchain Ecosystems",
+  "authors": "Aradhita Mukherjee; Luca Olivieri; N. Chaki; Agostino Cortesi",
+  "year": "2025",
+  "venue": "Blockchain: Research and Applications",
+  "doi": "10.1016/j.bcra.2025.100378",
+  "arxiv": "",
+  "topics": [
+   "atk-protocol-level"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 5,
+  "summary": "Blockchain technology has continued to evolve rapidly in recent years.",
+  "relevance": "PRISMA study S098 (database); category B.5"
+ },
+ {
+  "title": "EC2P: Cost-Effective Cross-Chain Payments via Hubs Resisting the Abort Attack",
+  "authors": "Danlei Xiao; Shaobo Xu; Chuan Zhang; Li-Cheng Wang; Xiu-Long Liu; Liehuang Zhu",
+  "year": "2025",
+  "venue": "IEEE transactions on computers",
+  "doi": "10.1109/tc.2025.3590960",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 3,
+  "summary": "Cross-chain technology facilitates the interoperability among isolated blockchains, where users can transfer and exchange coins.",
+  "relevance": "PRISMA study S099 (database); category C.3"
+ },
+ {
+  "title": "Formal Verification of a Fail-Safe Cross-Chain Bridge",
+  "authors": "Filip Marić; Bernhard Scholz; Pavle Subotić",
+  "year": "2025",
+  "venue": "FMBC",
+  "doi": "10.4230/oasics.fmbc.2025.8",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol",
+   "pre-static-symbolic"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 4,
+  "summary": "Formal Verification of a Fail-Safe Cross-Chain Bridge",
+  "relevance": "PRISMA study S100 (database); category D.1"
+ },
+ {
+  "title": "Hedge Funds on a Swamp: Analyzing Patterns, Vulnerabilities, and Defense Measures in Blockchain Bridges",
+  "authors": "Poupak Azad; Jiahua Xu; Yebo Feng; Preston Strowbridge; C. Akcora",
+  "year": "2025",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2507.06156",
+  "arxiv": "2507.06156",
+  "topics": [
+   "incident-measurement"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Blockchain bridges have become essential infrastructure for enabling interoperability across different blockchain networks, with more than $24B monthly bridge transaction volume.",
+  "relevance": "PRISMA study S101 (database); category B.7"
+ },
+ {
+  "title": "IvyCross: A Privacy-Preserving and Concurrency Control Framework for Blockchain Interoperability",
+  "authors": "Ming Li; Jian Weng; Jia-Si Weng; Yi Li; Yongdong Wu; Dingcheng Li; Guowen Xu; Rebert H. Deng",
+  "year": "2025",
+  "venue": "IEEE Transactions on Mobile Computing",
+  "doi": "10.1109/tmc.2025.3562875",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 17,
+  "summary": "Interoperability is a fundamental challenge for long-envisioned blockchain applications.",
+  "relevance": "PRISMA study S102 (database); category C.4"
+ },
+ {
+  "title": "Looking for Anomalies in Cross-Chain Bridges",
+  "authors": "André Augusto; Rafael Belchior; Jonas Pfannschmidt; André Vasconcelos; Miguel Correia",
+  "year": "2025",
+  "venue": "2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S)",
+  "doi": "10.1109/dsn-s65789.2025.00025",
+  "arxiv": "",
+  "topics": [
+   "rt-graph-ml"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "In recent years, there has been a growing adoption of blockchain interoperability solutions and cross-chain protocols [1] , [5] .",
+  "relevance": "PRISMA study S103 (database); category E.2"
+ },
+ {
+  "title": "Multi-Authority Attribute-Based Encryption Scheme With Access Delegation for Cross Blockchain Data Sharing",
+  "authors": "Peng-Fei Duan; Zhao-Feng Ma; Hongmin Gao; Tian Tian; Yuqing Zhang",
+  "year": "2025",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "doi": "10.1109/tifs.2024.3515812",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 29,
+  "summary": "To achieve fine-grained access control and address the data silos challenge in data sharing, the integration of blockchain with attribute-based encryption emerges as a promising solution.",
+  "relevance": "PRISMA study S104 (database); category C.4"
+ },
+ {
+  "title": "Optimized Cross-Chain Transactions With Aggregated Zero-Knowledge Proofs: Enhancing Efficiency and Security",
+  "authors": "Xiao-Xuan Hu; Xiang Chen; Zhenjiang Dong; Yanfei Sun; Yufeng Guo; Bing-Yi Fang; Jin Qi",
+  "year": "2025",
+  "venue": "IEEE Internet of Things Journal",
+  "doi": "10.1109/jiot.2024.3516036",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 7,
+  "summary": "With the rapid development of the blockchain industry and the widespread adoption of IoT devices, which are often deployed on different blockchains, the need for cross-chain value and data exchange has become increasingly important.",
+  "relevance": "PRISMA study S105 (database); category C.1"
+ },
+ {
+  "title": "P2C2T: Preserving the Privacy of Cross-Chain Transfer",
+  "authors": "Panpan Han; Zheng Yan; Laurence T. Yang; Elisa Bertino",
+  "year": "2025",
+  "venue": "IEEE Symposium on Security and Privacy",
+  "doi": "10.1109/sp61157.2025.00051",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 12,
+  "summary": "Blockchain-enabled digital currency systems have typically operated in isolation, lacking necessary mechanisms for seamless interconnection.",
+  "relevance": "PRISMA study S106 (database); category C.4"
+ },
+ {
+  "title": "Pace: Privacy-Preserving and Atomic Cross-chain Swaps for Cryptocurrency Exchanges",
+  "authors": "Jianhuan Wang; Bin Xiao",
+  "year": "2025",
+  "venue": "ACM Asia Conference on Computer and Communications Security",
+  "doi": "10.1145/3708821.3736211",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol",
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 2,
+  "summary": "Cryptocurrency exchanges serve as critical infrastructure within the blockchain ecosystem, providing traders with accessible platforms for exchanging cryptocurrencies across a vast blockchain network.",
+  "relevance": "PRISMA study S107 (database); category C.3"
+ },
+ {
+  "title": "Phantom Events: Demystifying the Issues of Log Forgery in Blockchain",
+  "authors": "Yi-Xuan Liu; Yu-Xin Dong; Ye Liu; Xia-Pu Luo; Yi Li",
+  "year": "2025",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2502.13513",
+  "arxiv": "2502.13513",
+  "topics": [
+   "atk-verification-flaw"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 5,
+  "summary": "With the rapid development of blockchain technology, transaction logs play a central role in various applications, including decentralized exchanges, wallets, cross-chain bridges, and other third-party services.",
+  "relevance": "PRISMA study S108 (database); category B.2"
+ },
+ {
+  "title": "Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks",
+  "authors": "Xiaohui Hu; Hang Feng; Pengcheng Xia; Gareth Tyson; Lei Wu; Ya-Jin Zhou; Haoyu Wang",
+  "year": "2025",
+  "venue": "Measurement and Modeling of Computer Systems",
+  "doi": "10.1145/3744970.3727306",
+  "arxiv": "",
+  "topics": [
+   "incident-measurement"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "The Web3 ecosystem is increasingly evolving to include multiple chains, with decentralized applications (dApps) distributed across different blockchains.",
+  "relevance": "PRISMA study S109 (database); category B.7"
+ },
+ {
+  "title": "Privacy-preserving cross-chain asset transfers using notary schemes and zero-knowledge proofs",
+  "authors": "Xiaohua Wu; Tingbo Zhang; Lei Chen; Zirui Wang",
+  "year": "2025",
+  "venue": "Cluster Computing",
+  "doi": "10.1007/s10586-024-05039-5",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth",
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 4,
+  "summary": "Privacy-preserving cross-chain asset transfers using notary schemes and zero-knowledge proofs",
+  "relevance": "PRISMA study S110 (database); category C.4"
+ },
+ {
+  "title": "Secure and Efficient Data Interoperability Protocols for Multi-Blockchains Systems",
+  "authors": "Teng Yu; F. Luo; G. Ranzi; Jian-Zhong Wu",
+  "year": "2025",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "doi": "10.1109/tifs.2025.3615418",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "The proliferation of decentralized applications across different autonomous blockchains raises the need to enable cross-chain data interoperability (CCDI).",
+  "relevance": "PRISMA study S111 (database); category C.2"
+ },
+ {
+  "title": "Secure cross-chain interactions: a relay chain framework with privacy and auditability solutions",
+  "authors": "Libo Feng; Peng Wu; Kai Hu; Shaowen Yao",
+  "year": "2025",
+  "venue": "Cluster Computing",
+  "doi": "10.1007/s10586-025-05490-y",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 2,
+  "summary": "Secure cross-chain interactions: a relay chain framework with privacy and auditability solutions",
+  "relevance": "PRISMA study S112 (database); category C.4"
+ },
+ {
+  "title": "SightCVC: An Efficient and Compatible Multi-Chain Transaction Protocol in Heterogeneous Blockchain Systems",
+  "authors": "Haonan Yang; Tian-Wei Zhang; Zuo-Bing Ying; Runjie Yang; Wanlei Zhou",
+  "year": "2025",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "doi": "10.1109/tifs.2025.3607247",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 3,
+  "summary": "With the popularity of cross-chain transactions in heterogeneous blockchain systems, scalability has become a critical challenge.",
+  "relevance": "PRISMA study S113 (database); category C.3"
+ },
+ {
+  "title": "SoK: A Review of Cross-Chain Bridge Hacks in 2023",
+  "authors": "Nikita Belenkov; Valerian Callens; A. Murashkin; Kacper Bak; Martin Derka; Jan Gorzny; Sung-Shine Lee",
+  "year": "2025",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2501.03423",
+  "arxiv": "2501.03423",
+  "topics": [
+   "sok-bridge-security",
+   "incident-measurement"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": 23,
+  "summary": "Blockchain technology has revolutionized industries by enabling secure and decentralized transactions.",
+  "relevance": "PRISMA study S114 (database); category A.1"
+ },
+ {
+  "title": "The Walls Have Ears: Unveiling Cross-Chain Sandwich Attacks in DeFi",
+  "authors": "Chuanlei Li; Zhicheng Sun; Jing Xin Yuu; Xue-Chao Wang",
+  "year": "2025",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2511.15245",
+  "arxiv": "2511.15245",
+  "topics": [
+   "atk-economic-user"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "Cross-chain interoperability is a core component of modern blockchain infrastructure, enabling seamless asset transfers and composable applications across multiple blockchain ecosystems.",
+  "relevance": "PRISMA study S115 (database); category B.6"
+ },
+ {
+  "title": "Towards Efficient Consistency Auditing of Dynamic Data in Cross-Chain Interaction",
+  "authors": "Jiajia Jiang; Yushu Zhang; Jiahao Zhao; Long-Xiang Gao; Lie-Huang Zhu; Zhi-Hong Tian",
+  "year": "2025",
+  "venue": "IEEE Transactions on Dependable and Secure Computing",
+  "doi": "10.1109/tdsc.2025.3532320",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 8,
+  "summary": "As blockchain technology matures and its adoption grows across multiple industries, there is a growing need to make the data stored on blockchains adaptable to prevent misuse.",
+  "relevance": "PRISMA study S116 (database); category C.2"
+ },
+ {
+  "title": "Tracing Cross-chain Transactions between EVM-based Blockchains: An Analysis of Ethereum-Polygon Bridges",
+  "authors": "Tao Yan; Chuanshan Huang; C. Tessone",
+  "year": "2025",
+  "venue": "Ledger",
+  "doi": "10.48550/arxiv.2504.15449",
+  "arxiv": "2504.15449",
+  "topics": [
+   "incident-measurement"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 15,
+  "summary": "Ethereum’s scalability has been a major concern due to its limited transaction throughput and high fees.",
+  "relevance": "PRISMA study S117 (database); category B.7"
+ },
+ {
+  "title": "Track and Trace: Automatically Uncovering Cross-Chain Transactions in the Multi-Blockchain Ecosystems",
+  "authors": "Dan-yan Lin; Zi-Ye Zheng; Jia-Jing Wu; Jingjing Yang; Kai-Xuan Lin; Huan Xiao; Bo-Wen Song; Zi-Bin Zheng",
+  "year": "2025",
+  "venue": "IEEE Transactions on Services Computing",
+  "doi": "10.1109/tsc.2025.3618729",
+  "arxiv": "2504.01822",
+  "topics": [
+   "rt-graph-ml",
+   "resp-mitigation"
+  ],
+  "type": "system",
+  "novelty": "sota",
+  "citations": 14,
+  "summary": "Cross-chain technology enables seamless asset transfer and message-passing within decentralized finance (DeFi) ecosystems, facilitating multi-chain coexistence in the current blockchain environment.",
+  "relevance": "PRISMA study S118 (database); category E.2"
+ },
+ {
+  "title": "Trustless Bridges via Random Sampling Light Clients",
+  "authors": "B. Bhatt; Fatemeh Shirazi; Alistair Stewart",
+  "year": "2025",
+  "venue": "IACR Cryptology ePrint Archive",
+  "doi": "10.4230/lipics.aft.2025.31",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 2,
+  "summary": "The increasing number of blockchain projects introduced annually has led to a pressing need for secure and efficient interoperability solutions.",
+  "relevance": "PRISMA study S119 (database); category C.1"
+ },
+ {
+  "title": "VeriBridge: Real-Time Cross-Chain Bridge Attack Detection through Static-Informed Graph Anomaly Learning",
+  "authors": "Tuan-Dung Tran; Dinh-Khang Nguyen; Q. Do; Van-Hau Pham",
+  "year": "2025",
+  "venue": "2025 2nd International Conference On Cryptography And Information Security (VCRIS)",
+  "doi": "10.1109/vcris68011.2025.11250562",
+  "arxiv": "",
+  "topics": [
+   "rt-graph-ml"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "Cross-chain bridges, while critical for interoperability in the Web3 ecosystem, have become a primary target for exploits, accounting for over $4.3 billion in losses—nearly 40% of all value stolen in recent years.",
+  "relevance": "PRISMA study S120 (database); category E.2"
+ },
+ {
+  "title": "Warning! The Timeout T Cannot Protect You From Losing Coins: PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps",
+  "authors": "Peifang Ni; Anqi Tian; Jing Xu",
+  "year": "2025",
+  "venue": "IEEE Symposium on Security and Privacy",
+  "doi": "10.1109/sp61157.2025.00245",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 6,
+  "summary": "Atomic cross-chain swaps mitigate the interoper-ability challenges faced by current cryptocurrencies, thereby facilitating inter-currency exchange and trading between the distrusting users.",
+  "relevance": "PRISMA study S121 (database); category C.3"
+ },
+ {
+  "title": "Who Constitute the VASPs in DeFi? A Case Study on Money Laundering via Cross-Chain Bridge from the 2022 Harmony Hack",
+  "authors": "Yu-Yun Ma",
+  "year": "2025",
+  "venue": "Journal of Economic Criminology",
+  "doi": "10.1016/j.jeconc.2025.100131",
+  "arxiv": "",
+  "topics": [
+   "atk-economic-user"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 3,
+  "summary": "Who Constitute the VASPs in DeFi? A Case Study on Money Laundering via Cross-Chain Bridge from the 2022 Harmony Hack",
+  "relevance": "PRISMA study S122 (database); category B.6"
+ },
+ {
+  "title": "Wormhole Cross-Chain Bridge Transactions Flow: An Exploratory Study",
+  "authors": "B. Pillai; J. S. Tharani; V. Muthukkumarasamy",
+  "year": "2025",
+  "venue": "International Conference on Blockchain",
+  "doi": "10.1109/icbc64466.2025.11185063",
+  "arxiv": "",
+  "topics": [
+   "incident-measurement"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 3,
+  "summary": "Cross-chain bridges are essential for enabling interoperability between diverse blockchain networks.",
+  "relevance": "PRISMA study S123 (database); category B.7"
+ },
+ {
+  "title": "XChainDataGen: A Cross-Chain Dataset Generation Framework",
+  "authors": "André Augusto; André Vasconcelos; Miguel Correia; Luyao Zhang",
+  "year": "2025",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2503.13637",
+  "arxiv": "2503.13637",
+  "topics": [
+   "data-benchmark"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 18,
+  "summary": "The number of blockchain interoperability protocols for transferring data and assets between blockchains has grown significantly.",
+  "relevance": "PRISMA study S124 (database); category F.2"
+ },
+ {
+  "title": "$2B Lessons: Brigade as a Defense Against Real-World DeFi Bridge Exploits",
+  "authors": "Pascal Winkler; Jens-Rene Giesen; Oussama Draissi; Federico Badaloni; Sebastian Holler; Clara Schneidewind; Lucas Davi",
+  "year": "2026",
+  "venue": "Lecture notes in computer science",
+  "doi": "10.1007/978-3-032-32575-4_16",
+  "arxiv": "",
+  "topics": [
+   "rt-rule-invariant",
+   "resp-mitigation"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "$2B Lessons: Brigade as a Defense Against Real-World DeFi Bridge Exploits",
+  "relevance": "PRISMA study S125 (database); category E.1"
+ },
+ {
+  "title": "A Verifiable Privacy-Preserving Cross-Chain Protocol for Trusted Vehicle Edge Computing",
+  "authors": "Xiangyun Tang; Lidu Lou; Ruiqi Peng; Tao Zhang; Zheng Liu; Zhi-Quan Liu; Jiawen Kang; Zhu Han",
+  "year": "2026",
+  "venue": "IEEE Transactions on Vehicular Technology",
+  "doi": "10.1109/tvt.2025.3625439",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 7,
+  "summary": "Vehicle Edge Computing (VEC) has emerged as a crucial element in modern vehicular computing systems, enhancing data processing efficiency between vehicles and nearby infrastructure, reducing latency, and improving the overall performance of intelligent transportation systems.",
+  "relevance": "PRISMA study S126 (database); category C.4"
+ },
+ {
+  "title": "Anomaly Detection in Cross-Chain Bridges: A Data Analytics Study",
+  "authors": "Babu Pillai; Aravinda S. Rao; Vallipuram Muthukkumarasamy",
+  "year": "2026",
+  "venue": "Communications in computer and information science",
+  "doi": "10.1007/978-981-95-9230-2_3",
+  "arxiv": "",
+  "topics": [
+   "rt-graph-ml"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Anomaly Detection in Cross-Chain Bridges: A Data Analytics Study",
+  "relevance": "PRISMA study S127 (database); category E.2"
+ },
+ {
+  "title": "CCPP: Cross-Chain Privacy-Preserving for CCLS With Lattice-Based Ring Signature",
+  "authors": "Yang Zhang; Yu Tang; Chao-Yang Li; Mian-Xiong Dong; Min Huang; Hua Zhang; K. Ota",
+  "year": "2026",
+  "venue": "IEEE Internet of Things Journal",
+  "doi": "10.1109/jiot.2026.3652166",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "Cold chain logistics systems (CCLSs) require the secure, efficient, and fresh management of cold products.",
+  "relevance": "PRISMA study S128 (database); category C.4"
+ },
+ {
+  "title": "CR2P:Collaborative regulatory privacy protection scheme in cross-chain-based anonymous payments",
+  "authors": "Xiaoxue Liu; Yixuan Hou; Jiaqi Niu; Yaling Zhang; Yue Wang; Xinhong Hei",
+  "year": "2026",
+  "venue": "Computer Networks",
+  "doi": "10.1016/j.comnet.2026.112450",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "CR2P:Collaborative regulatory privacy protection scheme in cross-chain-based anonymous payments",
+  "relevance": "PRISMA study S129 (database); category C.4"
+ },
+ {
+  "title": "Contagion in Decentralized Infrastructure: How Cross-Chain Bridge Exploits Propagate Failure Across the Blockchain Ecosystem",
+  "authors": "Kristin Errett",
+  "year": "2026",
+  "venue": "Journal of the Association for Information Systems",
+  "doi": "",
+  "arxiv": "",
+  "topics": [
+   "atk-economic-user",
+   "incident-measurement"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Cross-chain bridges connect independent blockchains and carry the asset flows that make decentralized finance possible.",
+  "relevance": "PRISMA study S130 (database); category B.6"
+ },
+ {
+  "title": "Cross-Chain Arbitrage: The Next Frontier of MEV in Decentralized Finance",
+  "authors": "B. Öz; Christof Ferreira Torres; Christoph Schlegel; Bruno Mazorra; Jonas Gebele; Filip Rezabek; Florian Matthes",
+  "year": "2026",
+  "venue": "Measurement and Modeling of Computer Systems",
+  "doi": "10.1145/3801489.3806898",
+  "arxiv": "",
+  "topics": [
+   "atk-economic-user"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "Decentralized finance (DeFi) markets are fragmented across block-chains, creating price differences that arbitrage helps eliminate.",
+  "relevance": "PRISMA study S131 (database); category B.6"
+ },
+ {
+  "title": "Cross-Chain Laundering Tracer: Activity Tracking Methodology for Cryptocurrency Laundering",
+  "authors": "Yangtian Mi; Guang Li; Litong Sun; Jingjing Zhang; Weigang Wu",
+  "year": "2026",
+  "venue": "Communications in computer and information science",
+  "doi": "10.1007/978-981-92-2973-4_15",
+  "arxiv": "",
+  "topics": [
+   "resp-mitigation"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Cross-Chain Laundering Tracer: Activity Tracking Methodology for Cryptocurrency Laundering",
+  "relevance": "PRISMA study S132 (database); category F.1"
+ },
+ {
+  "title": "Cross-chain identity privacy protection scheme based on oblivious transfer protocol and key agreement",
+  "authors": "Yuli Wang; Zhichao Cai; Bin Ma; Pei Zhang; Yi-Xiang Wang",
+  "year": "2026",
+  "venue": "Information Sciences",
+  "doi": "10.1016/j.ins.2026.123332",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Cross-chain identity privacy protection scheme based on oblivious transfer protocol and key agreement",
+  "relevance": "PRISMA study S133 (database); category C.4"
+ },
+ {
+  "title": "CrossGuard: a multi-modal few-shot learning framework for detecting cross-chain smart contract vulnerabilities",
+  "authors": "Tuan-Dung Tran; Khoi Le Quoc; Van-Hau Pham",
+  "year": "2026",
+  "venue": "Cluster Computing",
+  "doi": "10.1007/s10586-026-06298-0",
+  "arxiv": "",
+  "topics": [
+   "pre-ml-llm-audit"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "CrossGuard: a multi-modal few-shot learning framework for detecting cross-chain smart contract vulnerabilities",
+  "relevance": "PRISMA study S134 (database); category D.3"
+ },
+ {
+  "title": "Detecting Sybil Attacks in Cross-Chain Transactions: A Multi-Stage Framework",
+  "authors": "Chenxiang Xie; Hai-Feng Qian; Zhiqiang Sun",
+  "year": "2026",
+  "venue": "International Conference on Computer Supported Cooperative Work in Design",
+  "doi": "10.1109/cscwd68734.2026.11582050",
+  "arxiv": "",
+  "topics": [
+   "rt-graph-ml"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Blockchain systems allow individuals to freely create wallet addresses, which provides opportunities for malicious actors to exploit incentives.",
+  "relevance": "PRISMA study S135 (database); category E.2"
+ },
+ {
+  "title": "EquiLink Bridge: A Semi-Custodial Approach to Cross-Chain Transactions via TEE",
+  "authors": "Tingda Shen; Yebo Feng; Jin Dong; Kong-Lin Zhu; Lei Jiao; Lin Zhang",
+  "year": "2026",
+  "venue": "IEEE Transactions on Services Computing",
+  "doi": "10.1109/tsc.2026.3691985",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "The rising demand for blockchain interoperability is accelerating advancements in cross-chain bridge technologies, which are crucial for a seamless information transfer in multi-blockchain ecosystems.",
+  "relevance": "PRISMA study S136 (database); category C.2"
+ },
+ {
+  "title": "EventSpec: Defining and Detecting Event-Semantic Issues in Blockchain Ecosystems",
+  "authors": "Yixuan Liu; Yuxin Dong; Ye Liu; Yin Wu; Chengxuan Zhang; Xiapu Luo; Yi Li",
+  "year": "2026",
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2609.07865",
+  "topics": [
+   "pre-static-symbolic",
+   "atk-verification-flaw"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": null,
+  "summary": "In recent years, smart contracts have become the backbone of decentralized applications (DApps), and off-chain systems such as bridges, wallets, and indexers rely heavily on event logs to track contract execution and state changes.",
+  "relevance": "PRISMA study S137 (database); category D.1"
+ },
+ {
+  "title": "Evolutionary soft computing for interpretable exploit generation in cross-chain bridges",
+  "authors": "Tuan-Dung Tran; Phuc-Huynh Bui; Van-Hau Pham",
+  "year": "2026",
+  "venue": "Applied Soft Computing",
+  "doi": "10.1016/j.asoc.2026.116561",
+  "arxiv": "",
+  "topics": [
+   "pre-fuzzing-testing"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Evolutionary soft computing for interpretable exploit generation in cross-chain bridges",
+  "relevance": "PRISMA study S138 (database); category D.2"
+ },
+ {
+  "title": "Exploiting Liquidity Exhaustion Attacks in Intent-Based Cross-Chain Bridges",
+  "authors": "André Augusto; Christof Ferreira Torres; André Vasconcelos; Miguel Correia",
+  "year": "2026",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2602.17805",
+  "arxiv": "2602.17805",
+  "topics": [
+   "atk-economic-user",
+   "atk-offchain-relay"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 3,
+  "summary": "Intent-based cross-chain bridges have emerged as an alternative to traditional interoperability protocols by allowing off-chain entities (\\emph{solvers}) to immediately fulfill users'orders by fronting their own liquidity.",
+  "relevance": "PRISMA study S139 (database); category B.6"
+ },
+ {
+  "title": "Fuzzing Cross-Chain Vulnerabilities with BridgeFuzz",
+  "authors": "Pascal Winkler; C. Scholz; Jens-Rene Giesen; Noah Kappert; Lucas Davi",
+  "year": "2026",
+  "venue": "European Workshop on System Security",
+  "doi": "10.1145/3803525.3804980",
+  "arxiv": "",
+  "topics": [
+   "pre-fuzzing-testing"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "Cross-chain bridges are critical for decentralized finance (DeFi) to enable asset interoperability across heterogeneous blockchains.",
+  "relevance": "PRISMA study S140 (database); category D.2"
+ },
+ {
+  "title": "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps",
+  "authors": "Dong-Kun Hou; Yuanzhe Zhang; Shu-Jie Cui; Tsz-Hon Yuen; Joseph K. Liu; Jiangshan Yu",
+  "year": "2026",
+  "venue": "IEEE International Conference on Distributed Computing Systems",
+  "doi": "10.1109/2575-8411.2026.00119",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Universal multi-party swaps were proposed for secure cross-chain cryptocurrency exchanges across multiple blockchains that require only signature verification from the underlying blockchains.",
+  "relevance": "PRISMA study S141 (database); category C.3"
+ },
+ {
+  "title": "Hybrid Relay Architecture: A Decentralized and Semantically-Agnostic Interoperability Framework for Blockchain",
+  "authors": "Liyuan Ma; Sheng Chen; Yiran Lv; Bo-Yue Luan; Xiu-Long Liu; Ke-Qiu Li",
+  "year": "2026",
+  "venue": "IEEE transactions on computers",
+  "doi": "10.1109/tc.2026.3699633",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "The rapidly expanding blockchain ecosystem faces a critical interoperability crisis—evidenced by siloed total value locked and bridge losses.",
+  "relevance": "PRISMA study S142 (database); category C.2"
+ },
+ {
+  "title": "IntentFuzz: A Protocol-Aware Fuzzer for Automated Invariant Violation Detection in Intent-Based Cross-Chain Bridges",
+  "authors": "André Augusto; Christof Ferreira Torres; André Vasconcelos; Miguel Correia",
+  "year": "2026",
+  "venue": "arXiv (Cornell University)",
+  "doi": "10.48550/arxiv.2609.13004",
+  "arxiv": "2609.13004",
+  "topics": [
+   "pre-fuzzing-testing"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Cross-chain bridges move value between blockchains.",
+  "relevance": "PRISMA study S143 (database); category D.2"
+ },
+ {
+  "title": "LTRAS: A Linkable Threshold Ring Adaptor Signature Scheme for Efficient and Private Cross-Chain Transactions",
+  "authors": "Yi Liang; Jinguang Han",
+  "year": "2026",
+  "venue": "Journal of systems architecture",
+  "doi": "10.48550/arxiv.2602.05431",
+  "arxiv": "2602.05431",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Despite the advantages of decentralization and immutability, blockchain technology faces significant scalability and throughput limitations, which has prompted the exploration of off-chain solutions like payment channels.",
+  "relevance": "PRISMA study S144 (database); category C.4"
+ },
+ {
+  "title": "Layer 0 and Layer 1 Integrated Smart Contract Kill Switch for Cross-Chain Security in Decentralized Systems",
+  "authors": "Soonhong Kwon; Wooyoung Son; Jong-Hyouk Lee",
+  "year": "2026",
+  "venue": "IEEE Internet of Things Journal",
+  "doi": "10.1109/jiot.2026.3686857",
+  "arxiv": "",
+  "topics": [
+   "resp-mitigation"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "The revised EU Data Act requires the incorporation of smart contract kill switch (KS) mechanisms.",
+  "relevance": "PRISMA study S145 (database); category F.1"
+ },
+ {
+  "title": "Mercury: Practical Cross-Chain Exchange via Trusted Hardware",
+  "authors": "Xiao-Qing Wen; Quanbi Feng; Jian-Yu Niu; Yin-Qian Zhang; Chen Feng",
+  "year": "2026",
+  "venue": "IEEE Transactions on Dependable and Secure Computing",
+  "doi": "10.1109/tdsc.2025.3630656",
+  "arxiv": "",
+  "topics": [
+   "def-threshold-committee"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 5,
+  "summary": "The proliferation of blockchain-backed cryptocurrencies has sparked the need for cross-chain exchanges of diverse digital assets.",
+  "relevance": "PRISMA study S146 (database); category C.2"
+ },
+ {
+  "title": "Mind the Gap: Liquidity Poisoning Attacks on Multihop Cross-Chain Arbitrage",
+  "authors": "Prerna Arote",
+  "year": "2026",
+  "venue": "",
+  "doi": "10.1109/icbc67748.2026.11575511",
+  "arxiv": "",
+  "topics": [
+   "atk-economic-user"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Cross-chain bridges enhance DeFi liquidity but introduce temporal gaps that expose multihop sequence-dependent arbitrage (SDA) to adversarial manipulation.",
+  "relevance": "PRISMA study S147 (database); category B.6"
+ },
+ {
+  "title": "PoVIChain: Lightweight and verifiable cross-chain interoperability for heterogeneous edge networks",
+  "authors": "Tuan-Dung Tran; Tam Truong Ha Huy; Van-Hau Pham",
+  "year": "2026",
+  "venue": "Internet of Things",
+  "doi": "10.1016/j.iot.2026.101917",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "PoVIChain: Lightweight and verifiable cross-chain interoperability for heterogeneous edge networks",
+  "relevance": "PRISMA study S148 (database); category C.1"
+ },
+ {
+  "title": "Proof of Repute Consensus (PoRC): A decentralized approach to blockchain interoperability",
+  "authors": "Sandeep Srivastava; Deepshikha Agarwal; B. Chaurasia",
+  "year": "2026",
+  "venue": "Peer-to-Peer Networking and Applications",
+  "doi": "10.1007/s12083-026-02206-w",
+  "arxiv": "",
+  "topics": [
+   "rt-trust-reputation"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": 2,
+  "summary": "Blockchain networks often face isolation and scalability challenges, particularly when interacting across heterogeneous consensus protocols.",
+  "relevance": "PRISMA study S149 (database); category E.3"
+ },
+ {
+  "title": "SLAC-IB: a secure and scalable service-level access control framework for interoperable blockchains",
+  "authors": "Rudra Krishnasrija; D. Yogesh; A. K. Mandal; Raju Halder",
+  "year": "2026",
+  "venue": "Cluster Computing",
+  "doi": "10.1007/s10586-026-06408-y",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "SLAC-IB: a secure and scalable service-level access control framework for interoperable blockchains",
+  "relevance": "PRISMA study S150 (database); category C.4"
+ },
+ {
+  "title": "Scriptless Atomic Swap With Batch Processing",
+  "authors": "Menghao Wang; Hao-Tian Deng; Meng-Xuan Liu; Meng Li; Chuan Zhang; Li-Cheng Wang; Lie-Huang Zhu",
+  "year": "2026",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "doi": "10.1109/tifs.2026.3707794",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Cross-chain interoperability breaks down information silos between blockchains and enables the interconnection of blockchain systems.",
+  "relevance": "PRISMA study S151 (database); category C.3"
+ },
+ {
+  "title": "Securing hashed timelock cross-chain protocol with trusted middleman in blockchain networks",
+  "authors": "Wenhua Huang; Yuwei Deng; Jingyu Feng; Gang Han; Wenbo Zhang",
+  "year": "2026",
+  "venue": "Computer Standards & Interfaces",
+  "doi": "10.1016/j.csi.2026.104129",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "Securing hashed timelock cross-chain protocol with trusted middleman in blockchain networks",
+  "relevance": "PRISMA study S152 (database); category C.3"
+ },
+ {
+  "title": "ShiftHub: Enabling Atomic, Unlinkable, and Practical m~1 Cross-Chain Transfer",
+  "authors": "Panpan Han; Zheng Yan; Zhiqiang Xu; Laurance T. Yang; Elisa Bertino",
+  "year": "2026",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "doi": "10.1109/tifs.2026.3670535",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Cross-chain transfer significantly enhances asset management among multiple blockchains.",
+  "relevance": "PRISMA study S153 (database); category C.4"
+ },
+ {
+  "title": "Signals and Spoils: Speculative Oracle Extractable Value in the Era of Cross-Chain Interoperability",
+  "authors": "Hasret Ozan Sevim; Christof Ferreira Torres",
+  "year": "2026",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2606.03434",
+  "arxiv": "2606.03434",
+  "topics": [
+   "atk-economic-user",
+   "atk-offchain-relay"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "A new form of Maximal Extractable Value (MEV), termed speculative MEV, has emerged across Layer-2 blockchains.",
+  "relevance": "PRISMA study S154 (database); category B.6"
+ },
+ {
+  "title": "Stalled Cross-chain Transactions: Scale, Impacts, and Causes",
+  "authors": "Wen-Long Zhang; Ya-Jin Zhou; Lei Wu",
+  "year": "2026",
+  "venue": "Proceedings of the 2026 ACM Internet Measurement Conference",
+  "doi": "10.1145/3777912.3839782",
+  "arxiv": "",
+  "topics": [
+   "atk-offchain-relay",
+   "incident-measurement"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Cross-chain bridges are critical for asset mobility across fragmented blockchain ecosystems and the backbone of multi-chain DeFi.",
+  "relevance": "PRISMA study S155 (database); category B.4"
+ },
+ {
+  "title": "The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences",
+  "authors": "Yiyue Cao; Ming-Zhe Zheng; Lin William Cong; Si-Guang Li; Xuechao Wang",
+  "year": "2026",
+  "venue": "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
+  "doi": "10.1145/3805650",
+  "arxiv": "2604.03083",
+  "topics": [
+   "incident-measurement",
+   "atk-economic-user"
+  ],
+  "type": "empirical",
+  "novelty": "complementary",
+  "citations": 8,
+  "summary": "Modern blockchain ecosystems consist of many heterogeneous networks, creating an essential need for interoperability that allows assets to move seamlessly across chains.",
+  "relevance": "PRISMA study S156 (database); category B.7"
+ },
+ {
+  "title": "Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis",
+  "authors": "Hao Wu; Hai-Jun Wang; Shangwang Li; Yin Wu; Ming Fan; Ting Liu; Xia-Pu Luo",
+  "year": "2026",
+  "venue": "arXiv.org",
+  "doi": "10.48550/arxiv.2607.18869",
+  "arxiv": "2607.18869",
+  "topics": [
+   "resp-mitigation"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 1,
+  "summary": "With the rapid advancement of decentralized finance (DeFi), security incidents related to cryptocurrency have become increasingly prevalent.",
+  "relevance": "PRISMA study S157 (database); category F.1"
+ },
+ {
+  "title": "VeCroToken: An Efficient, Verifiable, and Privacy-Preserving Cross-Chain Model for Consortium Blockchains Based on zk-SNARKs",
+  "authors": "Ke Ding; Xiao-Yan Hu; Weicheng Zhou; Guang Cheng; Ruidong Li; Hua Wu",
+  "year": "2026",
+  "venue": "IEEE Transactions on Network and Service Management",
+  "doi": "10.1109/tnsm.2025.3636014",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Consortium blockchains enable secure economic applications through privacy-preserving architectures and efficient processing.",
+  "relevance": "PRISMA study S158 (database); category C.4"
+ },
+ {
+  "title": "XPCH: A Cross-Chain Payment Protocol via Connecting the Payment Channel Hubs",
+  "authors": "Yuanming Shao; Yu-Ming Feng; Weizhe Zhang; Bin Xiao; Jianhuan Wang; Ze-Jun Wang",
+  "year": "2026",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "doi": "10.1109/tifs.2026.3723196",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "Cross-chain asset transfer protocols are vital for blockchain interoperability.",
+  "relevance": "PRISMA study S159 (database); category C.3"
+ },
+ {
+  "title": "zk-HTLC: A formally verified defense against linkability attacks in trust-minimized cross-chain networks",
+  "authors": "Tuan-Dung Tran; Bao Huynh; Van-Hau Pham",
+  "year": "2026",
+  "venue": "Computer Networks",
+  "doi": "10.1016/j.comnet.2026.112780",
+  "arxiv": "",
+  "topics": [
+   "def-formal-protocol",
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": 0,
+  "summary": "zk-HTLC: A formally verified defense against linkability attacks in trust-minimized cross-chain networks",
+  "relevance": "PRISMA study S160 (database); category C.3"
+ },
+ {
+  "title": "XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets",
+  "authors": "",
+  "year": "2019",
+  "venue": "IEEE S&P",
+  "doi": "10.1109/SP.2019.00085",
+  "arxiv": "",
+  "topics": [
+   "def-lightclient-zk"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": null,
+  "summary": "XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets",
+  "relevance": "PRISMA study S161 (snowball:Zamyatin SoK); category C.1"
+ },
+ {
+  "title": "SoK: Decentralized Finance (DeFi) Attacks",
+  "authors": "",
+  "year": "2023",
+  "venue": "IEEE S&P",
+  "doi": "10.1109/SP46215.2023.10179435",
+  "arxiv": "",
+  "topics": [
+   "survey-defi-smart-contract"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": null,
+  "summary": "SoK: Decentralized Finance (DeFi) Attacks",
+  "relevance": "PRISMA study S162 (snowball:Augusto SoK); category A.3"
+ },
+ {
+  "title": "SoK: Decentralized Finance (DeFi)",
+  "authors": "",
+  "year": "2022",
+  "venue": "ACM AFT",
+  "doi": "10.1145/3558535.3559780",
+  "arxiv": "",
+  "topics": [
+   "survey-defi-smart-contract"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": null,
+  "summary": "SoK: Decentralized Finance (DeFi)",
+  "relevance": "PRISMA study S163 (seed:CD3 bib); category A.3"
+ },
+ {
+  "title": "A Survey on Blockchain Interoperability: Past, Present, and Future Trends",
+  "authors": "",
+  "year": "2021",
+  "venue": "ACM Computing Surveys",
+  "doi": "10.1145/3471140",
+  "arxiv": "",
+  "topics": [
+   "survey-interoperability"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": null,
+  "summary": "A Survey on Blockchain Interoperability: Past, Present, and Future Trends",
+  "relevance": "PRISMA study S164 (seed:CD1/CD3 bib); category A.2"
+ },
+ {
+  "title": "Exploring Blockchains Interoperability: A Systematic Survey",
+  "authors": "",
+  "year": "2023",
+  "venue": "ACM Computing Surveys",
+  "doi": "10.1145/3573897",
+  "arxiv": "",
+  "topics": [
+   "survey-interoperability"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": null,
+  "summary": "Exploring Blockchains Interoperability: A Systematic Survey",
+  "relevance": "PRISMA study S165 (seed:CD1 bib); category A.2"
+ },
+ {
+  "title": "An overview on cross-chain: Mechanism, platforms, challenges and advances",
+  "authors": "",
+  "year": "2022",
+  "venue": "Computer Networks",
+  "doi": "10.1016/j.comnet.2022.109378",
+  "arxiv": "",
+  "topics": [
+   "survey-interoperability"
+  ],
+  "type": "survey",
+  "novelty": "survey",
+  "citations": null,
+  "summary": "An overview on cross-chain: Mechanism, platforms, challenges and advances",
+  "relevance": "PRISMA study S166 (seed:CD1 bib); category A.2"
+ },
+ {
+  "title": "CrossTrust-IoT: An adaptive reinforcement learning framework for cross-chain trust in resource-constrained IoT networks",
+  "authors": "",
+  "year": "2026",
+  "venue": "IEEE Internet of Things Journal",
+  "doi": "",
+  "arxiv": "",
+  "topics": [
+   "rt-trust-reputation"
+  ],
+  "type": "system",
+  "novelty": "complementary",
+  "citations": null,
+  "summary": "CrossTrust-IoT: An adaptive reinforcement learning framework for cross-chain trust in resource-constrained IoT networks",
+  "relevance": "PRISMA study S167 (seed:CD3 bib); category E.3"
+ },
+ {
+  "title": "DAVE-CC: A decentralized, access-controlled, verifiable ecosystem for cross-chain academic credential management",
+  "authors": "",
+  "year": "2025",
+  "venue": "Journal of Information Security and Applications",
+  "doi": "",
+  "arxiv": "",
+  "topics": [
+   "def-privacy-auth"
+  ],
+  "type": "method",
+  "novelty": "complementary",
+  "citations": null,
+  "summary": "DAVE-CC: A decentralized, access-controlled, verifiable ecosystem for cross-chain academic credential management",
+  "relevance": "PRISMA study S168 (seed:CD1 publications); category C.4"
+ }
+]
